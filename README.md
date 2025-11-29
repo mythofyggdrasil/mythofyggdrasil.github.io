@@ -1,27 +1,27 @@
-# mythofyggdrasil.github.io
+# Myth of Yggdrasil — Wiki (mythofyggdrasil.github.io)
 
-Site estático (GitHub Pages) com a wiki e guia do servidor privado Myth of Yggdrasil.
+Site estático com a wiki e guia do servidor privado Myth of Yggdrasil.
 
-Este repositório deve ter o nome exato `mythofyggdrasil.github.io` para publicar em https://mythofyggdrasil.github.io
+URL pública: https://mythofyggdrasil.github.io
 
-Arquivos:
-- index.html — SPA protótipo em React rodando via Babel no navegador (solução rápida).
+Descrição
+- SPA protótipo em React (rodando via Babel no navegador) com layout e conteúdo inicial.
+- Objetivo: disponibilizar rapidamente um guia para a comunidade. Futuramente migrar para um build (Vite/Jekyll) para melhorar performance e SEO.
 
-Como publicar (passo-a-passo local)
-1. No seu computador, dentro da pasta com os arquivos locais (index.html, README.md, .gitignore):
-   git init
+Como editar / publicar (rápido)
+1. Faça alterações localmente no arquivo `index.html` ou nos arquivos Markdown que adicionar.
+2. Commit e push:
    git add index.html README.md .gitignore
-   git commit -m "Initial commit: Myth of Yggdrasil wiki"
+   git commit -m "Atualiza site"
+   git push
 
-2. Adicionar remote e enviar para o GitHub (substitua pelo seu usuário):
-   git branch -M main
-   git remote add origin https://github.com/mythofyggdrasil/mythofyggdrasil.github.io.git
-   git push -u origin main
+Boas práticas
+- Separe conteúdo extenso em páginas (por exemplo: `mechanics.html`, `equipment.html`) ou migre para Jekyll/Vite para trabalhar com arquivos Markdown.
+- Crie um branch `dev` para alterações grandes e abra PRs para `main`.
 
-3. O site será publicado automaticamente em https://mythofyggdrasil.github.io (pode levar alguns minutos).
-   - Se necessário, vá em Settings → Pages e confirme que a branch `main` e root (/) está selecionada.
+Contribuindo
+- Leia o `CONTRIBUTING.md` (quando houver) para o fluxo ideal.
+- Use as templates de issues e PR para facilitar triagem.
 
-Notas:
-- Esta é uma solução rápida. Para produção eu recomendo empacotar com Vite/Build e remover os scripts de Babel/CDN do runtime.
-- Se quiser, posso ajudar a converter para Vite/React+Tailwind e adicionar CI/CD para builds.
-License: MIT
+Licença
+- MIT (arquivo LICENSE incluído no repositório).
