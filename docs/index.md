@@ -44,7 +44,7 @@ hide:
 
     [:octicons-arrow-right-24: Equipar](ranking.md)
 
--   :potion: **Consumíveis**
+-   :test_tube: **Consumíveis**
 
     ---
 
