@@ -1,13 +1,43 @@
 site_name: Myth of Yggdrasil Wiki
+site_url: https://mythofyggdrasil.com
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    primary: blue
+    accent: teal
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - content.code.copy
+
 nav:
-  - Introdução: introducao.md
-  - Diferenças e Sistema: sistema.md
-  - Novas Métricas: metricas.md
-  - Jobs e Progressão: jobs.md
-  - Omnibook: omnibook.md
-  - Itens de Cura e Sucos: cura.md
-  - Smart Cast e Automação: smart.md
-  - Cartas: cartas.md
-  - Singularidade e Encantamentos: singularidade.md
-  - Durabilidade e Refino: durabilidade.md
-  - Ranking de Equipamentos: ranking.md
+  - Início: index.md
+  - Mecânicas:
+      - Introdução: introducao.md
+      - Sistema e Diferenças: sistema.md
+      - Novas Métricas: metricas.md
+      - Omnibook: omnibook.md
+      - Smart Cast: smart.md
+  - Itens e Progressão:
+      - Cura e Sucos: cura.md
+      - Cartas: cartas.md
+      - Durabilidade: durabilidade.md
+      - Singularidade & Encantamentos: singularidade.md
+  - Personagens:
+      - Jobs e Progressão: jobs.md
+  - Fim de Jogo:
+      - Ranking de Equipamentos: ranking.md
+
+extra:
+  generator: false
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - footnotes
+  - tables
+  - admonition
+  - attr_list
+  - md_in_html
