@@ -1,35 +1,66 @@
 site_name: Myth of Yggdrasil — Wiki
 site_url: https://mythofyggdrasil.github.io
 repo_url: https://github.com/mythofyggdrasil/mythofyggdrasil.github.io
+
 theme:
   name: material
   language: pt
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - toc.follow
+    - search.suggest
+    - search.highlight
   palette:
-    primary: blue
-    accent: teal
+    - scheme: default
+      primary: blue
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Modo escuro
+    - scheme: slate
+      primary: blue
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Modo claro
 
-nav:
-  - Início: index.md
-  - Introdução: introducao.md
-  - Sistema:
-      - Sistema e Diferenças: sistema.md
-      - Novas Métricas: metricas.md
-  - Personagem:
-      - Jobs e Progressão: jobs.md
-      - Omnibook: omnibook.md
-  - Mecânicas:
-      - Cura e Sucos: cura.md
-      - Smart Cast: smart.md
-      - Cartas: cartas.md
-      - Singularidade e Encantamentos: singularidade.md
-      - Durabilidade: durabilidade.md
-  - Rankings:
-      - Ranking de Equipamentos: ranking.md
+plugins:
+  - search
 
 markdown_extensions:
   - toc:
       permalink: true
   - tables
   - admonition
-  - codehilite
-  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Início: index.md
+  - Introdução: introducao.md
+  - Sistema:
+    - Sistema e Diferenças: sistema.md
+    - Novas Métricas: metricas.md
+  - Personagem:
+    - Jobs e Progressão: jobs.md
+    - Omnibook: omnibook.md
+  - Mecânicas:
+    - Cura e Sucos: cura.md
+    - Smart Cast: smart.md
+    - Cartas: cartas.md
+    - Singularidade e Encantamentos: singularidade.md
+    - Durabilidade: durabilidade.md
+  - Rankings:
+    - Ranking de Equipamentos: ranking.md

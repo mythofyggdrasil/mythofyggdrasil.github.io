@@ -1,25 +1,42 @@
 # Introdução
 
-Introdução
-Então você caiu de paraquedas e não sabe como as coisas funcionam nesse servidor? 
+🌳 **Bem-vindo ao Myth of Yggdrasil!**
 
-Seja bem vindo!
+Então você caiu de paraquedas e não sabe como as coisas funcionam nesse servidor? Seja bem-vindo!
 
-Estou a um pouco mais de tempo, então vou te ajudar a explicar algumas coisas mais básicas sobre as modificações que temos no Myth of Yggdrasil.
+Este guia foi criado com base nas anotações do **Ozzi** para ajudar a comunidade brasileira a desbravar este novo servidor privado.
 
-Eu sou o Ozzi e vamos juntos com a comunidade Brasileira fazer um Guia sobre esse servidor!
+## 🤔 O que é o Myth of Yggdrasil?
 
-Não esqueça de ler depois as  para saber o que fazer na sua jornada.
+O Myth of Yggdrasil é um servidor privado de Ragnarok Online com várias modificações e melhorias:
 
-Se achar algo incorreto ou faltando, me chama no discord:  OzziCombo
+- **HUD e Interface renovadas**
+- **Sistema de cura por tempo** (Cooldowns em poções)
+- **Monstros agressivos em Dungeons**
+- **Refino até +20** e Sistema de Durabilidade
+- **Skills novas** (Legacy e Role)
+- **Foco em Lore e Quests**
 
+## 🎯 Primeiros Passos
 
+1. **Training Island**: Faça TODAS as quests iniciais
+2. **Job 10**: Escolha sua primeira classe
+3. **Job 15**: Visite a guilda da classe (Proof of Valor)
+4. **Use o Omnibook** (CTRL + O) para consultar tudo no jogo
 
-Índice
+## ⚠️ Dicas Importantes
 
+!!! tip "Dica de Ouro"
+    Leia os diálogos dos NPCs! O servidor é focado em Lore e Quests. Não tente rushar sem entender as mecânicas.
 
+!!! warning "Aviso"
+    Em Dungeons, TODOS os monstros são agressivos! Prepare-se adequadamente.
 
-________________________________________________________________________________
+!!! note "Lembrete"
+    Aqui, os equipamentos importam mais que o nível. Invista em bons equipamentos!
 
+---
 
+*Guia baseado nas anotações do Ozzi - Discord: OzziCombo*
 
+*Se encontrar algo incorreto ou faltando informação, contribua com a wiki!*
