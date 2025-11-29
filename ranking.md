@@ -1,0 +1,1335 @@
+# Ranking de Equipamentos
+
+Ranking de Equipamento
+Alguns equipamentos mudaram seus bônus em comparação ao jogo tradicional, por isso é tão importante usar o omnibook para dar uma olhada no que vale a pena.
+
+Também foi adicionada uma nova mecânica, que é o Ranking do Equipamento e o Level.
+
+O level é similar ao que já temos no Ragnarok convencional, com as armas de level 1, level 2, level 3 e level 4. 
+
+Mas agora temos também level para os demais equipamentos (menos Chapéus e Acessórios).
+
+Para consultar o level de seu equipamento, é só ver a descrição dele. 
+
+Já o ranking é demonstrado por estrelas na tela de informações sobre o item que você adquiriu.
+
+
+Os equipamentos podem ser de até Ranking 4, que são quatro estrelas.
+
+Ranking 0 - Sem Estrela: Equipamento básico e sem graça.
+Ranking 1 - Estrela Verde: Primeiro nível com alguns bônus
+Ranking 2 - Estrela Azul: Boa qualidade com bônus melhores
+Ranking 3 - Estrela Roxa: Qualidade superior e com bônus significantemente melhores
+Ranking 4 - Estrela Dourada: Melhor qualidade possível e com bônus incríveis
+
+Equipamentos com Ranking e Level alto possuem um papel fundamental para maximizar seu personagem, pois através deles você ganha bônus importantes que podem ajudar a fechar a sua build.
+
+Cada parte do equipamento dá um bônus diferente quando tiver Ranking e Level a cada nível de Refino.
+
+Armas: Aumenta o dano mágico e físico
+Armaduras: Aumenta o HP
+Escudos: Aumenta a defesa física
+Capas: Aumentam a defesa mágica 
+Calçados: Aumentam o SP 
+
+Vamos dar um exemplo.
+
+Uma Ninja Suit (Level 3) com Ranking 1 que está com +4 de upgrade = 720 de HP
+Uma Coat (Level 2)  com Ranking 4 que está com +4 de upgrade = 720 de HP
+Um Cotton Shirt (Level 1) com Ranking 4 que está com +8 de upgrade = 720 de HP
+
+Como todas são armaduras, elas vão te dar HP Máximo, mas o Ranking, o Refino e o Level fazem total diferença, sendo mais fácil alcançar bônus melhores com equipamentos de level maior.
+
+Ozzi: Às vezes um equipamento raro de ranking baixo com um refino médio é melhor que um equipamento medíocre com alto ranking e refino.
+
+É possível aumentar o ranking de um equipamento no NPC Tassitr, que fica na sala ao lado do ferreiro em Prontera.
+
+Para poder aumentar o Ranking, você vai precisar de Star Cluster, que você ganha quebrando minérios no NPC Tassitr ou com outros equipamentos que possuem Ranking.
+
+
+
+Existe uma lista bem interessante de itens que podem ser quebrados para gerar uma quantidade de Star Cluster, e como sei que você está curioso, eu fiz o trabalho sujo e peguei todas as informações.
+
+
+Ozzi: Lembrando que para dar refino em equipamentos você vai usar Idrik, então pode quebrar o oridecon e elunium caso não pretenda usar para forja.
+
+Existem alguns monstros que possuem uma melhor performance para você conseguir muitos Star Clusters, já que dropam dois itens com uma possibilidade mediada, mas vai depender do seu nível, então separei os quatro possíveis mobs para drop em Early, Mid Low, Mid High e End Game.
+
+
+
+Você também pode quebrar equipamentos com Ranking para conseguir Star Clusters, e a depender do nível do Ranking e do nível do equipamento, a quantidade de Star Clusters é maior conforme a tabela abaixo:
+
+
+Ou seja, é melhor você matar porings e fabres para pegar equipamentos com estrela e quebrar em Star Cluster do que precisar de 5 Cursed Ruby para no mínimo 50 Star Clusters.
+
+Voltando ao assunto, para aumentar o Ranking, você vai precisar de outro equipamento exatamente do mesmo tipo e também do mesmo ranking. 
+
+Dois equipamentos sem estrela geram um com uma estrela, dois com uma estrela geram um com duas estrelas, e assim por diante.
+
+Quanto maior o Ranking, menor a chance de conseguir melhorar o equipamento, mas você pode escolher quantos Star Cluster você quer usar na tentativa, que gradativamente aumenta a chance que você tem de dar certo o aumento do Ranking.
+
+
+
+Ao falhar você não perde o equipamento base, somente os catalisadores e o equipamento sobressalente que foi usado na tentativa de dar upgrade. 
+
+Mas há um item que pode ser feito que evita que o item sobressalente seja perdido no processo, que é o Star Hammer.
+
+Para fazer ele, você precisa de 1 Iron Hammer, 20 Star Cluster e 50 Spiritual Energy.
+
+
+Ozzi: Por isso que é tão importante dropar ou comprar equipamentos iguais, assim você consegue melhorar os seus rankings e ter um bônus melhor.
+
+
+
+
+
+Stargrade Alligament
+
+Esse processo também é feito com o NPC Tassitr, mas vale um tópico somente para ele pois a primeira vista é bem complicado.
+
+O Ranking de equipamento também concede mais um tipo de bônus para o seu personagem, que é através do Stargrade Alligament.
+
+Conforme a soma do número de estrelas de ranking de seus equipamentos, é possível adicionar bônus para para seu personagem.
+
+Temos três tipos diferentes de opção e aqui começa a loucura.
+
+
+
+Little Star: São as estrelas menores que correspondem a cada uma das estrelas que você tem em seu equipamento e pode ser adicionado pequenos bônus.
+Bit Star: É a estrela maior que desbloqueia a cada 4 estrelas do seu equipamento e que te dá um bônus bem maior que a Minos Star.
+Twinkling  Set: É um bônus que você ganha quando todos os seus equipamentos possuem estrelas do mesmo tipo.
+
+Na imagem abaixo, eu estou com três equipamentos com uma estrela e uma bota com duas estrelas, totalizando 6 Little Star, 1 Big Star e 1 Twinkling Set.
+
+
+
+Ozzi: Como estou de Arqueiro, eu coloquei minhas 6 Minor Star com DEX, minha Major Star com Recuperação de SP e minha Twinkling Star com mais destreza. Totalizando, to com um bônus de +10 de Dex só pelo ranking de equipamentos.
+
+Se todos os seus equipamentos tiverem o maior Ranking, você recebe o bônus completo no Twinkling Star.
+
+
+
+Você pode mudar estes bônus a qualquer momento, desde que pague a taxa de zeny solicitada para a alteração. 
+
+Quanto mais estrelas forem modificadas ou adicionadas, mais caro será para alterar seus bônus, como se pode ver no print, 9kk de zenny para liberar o bônus, pois isso, completar todas as estrelas deve ser considerado como uma feature end game.
+
+Ozzi: Pode parecer pouco, mas faz uma diferença enorme! Vale investir em equipamentos melhores ou dar upgrade no ranking para conseguir mais bônus.
+
+
+
+Sistema de Reforge
+E você acha que acaba por aí com todos estes sistemas para deixar seus equipamentos ainda mais fortes? Pois ainda tem mais um, que é o sistema de Reforge.
+
+De forma resumida, os players que quiserem fazer um ferreiro pure forger, tem acesso a uma skill que melhora qualquer arma, aumentando a sua eficiência e adicionando atributos muito interessantes.
+
+Os valores podem variar, mas vale esclarecer, você pode fazer apenas um reforge em uma arma, então se decida com calma, pois não tem como mudar depois.
+
+Para começar e ver as opções disponíveis, você precisa encontrar um ferreiro que esteja vendendo o serviço de reforge. 
+
+
+
+Não vou entrar aqui na explicação de build voltadas para reforge, pois parece que a dex e luk do ferreiro tem grande influência, mas vale procurar alguém com uma build voltada para isso para melhores chances de sucesso.
+
+Ao encontrar o ferreiro, você vai ter acesso a Hud que mostra os itens necessários e também quais serão os benefícios de reforçar sua arma.
+
+Mas antes de continuar, vale lembrar a boa e velha lista de itens de craft gerais para você não se perder.
+
+Hammer e Mini Furnace são vendidos no ferreiro em Geffen ou em Einbroch, não é difícil e nem tão caro, mas a quantidade de carvão que você vai precisar…..
+
+
+Ozzi: Aconselho a ficar de olho nestes itens de forja e manter eles na Kafra, mesmo que não tenha interesse de deixar sua arma mais forte, pois podem ter um bom valor de mercado para venda.
+
+
+Reforços Básicos
+São as opções mais simples e que adicionam opções mais simples para sua arma.
+
+E como você pode ter reparado, fazer armas elementais não é tão difícil, então ter uma Jamadhar flamejante ou uma espada congelante para um up mais tranquilo, não é tão complexo.
+
+Lembrando que você pode adicionar elemento em uma arma com ranking, singularidades e com slot!
+
+
+
+
+
+Reforço Intermediário
+
+Aqui a coisa vai ficar um pouco mais complicada para você ter o maior proveito do sistema de reforge, pois o refino de sua arma vai fazer diferença total.
+
+Todas as opções vão dar um valor fixo de aumento do status, que é bem baixo para falar a verdade.
+
+Mas ele dá mais bônus conforme o nível de refino de sua arma e se ela for +12, ele dará um bônus exponencial do valor básico considerando o nível de sua arma. Segue a tabela:
+
+
+Então vamos supor que você tem uma Dagger + 15, como ela é uma arma level 2, ao usar o STR core ela vai conceder
+
+STR+ 1 do valor básico do reforge
+STR+ 5 por conta de ser +15
+STR+ 4 porque a arma é level 2
+Totalizando STR + 10 na sua arma.
+
+Então você precisa entender se vale mais a pena o reforço básico ou intermediário conforme o upgrade de sua arma e o level dela. 
+
+Por curiosidade, o valor máximo seria uma arma level 4 com upgrade até + 18, que daria +23 ou 23%!!!!
+
+
+
+Regorge Avançados
+Pendente de atualização pois não achei no jogo ainda
+Ok, estas são opções muito fortes e precisam de itens extremamente difíceis.
+
+Mas as opções de upgrade serão conforme a sua arma, então não dá para colocar um upgrade de Bladed em um cajado, pois cajados não tem lâmina. O roleplay é mais ou menos esse.
+
+Então antes de mostrar os requisitos,  segue uma lista de qual equipamento se caracteriza em cada uma das opções:
+
+
+
+
+
+Ozzi: É caro, é difícil e tem chance de falha, ou seja, vamos com calma amiguinho, mas os benefícios são muito bons. Aconselho começar com armas elementais para up e só quando tiver uma arma boa pensar no reforge.
+
+
+
+
+
+Sobre os Monstros 
+Uma coisa que você vai notar é que muitos monstros tiveram seus aspectos alterados.
+
+Os leveis, os itens dropados, os lugares que ficam e até mesmo as skills que possuem são diferentes do jogo habitual, por isso usar o Omnibook é tão importante.
+
+Então se prepare para ver o Orc dando um Shield Boomerang na sua orelha ou um Esporo Venenoso fazendo um mar de veneno.
+
+Outra característica adicionada no servidor é que em dungeons, todos os monstros são agressivos!
+
+Isso mesmo, você pisa no formigueiro e vem todo mundo querendo te matar. Você entra no esgoto e é um nojo! Você vai ser mobado por Zenorcs e até por Chonchon de aço!!!
+
+Mas como compensação, você ganha 5% mais experiência de monstros que estiverem dentro de dungeons, então super vale o desafio, mesmo jogando Solo!
+
+E como se já não bastasse,  ainda temos outros monstros especiais, que são chamados de “Monstros Espirituais”.
+
+Quando você atingir o nível 20 de base, na Guilda de Exploradores você pode encontrar o NPC Monge Bo Hyou, que irá ativar uma quest para que você possa interagir com estes monstros através do caminho espiritual.
+
+
+
+A quest é simples e fácil, você vai precisar de 3 Red Blood, 3 Crystal Blue, 3 Wind of Verdure, e 3 Green Live, que podem ser dropados de várias formas ou comprar com outros jogadores.
+
+
+
+
+Depois que estiver com os itens, deixe ele no seu inventário e vá até a Abadia de Santa Capitolina. 
+
+O caminho mais fácil é saindo de Prontera a direita, subindo o mapa, entrando no portal a direita e depois novamente a direita.
+
+Nesse caminho não há nenhum monstro agressivo, somente o Choco, mas você pode desviar dele ou usar asa de mosca para chegar mais rápido.
+
+
+
+Ao chegar, procure o NPC no local indicado no Mini Mapa e faça a quest seguindo o passo a passo, que é praticamente ir em lugares específicos do mapa e sentar por alguns segundos para “meditar”.
+
+Caso esteja confuso de onde ir para meditar, eu marquei no mapa onde estão os pontos elementais.
+
+
+Depois ele vai pedir para você meditar com ele e enfrentar alguns espíritos que estão vagando pela abadia e pronto, você vai conseguir interagir com os monstros espirituais.
+
+Tá, mas o que são os monstros espirituais?
+
+Eles são versões mais fortes do que os monstros habituais e que adicionam uma camada maior de desafio em suas aventuras.
+
+Sempre que você eliminar um monstro, há uma chance de aparecer a mensagem de que um monstro espiritual apareceu
+
+A Spirit of [Nome do Monstro] Appeared
+
+Normalmente você vai encontrar vários deles vagando por aí enquanto anda pelos mapas, que é idêntico ao monstro mas com uma aura azul
+
+
+
+Vale mencionar que os monstros espirituais também são agressivos nas dungeons, então vai com cuidado campeão. 👀
+
+Os espíritos possuem quatro características, que são Fortaris, Manaris, Voltaris e Eldaris
+
+
+
+Ozzi: Monstros com uma defesa física fora da média, chatos de matar se você for uma classe melee
+
+
+
+Ozzi: Monstros com uma defesa mágica fora da média, chatos de matar se você for uma classe mágica
+
+
+
+
+Ozzi: Particularmente odeio muito esses, muita velocidade de movimento, muita velocidade de ataque e ainda uma defesa mediana. 
+
+
+
+Ozzi: O queridinho e charmoso que bate igual a coice de mula, mas que te dá muita experiência e o drop rate dele é aumentado. O ideal é eliminar ele sempre que aparecer.
+
+Todos os monstros espirituais dão mais experiência e maior chance de drop do que os monstros habituais, mas o Eldaris se sobressai nesse quesito.
+
+E realmente, já peguei algumas cartas a partir de monstros espirituais, então sempre que encontrar algum, vale a pena o desafio.
+
+Outro ponto que vale mencionar é que os Boss e Miniboss não possuem versão espiritual, mas se prepare, que até o mastering está desafiador com o rework que houveram em todos os monstros.
+
+Vocal, Toad, Eclipse, Vagabond Wolf, Dragon Fly e até o Mastering são todos Level 130!!!!
+
+
+Ozzi: Mastering usando skill Axe Tornado ahahahahahahahha
+
+Todos os Mini Boss são extremamente poderosos e precisam de uma ou duas partys para conseguir vencer, sendo um conteúdo totalmente voltado para Mid e End Game.
+
+Então, quando estiver andando pelo mapa e avistar esse símbolo de monstro elite, não se aproxime!!!
+
+
+
+
+
+
+
+Sistema de Pets
+Então você está com seus equipamentos com alto refino, singularidades legais e com um ranking alto, mas tem mais uma coisa que vai te ajudar em sua aventura, que são os pets.
+
+Esqueça os pets convencionais que só andam ao seu lado e de vez em nunca te dão um bônus medíocre que não adianta de muita coisa.
+
+Aqui os pets ajudam você a evoluir e inclusive, alguns deles são bem quebrados em seus níveis mais altos.
+
+Mas vamos começar do começo, como que eu pego um pet?
+
+Você vai precisar da ajuda do incrível Mr. Catchum (Alô Nintendo, olha o que estão fazendo!)
+
+
+
+Ele fica dentro da taverna em todas as cidades e disponibiliza duas formas de receber itens para capturar um pet.
+
+A primeira é fazendo uma quest de coletar itens referente a raça do monstro que você quer os itens de captura, o outro é trocando alguns itens que você adquire de monstros pelos itens de pet.
+
+Quanto maior o seu nível, mais itens de captura você consegue através da Coleta, mas assim, é uma coisa bem chata ficar procurando os itens nos mapas que ele designa, mas a recompensa é maior.
+
+Você pode realizar a quest de coleta a cada 24 horas, podendo receber 10, 20, 30, 40 ou 50 itens de captura a depender da dificuldade que você escolher.
+
+Mas caso opte por fazer através das trocas, segue os itens necessários para adquirir os itens de captura de cada raça.
+
+
+Ozzi: Não acho que compense você criar itens específicos para capturar monstros, a menos que você já tenha os itens sobrando. O tempo que você levaria para criar os itens, você faz a quest de coleta e recebe muito mais itens do que craftando
+
+Então você pensa que está com 10 itens de captura e que vai ser moleza pegar aquele pet que você queria. Mas não.
+
+Pets de níveis mais altos são mais difíceis do que os pets de menor nível, e mesmo os de menor nível eu gastei quase 30 itens de captura para pegar um lunático. Então pode ser um pouco frustrante caso você tenha poucos itens.
+
+Ozzi: Acredito que a taxa de sucesso de captura é em média 5% caso você tenha mais nível que o monstro, mas é uma percepção mesmo.
+
+Cada monstro possui uma “classe” que determina como ele vai atuar em sua companhia ou nas aventuras. 
+
+Acho que é meio óbvio o que cada um faz, mas vamos lá.
+
+
+Não são todos os monstros que podem ser capturados e cada monstro tem suas funcionalidades e habilidades.
+
+Cada monstro tem seu tipo, classe e três habilidades. São mais de 50 Monstros para você escolher.
+
+
+
+Ozzi: O pet lunático com heal é extremamente quebrado e remove toda a mecânica dos cooldowns de poções e comidas. Por isso eu desisti dele e usei um Peco.
+
+Você pode ter quantos monstros quiser e ir revezando entre eles, mas os pets ganham uma fração da exp do que você elimina e evoluem, então faz sentido manter um grupo seleto de pets que podem te ajudar na aventura.
+
+Todos os pets comem o mesmo alimento, que é o Pet Food que vende nas lojas de utilidades de todas as cidades principais.
+
+Você consegue ver todas as informações de seu pet e trocar o nome dele no menu, que pode ser aberto clicando com o botão direito no seu pet ou CTRL + J.
+
+
+
+Quanto maior o Friendship do seu pet, menor será o tempo para que ele utilize habilidades, sendo respectivamente 2% / 7% / 14% / 25%.
+
+O DNA representa a raridade do seu pet, que pode aleatoriamente vir com três opções, sendo o Brilhante, o com cores diferentes ou os dois, brilhante e de cor diferente.
+
+
+
+Você pode adicionar equipamentos nos seus pets que dão bônus importantes na jornada.
+
+Esses equipamentos são criados com o Mr. Catchum e precisam de um equipamento +7 para a troca, sendo uma Knife, um Mantle, um Guard e um Cotton Shirt
+
+Ozzi: Com a Backpack seu monstro vira seu autoloot, pois ele pega todos os itens que caem do chão e colocando no seu inventário. É um dos equipamentos mais úteis.
+
+
+
+
+
+
+Pet Adventure
+
+Mas você deve estar pensando, como assim tanque? Aumentar HP? Equipamento? Os pets tomam dano? 
+
+Os pets têm um outro papel importante que é de se aventurarem sozinhos por Rune Midgard!
+
+Para isso, você precisa ter pelo menos três pets e um Kit de Aventura, que vende no mesmo NPC que inicia a jornada pokemon de seus pets.
+
+Fale com o NPC Pawlsey Whisker em qualquer cidade principal para poder adquirir os itens necessários e também começar a aventura.
+
+
+
+O ideal é ter um Pet de Dano, um Pet de Tank e um Pet Suporte / Mágico, mas fica a escolha do freguês.
+
+Você precisa comprar um Kit que determina quanto tempo os seus pets vão perambular por aí e você pode adicionar um item que adiciona algum bônus na aventura, como cast menores, maior recuperação de hp ou até mesmo drop.
+
+Além de comprar os itens, você pode também dropar os bonecos de monstros que também adicionam bônus na aventura de seus pets.
+
+
+
+Também deve escolher qual é o mapa que seus pets vão desbravar e cada cidade tem uma aventura diferente e com level diferente, então não é aconselhável ficar somente em Prontera.
+
+Eu listei todas as cidades e quais são os monstros em cada uma das aventuras para você escolher.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Embora tenha Mini Boss, tem uma lenda de que eles estão desabilitados.
+
+Importante que só passa o tempo da aventura enquanto você estiver na cidade, então nada de colocar seus pets para uma jornada e ficar farmando em algum mapa enquanto espera. 
+
+Como você precisa ficar na cidade aguardando, então é basicamente um sistema AFK de recompensa.
+
+
+Quando o tempo terminar, você pegará seus pets novamente e também os itens que eles droparam.
+
+É possível ficar assistindo as aventuras de seus pets nas opções com o NPC ou no comando CTRL + P.
+
+Ozzi: Não desbravei muito a Pet Adventure pois raramente fico AFK, mas é uma mecânica interessante para farmar pequenos itens que podem ser necessários, como Scell, Cyfar, Brigam, ou itens de alquimista.
+
+
+
+
+
+Novas Skills - Legacy Skills
+
+Além de boa parte das skills terem um rework e eu super recomendo você dar uma lida com calma antes de fazer um personagem, ainda temos skills nova chamadas de “Legacy Skills” e “Skill Roles”.
+
+As Legacy Skills são habilidades exclusivas de cada classe que adicionam uma nova camada em como você pode construir e jogar com seu personagem.
+
+Elas podem ser um arqueiro fazer um acampamento para recuperar vida mais rápido, um gatuno ao roubar colocar uma bomba no inimigo ou até um noviço conseguir memorizar mais mapas para usar o portal.
+
+Para ganhar as Legacy Skills, você faz uma quest para adquirir um livro em branco onde será adicionado a nova skill para a sua classe.
+
+
+Primeira Skill Legacy: Assim que você sai do Training Island você pode ir na Guilda da sua classe para fazer a primeira quest no Job 15.
+A quest será de você responder algumas questões sobre as skills básicas de sua classe e é bem fácil.
+
+Segunda Skill Legacy: Você precisa estar no Job 27 e realizar a quest na Guilda da sua Classe.
+A quest será de você coletar alguns itens e depois entregar os itens na guilda das segunda classe que você escolheu.
+
+Terceira Skill Legacy: Você precisa estar no Job 47 e realizar a quest na Guilda da sua Classe.
+A quest será de auxiliar algum NPC em um mapa remoto a coletar uma quantidade de itens.
+
+As skills de cada classe são:
+
+
+Legacy Skills - Noviço
+
+1 - Signum Crucis ★★★
+ 
+Funciona bem parecido com a skill padrão, diminuindo a Hard Def em 40% e a Hard MDef  em 30% de monstros Demon, Undead, Shadow e Corrupt.
+A diferença entre o seu nível e o do inimigo impactam na chance de aplicar o debuff.
+
+Ozzi: Caso faça um monk ou sacerdote de batalha talvez seja interessante, pois você potencializa o seu dano contra essas raças e elementos específicos.
+
+
+
+2 - Frugality ★
+
+Diminui o SP necessário para usar as skills de Noviço, sendo uma redução específica para cada uma das skills.
+
+Ozzi: Para sacerdotes SP não chega a ser um problema e para Monk, dependendo da build, também não. Não sei se vale a pena.
+
+
+
+3 - Chapel ★★★
+ 
+Quando estiver sendo atacado por vários inimigos, aumenta o número máximo de inimigos para a perda de defesa em 2.
+
+Ozzi: Não é muito comum ver monks mobando, mas neste servidor há uma skill que faz seus combos ficarem em uma pequena área, assim como para sacerdotes de exorcismo pode ajudar no sustain.
+
+
+
+4 - Holy Enlightenment ★★★
+ 	
+Quando usar Holy Light, você ganha 20% de aumento de dano no atributo Holy por 1 segundo por cada level de Holy Light que tiver aprendido.
+
+Ozzi: Se quiser upar só no Holy Light matando demônios no geral, essa é a skill.
+
+
+
+5 - Pilgrimage ★★★★★
+ 
+Elimina o cast de Warp Portal. Adiciona o número de pontos de memorização de portais em 1 para cada level de Warp Portal. Quando virar a segunda classe (Monk ou Sacer), o número de pontos de memorização disponíveis dobra.
+
+Ozzi: Cansado de ficar andando? Quer vender Warps? Tem um grupo de amigos para jogar? Pega essa skill pelo amor de Freya!!!!
+
+
+
+6 - Prayer ★★★★
+ 
+Você passivamente ganha 10% de Cast time reduzido. Quando ativado, aumenta a cura realizada por um valor fixo considerando seu Nível Base x 2. Mas consome 3 SP por Nível a cada 3 segundos.
+
+Ozzi: Para quem for para uma build de cast, é uma ótima opção. Além da opção de ter uma cura muito maior nos níveis mais altos.
+
+
+
+
+Legacy Skills - Arqueiro
+
+1 - Overcharge Arrow ★★★★
+ 
+Aumenta a força com que você atira as flechas ao aumentar o limite do seu arco. Para cada 3 pontos em Força, ganha +1 de ATK. 
+Charge Arrow tem seu dano calculado por 8x seu STR.	
+
+Ozzi: Olha, eu não testei e não entendi muito bem a relação de STR com arqueiros. 
+Mas segundo o @Portallus, seu Bardo com 90 de STR no Nível 62, ele estava dando 6k de dano, o que é melhor que muito double strafe neste nível.
+O problema é que você tem que fazer uma build toda voltada a uma única skill.
+
+
+
+2 - Twinkle Toes ★★
+ 
+Se move de forma precisa e ágil ganhando Flee e Perfect Dodge enquanto estiver em movimento.
+Você recebe o bônus de 60 de Flee e mais 1 para cada 5 level de base de seu personagem
+Você também recebe 1 de Perfect Dodge para cada 10 leveis de base de seu personagem
+O efeito dura por 1 segundo após parar de se mover.
+
+Ozzi: Parece incrível não? Mas não acho que seja tudo isso. 
+Você precisa ficar em constante movimento para ter 1 segundo de buff? 
+Para a classe, o ideal é não ter inimigos por perto, então não faz muito sentido optar por ter flee sendo que o ideal é eliminar os inimigos antes que eles cheguem perto de você.
+A skill até pode te salvar em momento de Hit e Run ou se estiver mobando, mas não sei se vale a pena.
+
+
+
+3 - Nimble Nocking ★★
+ 
+Prepara até 5 ataques ou skills para um ataque buffado e danado. Para cada 50 base level, o número de ataques buffados aumenta em 1. 
+Os ataques ou habilidades com o bônus recebem 40% de Delay After Attack escalando com a quantidade de ataques preparados e o seu nível de base.
+Adicionalmente, o cooldown das skills são reduzidos conforme seu nível de base.
+Cada ataque bufado tem 1 segundo de Casting Time que não pode ser reduzido, mas pode ser cancelado ao se mover.
+
+Ozzi: Para você que está com preguiça de fazer conta, no nível  99 você terá 5 ataques carregados com 95% de velocidade de ataque e cooldown reduzido em 55%. 
+Não, esta skill não aumenta o ataque, somente a velocidade de ataque e cooldown, então há algumas poucas opções de benefícios.
+Um Melody Strike ou uma Falcon Assalt pode ser uma boa, já que possuem um cooldown ridiculamente alto.
+
+
+
+4 - Campfire ★★★★★
+ 
+Cria uma fogueira para pular na festa junina. Ela deixa todo mundo quentinho e confortável por uma área de 7x7.  Qualquer jogador que estiver dentro da área recebe um aumento de recuperação de HP e SP e caso estejam congelados, perdem o debuff ao longo do tempo de 6 segundos.
+O Campfire dura quase 1 minuto e meio (100 segundos) mas os inimigos podem quebrar a fogueira, que possui um HP de 10x o level base do personagem.
+A duração de comidas consumidas na fogueira são dobradas.
+
+Ozzi: Como explicado lá em cima, os itens de recuperação funcionam diferente nesse servidor, então ter uma outra forma de recuperar HP é um baita de um diferencial.
+A única questão é que a fogueira tem 30 segundos de cooldown, então precisa ser estratégico na utilização. Mas para quem joga em grupo é uma skill muito boa.
+
+
+
+5 - Nut Shot ★
+ 
+Joga uma castanha no inimigo que ricocheteia entre outros inimigos em uma área de 5x5 a cada 1 segundo. A castanha rebate até 10 vezes, onde cada acerto causa 0,5 segundos de stun. 
+O intervalo do ricochete entre os inimigos pode ser diminuído de acordo com sua dex, com o valor mínimo sendo 0,5 segundos por rebate.
+
+Ozzi: Essa skill tem um propósito de conseguir fazer um controle de mob, já que ricocheteia, mas não é tão eficiente quanto a descrição parece ser.
+Os inimigos precisam estar bem próximos para o ricochete e o tempo de stun é extremamente baixo.
+Pode até ser útil durante um cenário que você está sendo perseguido por vários monstros, mas mesmo assim, tem skills melhores e me arrependi de ter pego essa.
+
+
+6 - Retrieve Arrow ★★★★★
+ 
+Quando atacar, você tem 20% de chance da sua flecha ficar fincada no inimigo. 
+Ao ser eliminado, as flechas acumuladas são soltas e você pode pegar elas de volta.
+O máximo de flechas que podem ser acumuladas são 5 para monstros pequenos, 10 para monstros médios e 15 para monstros grandes. 
+Apenas 3 tipos diferentes de flechas podem ser acumuladas ao mesmo tempo.
+
+Ozzi: Basicamente uma forma de você não gastar tantas flechas durante o up frenético em alguma dungeon distante. 
+Não é uma skill ruim, principalmente se você gosta de usar flechas mais raras durante o up como a ghost ou de status.
+
+
+
+
+
+Legacy Skills - Mago
+
+1 - Sense ★★★★★
+ 
+Analisa o inimigo diminuindo a MDEF em 1 a cada 5 pontos de inteligência do seu personagem.
+Adicionalmente, para cada 5% de HP perdido do alvo, a MDEF é reduzida em mais 1.
+
+Ozzi: Calma, parece incrível, eu sei, mas é uma skill mais late game.
+Vamos supor que você tem 90 de int e o inimigo já com 50% de vida, então a redução de MDEF vai ser de 45 + 25 = 70.
+Mas lembre-se, é uma skill passiva,, então você tem esse benefício o tempo inteiro de gameplay.
+Para monstros mais fortes, realmente vai ajudar bastante.
+
+
+2 - Energy Coat ★★★★
+ 
+Cria uma barreira espiritual que reduz o dano recebido com base na porcentagem do seu SP. A barreira drena parte do seu SP a cada Hit.
+SP 100~81%: Reduz o dano em  30%, SP consumido: 3.0% por hit
+SP 80~61%: Reduz o dano em 24%, SP consumido: 2.5% por hit
+SP 60~41%: Reduz o dano em 18%, SP consumido: 2.0% por hit
+SP 40~21%: Reduz o dano em 12%, SP consumido: 1.5% por hit
+SP 20~1%: Reduz o dano em 6%, SP consumido: 1.0% por hit
+
+Ozzi: Sim, é a boa e velha platinum skill mas com um pequeno rework. 
+Considerando como você costuma ser um papel, é uma chance de se manter vivo.
+Mas no máximo 30% de redução pode não ser o suficiente para os inimigos late game.
+
+
+3 - Mana Shooting Star ★★★★
+ 
+Canaliza sua energia para que seus ataques físicos sejam baseados em seu ataque mágico, drenando 6 de SP a cada ataque. 
+O Range varia de acordo com o tipo de Arma equipada.
+Cajado de Duas Mãos: 10 Células
+Cajado de uma Mão: 6 Células
+Livros: 4 Células
+Espadas: 3 Células
+Adagas: 2 Células
+Desarmado: Melee
+
+Ozzi: No primeiro beta era uma skill confusa mas fizeram um rework sensacional para os Sages de Batalha!!!
+
+
+
+4 - Sight Ivy ★★★
+ 
+Quando ativado, Sight causa dano mágico o tempo todo e não é mais consumido mesmo usando Sightrasher.
+O dano escala de acordo com seu nível de base e a frequência destes ataques é de acordo com sua velocidade de ataque.
+E ainda aumenta o Casting Variável e Fixed Cast Time de Sightrasher em 300%.
+
+Ozzi: Alôooo sage de batalha, quer bater com livro em uma aspd absurda? Aproveita para dar mais dano.
+
+
+5 - Threads of Focus ★★★★★
+ 
+A cada 20 segundos, você ganha uma “Threads of Focus”, que pode acumular em até duas vezes.
+Você perde uma Threads of Focus a cada vez que tomar dano enquanto estiver em um cast de magia, mas o cast não será interrompido.
+
+Ozzi: Uma phen temporária. Ainda mais no começo do jogo que o cast costuma ser gigante, é uma ótima opção para Bruxos. Para os Sábios que podem andar enquanto castam, talvez nem tanto, depende da situação.
+
+
+6 - Energy Transference  ★★
+ 
+Converte metade de toda a sua regeneração natural de HP em SP.
+O HP não será mais recuperado até que o SP esteja Full.
+
+Ozzi: Para começo de jogo pode ser útil, mas convenhamos que a classe no geral não possui uma recuperação de HP tão alta para ocasionar uma diferença gritante na reputação de SP.
+Também no mid e late game você não terá mais problemas com SP.
+Talvez com uma carta que habilite Heal ou em grupo possa ser útil para você não ficar sem SP.
+
+
+
+Legacy Skills - Mercador
+
+1 - Loud Peddling ★★★★
+ 
+Dá um grito de guerra que será escutado por todos os seus aliados, aumentando a STR e a INT em 4, enquanto aumenta o ATK e MATK em 25 por dois minutos.
+
+Ozzi: Sim, é o Grito de Guerra reworked.
+Mas agora ele será útil também para as classes que usam MATK. 
+
+
+2 - Item Appraisal ★
+ 
+Instantaneamente identifica todos os segredos dos itens coletados.
+
+Ozzi: Simples e fácil, você vira uma lupa ambulante. Não parece valer a pena gastar uma legacy sendo que você pode simplesmente comprar lupas e deixar no carrinho.
+
+
+
+3 - Cart Boost ★★
+ 
+Aumenta sua velocidade de movimento em 18% por 120 segundos. É necessário ter um carrinho.
+
+Ozzi: Então… há controvérsias. Embora andar mais rápido pode te ajudar no farm, a se livrar de uma situação difícil ou até deixar uma viagem menos monótona, existem outras formas de fazer isso. Com Asa de Mosca, Roll de velocidade de movimento nas botas, poção de velocidade de movimento e agi up, não sei se vale gastar uma skill nisso, a menos que esteja sobrando.
+
+
+
+4 - Merchant’s Merchandise  ★★★★★
+ 
+Ao derrotar monstros eles vão dropar caixas de tesouro para a guilda de mercadores.
+Dependendo do nível do monstro, você consegue coletar caixas com itens melhores e trocar por provisões e itens valiosos.
+Monstros de nível entre  0 e 25 = 5% de chance
+Monstros de nível entre 25 e 50 = 10% de chance
+Monstros de nível entre 50 e 75 = 20% de chance
+Monstros de nível maiores que nível  75 = 25% de chance
+Monstros espirituais = 100% de chance
+
+Ozzi: As caixas podem ser trocadas por itens consumíveis em Alberta ou para itens de consumo de Alchemists em Aldebaran. 
+Você consegue ficar com um estoque ridículo de poções verdes com essa skill. 
+
+
+
+5 - Cart Reinforcement  ★★★★★
+ 
+Exagera a sua capacidade de carga do carrinho. 
+Agora você consegue carregar um limite de peso de até 2000, podendo carregar mais coisas.
+
+Ozzi: Só a questão de carregar mais coisas quer dizer mais sustem em batalha, então já é um ponto positivo.
+@Huran confirmou que esse aumento de peso também influencia nas skills que possuem dano determinado pelo peso do carrinho, então é uma ótima Legacy.
+
+
+6 - SP Purchase  ★
+ 
+Com suas habilidades mercantis, você converte todo o custo de SP de suas skills em Zeny.
+O custo é de 5 zeny para cada 1 de SP que seria gasto.
+
+Ozzi: É uma skill de desespero, pois é muito melhor você gastar zeny em consumível do que para usar skills.
+Ainda mais que overcharge e discount funcionam diferente nesse servidor.
+
+
+
+Legacy Skills - Espadachim
+
+1 - Fatal Blow ★★★★★
+ 
+Durante ataques ou skills, adiciona a chance de 10% de aplicar um Stun no inimigo, que dura 2 segundos.
+Passivamente aumenta o dano realizado em inimigos com Stun em 10%.
+
+Ozzi: Se eu li direito, os ataques básicos também dão stun.
+Lembrando que Stun incapacita o inimigo de fazer qualquer ação durante estes 2 segundos, o que já aumentaria o seu sustain, mas ele ainda aumenta o seu dano em 10% contra esses inimigos.
+Precisaria testar se o proc de 10% realmente é o suficiente para ser eficiente.
+Um kina de zerk stunando geral sem tomar dano me parece curioso, ainda mais se usar a Role de Controller.
+
+
+
+2 - Survival Instinct ★★★★★
+ 
+Fortificado pelo seu ódio, para cada 1% de vida perdida, você ganha um bônus de 0,5% de Ataque, mas recebendo mais 0,5% de dano de todas as origens em um limite máximo de 40%.
+
+Ozzi: Um mini zerk para você ativar quando quiser. Mas vale fazer as contas.
+Se você estiver com 50% de vida, você vai dar e receber mais 25% de dano.
+Com 25% de vida você chegaria a dar e receber 42% de dano, mas o valor máximo é 40%.
+Então não adianta ficar no vermelho achando que vai ter ainda mais dano, pode se manter com 30% de vida que a skill vai ser super eficiente.
+Para quem gosta de jogar mais agressivo, essa é uma skill muito interessante.
+
+
+
+3 - Heavy Armor ★★★★★
+ 
+Aumenta a sua Hard Defense em comparação a 30% do peso de sua armadura.
+Esse bônus fica ativo enquanto você não receber um KnockBack. 
+Ao receber um Knockback, o bônus levará 60 segundos para voltar a ser ativado.
+
+Ozzi: Bônus de defesa passivo e sem a necessidade de nada além de se equipar? Porque não?
+Ainda mais que os melhores equipamentos para Cavaleiros e Paladinos realmente tem um peso elevado, essa skill pode te ajudar a ficar ainda mais tank.
+Vale mencionar que não são todos os inimigos que tem KnockBack, então você terá essa passiva ativa por muito tempo.
+Se você for na linha de tank, pegue essa skill
+
+
+4 - Magnum Implode  ★★★
+ 
+Quando ativa, ao invés do Magnum Break empurrar os inimigos, ele vai puxar eles para você.
+Aumenta a área do Magnum Break para 11x11..
+
+Ozzi: No começo eu achava essa skill sem utilidade, mas ela tem seu charme. Você consegue revezar o Magnun Break com Bowling Bash para não ter que esperar os inimigos se aproximarem ou revezar com Grand Cross para o máximo de dano.
+
+
+5 - Tenacious Health  ★★★
+ 
+Aumenta sua regeneração de HP em 100% quando seu HP estiver abaixo de 15% e aumenta em 50% caso seu HP esteja abaixo de 30%.
+
+Ozzi: Mais uma skill para Tank. Mas do meu ponto de vista, isso vai ajudar muito também para a build de Grand Cross, já que você perde HP enquanto usa a skill ou até terminar o cast.
+Para build de Cavaleiro Mobber também será ótimo, embora tenha Tension Relax, mas recuperação a mais nunca é de se jogar fora.
+
+
+
+6 - High Guard  ★★★★★
+ 
+Quando ativa, aumenta a Soft Def em 25%.
+
+Ozzi: Simples e fácil, você recebe menos dano enquanto a skill estiver ativa.. 
+Se somar essa com “Heavy Armor”, você vai ser um baita de um Tank.
+
+
+
+Legacy Skills - Gatuno
+
+1 - Back Slide ★★★
+ 
+O gatuno rapidamente move 5 células para trás, aumentando a distância entre ele e seu inimigo.
+Quando Backslide é usado, o personagem automaticamente esquiva do próximo dano por 1.5 segundos.
+Essa esquiva perfeita tem um cooldown de 0.25 segundos.
+
+Ozzi: O bom e velho Backslide mas agora com um rework.
+Esse bônus de esquiva perfeita de 1.5 segundos parece maravilhoso, mas lembre-se que você estará a 5 células de distância do seu oponente. A depender da velocidade de movimento do inimigo, ele pode levar mais de 2 segundos para te alcançar, perdendo esse buff de esquiva.
+Mas, ter uma skill de movimentação é ótimo!
+
+
+2 - Dirty Steal ★★★★★
+ 
+Você consegue roubar durante o Hiding, Cloaking ou Chase Walk sem sair da invisibilidade.
+Seu furto não mais ativa a agressividade dos inimigos, independente de cast sensor.
+Quando o furto é realizado, você coloca uma bomba de veneno no inimigo, que explode depois de 1 segundo.
+A explosão dá dano equivalente ao dano do nível aprendido da skill Envenom e seu nível de base e o dano causado é dano mágico.
+Aumenta a chance de furto em 10% passivamente.
+Se a explosão matar o alvo, o loot dele vai diretamente para seu inventário.
+
+Ozzi: Parece uma skill bobinha, mas ela tem seu charme.
+Principalmente se estiver jogando de arruaceiro, que usa Steal automaticamente.
+Sim, você vai dar envenom automaticamente também enquanto ataca o inimigo.
+Para Assassinos, talvez não seja tão útil assim.
+Ah! A habilidade é “Ativa” mas é como se fosse um buff permanente, você liga ou desliga.
+Vale mencionar também os 10% a mais de chance de furto, chegando a 70% de chance de furtar com a habilidade furto no nível 10.
+
+
+3 - Wild Pulse ★★★★★
+ 
+Aumenta a velocidade de ataque em 5%, com um adicional de 1% a cada ataque ou habilidade usada, até o máximo de 10% de ASPD com 10 acúmulos.
+O acúmulo continua até você sair de combate.
+Também diminui o Delay After Attack passivamente em 5%.
+
+Ozzi:  Assim que você pega essa skill, você pensa que é uma porcaria, pois não aumenta nada em seu ASPD, mas Mid e Late game ela faz uma boa diferença na sua velocidade de ataque.
+Enquanto estiver upando ou farmando, é muito fácil se manter com 10 acúmulos da skill.
+
+4 - Deathphobia ★★★★★
+ 
+Ao receber um ataque fatal, você foge da morte e seu HP é recuperado em 5%, garantindo 1 segundo de invulnerabilidade.
+Você recebe 50% de velocidade de movimento por 2 segundos.
+Essa habilidade tem um cooldown de 10 minutos.
+
+Ozzi: Pense em um Kaizel de Soul Linker, que você ressuscita automaticamente.
+Embora chegar a zero de HP seja algo que evitamos ao longo da partida, é muito bom ter a opção de ressuscitar em caso de descuido.
+Embora ainda assim você seja penalizado por ter morrido (perda de exp), isso evita de você ter que voltar para o mapa distante que você estava por bobagem.
+E convenhamos, 10 minutos de cooldown é extremamente baixo para uma skill tão boa.
+
+
+
+5 - Sharp Perception ★
+ 
+Melhora sua habilidade de esquivar ataques, aumentando o números de inimigos que são necessários para quebrar sua flee de 3 para 5.
+
+Ozzi: Então… tanto Arruaceiro como Assassino tem tantas habilidades de locomoção e de se reposicionar para fugir de um mob, então essa skill fica bem em segundo plano.
+Talvez tenha alguma utilidade para builds de arruaceiros focadas em “Raid” ou Assassinos de “Meteor”, mas na realidade, tem skills melhores para escolher.
+
+
+6 - Deft Throw Stone ★★★
+ 
+Melhora sua habilidade de Stone Fling, adicionando a sua Dex para aumentar o dano e suas pedras ignoram a defesa dos inimigos.
+
+Ozzi: No começo do jogo essa habilidade brilha para quem quer fazer um stalker de arco, pois você consegue upar tranquilamente com uma build de dex até ter skills melhores.
+
+
+
+
+Novas Skills - Role
+
+Como se já não bastasse você quebrar a cabeça com as Legacy Skills, você também pode escolher uma Role para seu char ter skills exclusivas.
+
+Para escolher um Role, primeiro você precisa fazer um teste de skills no segundo andar do Explorer Guild. 
+
+São ao todo 6 tipos de Roles para escolher e cada um com 4 skills.
+
+Brawler: Focado em Dano Físico
+Shooter: Focado em Dano a Distância
+Arcanist: Focado em Dano Mágico
+Healer Strategist: Focado em Cura
+Control Strategist: Focado em Utilidade
+Defender: Focado em Defesa
+
+Parece meio óbvio o que cada classe vai escolher, mas nada impede de você escolher ser um Sacerdote com Arcanist ou um arqueiro com Vanguard, vai depender do que você quer.
+
+
+Ao terminar o teste, basta falar com o NPC Eremic no primeiro andar da Explorer Guild.
+
+
+
+Ao ter uma Role, você habilita todas as 4 skills daquela Role, mas precisa de nível para usar as habilidade, sendo especificamente, 30, 60 e 80.
+
+Então não precisa se preocupar em escolher qual é a melhor skill para sua build para cada momento, apenas qual pack e skills você prefere.
+
+Todos os Roles tem uma skills que são idênticas, então vou resumir ela primeiro.
+
+Você deve ter reparado que abaixo do seu SP tem uma barra de “AP”.
+
+A primeira skill padrão faz com que você ganhe uma quantia de AP enquanto estiver em batalha.
+
+
+Não necessariamente você precisa dar dano. Ser alvo ou tankar também gera AP passivamente.
+
+O AP serve para que você possa usar as skills de Role, então não se preocupe com o seu SP para utilizar estas habilidades diferenciadas.
+
+Ao habilitar a sua Role, essa skill tem um efeito passivo em seu personagem, onde eu vou detalhar em cada um deles mais abaixo.
+
+Na primeira versão do servidor, as skills de roles não eram muito boas, mas no rework atual, todas são úteis a depender do seu personagem 💚
+
+Mas vamos lá para todas as skills 
+
+
+
+Brawler Role Skills
+
+Passiva:  Você causa mais 10% de dano físico mas recebe 5% a mais de dano.
+
+Furios Approach ★★
+Avança contra um inimigo e aplica um buff em você de 6 segundos, que aumenta o dano de seu próximo ataque ou skill em 10%
+📌Nível 30
+🔻Custo: 20 
+⏰Duração: 6 segundos
+ ⏳ Cooldown: 3 segundos
+
+Ozzi: O range nem é lá essas coisas, sendo somente 5 células, então você não voa até o outro lado da tela para aplicar essa skill, mas o Buff de dano não é de se jogar fora, mas precisa entender que é somente para o próximo ataque ou skill, e não durante os 6 segundos da habilidade.
+Serve como um ótimo burst de dano contra algum inimigo ou para dar hit kill.
+
+
+Threatening Oath ★★★★
+Nos próximos 20 segundos, aumenta o seu True Attack baseado em seu level.
+Ataque corpo a corpo e habilidades ignoram 20% da defesa física dos inimigos.
+📌Nível 60
+🔻Custo: 200
+⏰Duração: 20 segundos
+ ⏳ Cooldown: 10 segundos
+
+Ozzi: Parece incrível, mas não é.
+O dano é calculado como (Base Level)² / 50, então você vai dar mais ou menos metade de seu nível como dano flat.
+No começo e na metade do jogo até ajuda, mas no end game é um buff meio fraco.
+Mas a Staff pensou bem em adicionar a outra metade da skill, de ignorar a defesa física dos inimigos, já que no end game os inimigos ficam com defesas muito fortes.
+No geral, é uma boa skill mas o custo de AP pode impactar no uso constante do buff.
+
+
+
+Violence Overload ★★★★★
+Por 40 segundos ativa a violência do usuário, fazendo com que 50% do seu ataque básico e skills de alvo único atinjam os inimigos próximos em uma área de 5x5.
+Adicionalmente as skills de área tem seu dano aumentado em 25%.
+ 📌Nível 80 
+🔻Custo: 200
+⏰Duração: 40 segundos
+ ⏳ Cooldown: 20 segundos
+
+Ozzi: Ainda não testei porque tem que estar em um nível alto, então quem já usou, me manda PM no discor para trocarmos uma ideia.
+Mas pela descrição, temos dois pontos positivos, sendo o ataque básico em área e skills de alvo único em área.
+A área é bem pequena, já que 5x5 tem que ter um mob muito próximo para ser efetivo, mas isso abre algumas opções para personagens sem muitas possibilidades como Stalker com BackStab, Sinx com Sonic, Paladino com Holy Cross, Cavaleiro com Pierce, etc.
+Seria muito curioso um Monk mobando com combos em área 👀
+
+
+
+
+
+Shooter Role Skills
+
+Passiva:  Você causa mais 10% de dano físico a distância mas recebe mais 5% de dano.
+
+Sudden Evasion ★★★★
+Performa um avanço de 6 células em qualquer direção para evitar um ataque, fazendo com que tenha uma esquiva perfeita para o primeiro ataque físico ou mágico recebido.
+📌Nível 30 
+🔻Custo: 20
+⏰Duração: instantâneo
+ ⏳ Cooldown: 3 segundos
+
+Ozzi: Resumidamente, um botão de pânico para que se mantenha vivo em um ataque aniquilador, como aquele MVP dando um terremoto.
+O problema será o timing para ser efetivo, mas te ajuda muito e pode ser uma skill de locomoção caso necessário.
+
+
+
+Unbalancing Shot ★★★★
+Aciona um Buff que faz seus ataques e habilidades terem mais 1 célula de range.
+Você recebe metade da sua Hit como True Attack.
+📌Nível 60
+🔻Custo: 100
+⏰Duração: 20 segundos
+ ⏳ Cooldown: 10
+
+Ozzi: Teria que testar essa skill para entender exatamente, pois pela leitura ela está bem forte, já que até mesmo um gatuno tem 100 de hit no nível mais baixo. 
+A duração do Buff também não é nada ruim, já que 20 segundos para classes a distância é mais que o suficiente para causar um ótimo dano no inimigo.
+
+
+Wind Cut Technique ★★★★★
+Nos próximos 40 segundos, a cada terceiro ataque ou skill aumenta seu dano em 30%.
+📌Nível 80
+🔻Custo: 200
+⏰Duração: 40 segundos
+ ⏳ Cooldown: 20 segundos
+
+Ozzi: Dependendo da sua aspd essa skill pode derreter monstros! 
+Imagina quando tiver gunslinger nesse servidor 🔫
+
+
+
+
+
+
+Arcanist Role Skills
+
+Passiva:  Você causa mais 10% de dano mágico mas recebe mais 5% de dano.
+
+Blink ★★★★★
+Se teleporta para a célula alvo cancelando qualquer cast que esteja performando.
+📌Nível 30
+🔻Custo: 20
+⏰Duração: Instantâneo 
+ ⏳ Cooldown: 3 segundos
+
+Ozzi: um mini body relocation para casos onde você começa a castar uma skill e o monstro tá chegando perto. São tantas possibilidades com essa skill.
+
+
+Rehearse Strategy ★★★
+Nós próximos 20 segundos ganha um buff para utilizar habilidades.
+Caso a habilidade tenha Cast,  reduz o Cast Variável e o Fixed Cast Time em 30%.
+Caso a habilidade não tenha cast, reduz o cooldown e o after cast em 30%.
+📌Nível 60
+🔻Custo: 100
+⏰Duração: 20 segundos
+ ⏳ Cooldown: 10 segundos
+
+Ozzi: Uma skill de utilidade para que você consiga usar skills com mais facilidade.
+30% de redução de cast ou de cooldown não é nada mal, mas depende muito do cenário.
+
+
+Press the Frailty ★★★
+Nos próximos 40 segundo, aumenta seu True M.Attack baseado no seu nível e ignora parte da Defesa Mágica do alvo de acordo com o HP restante do inimigo..
+📌Nível 80
+🔻Custo: 200
+⏰Duração: 40 segundos
+ ⏳ Cooldown: 20  segundos
+
+Ozzi: Essa é uma daquelas skills que precisa fazer faculdade de matemática para entender o dano, mas resumidamente, quanto maior seu nível atual e menor a vida do monstro, maior o dano. Uma boa skill para finalização.
+
+
+
+
+Healer Role Skills
+
+Passiva:  Você cura 10% a mais, mas causa 20% de dano a menos.
+
+Revitalizing Pairing ★★★★★
+Nos próximos 6 segundos, cura 3% do HP Máximo por segundo de aliados próximos ao usuário em uma área de 11x11.
+Também cura o próprio usuário instantaneamente em 4x seu nível de base.
+📌Nível 30
+🔻Custo: 20
+⏰Duração: 6 segundos
+ ⏳ Cooldown: 3 segundos
+
+Ozzi: Fiquei na dúvida se estava lendo uma bula de remédio ou uma skill. Mas resumidamente, ao utilizar todo mundo se cura feliz e você ainda recupera uma quantia legal de HP instantaneamente.
+Não vou negar que é uma skill forte tanto para grupo como para solo. .
+
+
+
+
+Promising Speech ★★★★
+Nos próximos 20 segundos, toda sobre cura em um aliado de vida completa gera um escudo que dura por 10 segundos. O escudo não pode ultrapassar 30% da vida máxima do aliado. 
+Diminui o After Cast do usuário em 20%.
+📌Nível 60
+🔻Custo: 100
+⏰Duração: 10 segundos
+ ⏳ Cooldown: 10 segundos
+
+Ozzi: Olha… do meu ponto de vista, isso aqui deveria ser uma passiva, pois você ativar a skill, curar o aliado mais do que sua vida cheia para ativar um escudo de 10 segundos de duração? Em alguns momentos não vai dar tempo de fazer tudo isso e já vai ter que ativar a skill novamente no aliado.
+
+
+Redemptive Maneuver ★★★★★
+Nos próximos 40 segundos aumenta a efetividade de sua cura em 30% e aumenta a regeneração de  AP para todos os seus aliados em uma área de 11x11.
+📌Nível 80
+🔻Custo: 200
+⏰Duração: 40 segundos
+ ⏳ Cooldown: 20 segundos
+
+Ozzi: 30% de cura é bastante coisa, ainda mais em sinergia com “Revitalizing Pairing” e “Promising Speech”.
+Aumentar o AP de seus aliado possibilita que todo mundo use pelo menos a skill de Tier 1 da sua Role.
+
+
+Controller Role Skills
+
+Passiva:  Você tem 10% a mais de chance de causar status, mas causa 20% de dano a menos.
+
+Defensive Formation ★★★★
+Você se reúne com seus aliados em uma formação de defesa, criando um escudo protetor em todos os aliados em uma área de 11x11 ao seu redor.
+A força do escudo é igual a 5% do HP máximo do aliado.
+Esse escudo defende tanto ataques físicos como de status. 
+📌Nível 30
+🔻Custo: 20
+⏰Duração: até o escudo ser quebrado.
+ ⏳ Cooldown: 3 segundos
+
+Ozzi: Skill muito interessante, ainda mais por praticamente pegar em todos os aliados na tela.
+Imagina um grupo de três paladinos revezando essa habilidade, quase anula o dano recebido 👀
+
+
+Resource Sabotage ★★★
+Nos próximos 40 segundos, ignora 40% da resistência de status do inimigo.
+Aliados em uma área de 11x11 ganham 10% de dano a mais contra inimigos com qualquer status negativo.
+📌Nível 60
+🔻Custo: 100
+⏰Duração: 40 segundos
+ ⏳ Cooldown: 10 segundos
+
+Ozzi: Bora fazer uma espada com quatro cartas de status? aham, exatamente.
+
+
+Crisis Reboot ★★
+Nos próximos 40 segundos, aumenta a resistência a status negativos em 10% de todos os aliados em uma área de 11x11.
+Ela remove qualquer status uma única vez.
+📌Nível 80
+🔻Custo: 200
+⏰Duração: 40 segundos
+ ⏳ Cooldown: 20 segundos
+ 
+Ozzi: Não vou dizer que é uma skill inútil, mas é tão situacional que chega dá para esquecer de usar ela quando receber algum status. Mas para enfrentar alguns inimigos chatos vale a pena.
+
+
+Defender Role Skills
+
+Passiva:  Você tem 10% de redução de dano,  mas causa 20% de dano a menos.
+
+Taunting ★
+Provoca o inimigo por 6 segundos. 
+📌Nível 30
+🔻Custo: 20
+⏰Duração: 6 segundos
+ ⏳ Cooldown: 3 segundos
+
+Ozzi: Um provocar … é isso. Nada mais para ler aqui.
+
+Taunting Fuss ★★★★★
+Provoca todos os inimigos em uma área de 11x11 por 10 segundos. Se provocar Chefes ou players, o provocar dura somente 5 segundos.
+Durante 20 segundos você recebe 10% de Damage Rebounce
+📌Nível 30
+🔻Custo: 100
+⏰Duração: 10 segundos
+ ⏳ Cooldown: 10 segundos
+
+Ozzi: Um provocar em área que auxilia no controle de mobs e de inimigos que estão focando no wizz ou no sacer.
+Bem interessante e ainda cura 10% do dano recebido.
+
+
+
+Vital Aegis ★★★★★
+Por 40 segundos diminui 25% de sua Hard Def e Hard Magic Def aumentando a Hard Def e Hard Magic Def de seus aliados por exatamente o valor que foi removido de você.
+Também aumenta o HP Máximo do usuário e seus aliados conforme o nível de base.
+📌Nível 60
+🔻Custo: 200
+⏰Duração: 40 segundos
+ ⏳ Cooldown: 20 segundos
+
+Ozzi: Obviamente depende da defesa e defesa mágica do usuário, mas ainda assim 25% é muita coisa! Dá para deixar seus aliados bem menos papel.
+
+
+Last Resource ★★★★★
+Nos próximos 5 segundos, todo e qualquer dano recebido será reduzido para 1. Você se cura em 50% do dano que foi mitigado.
+📌Nível 80
+🔻Custo: 200
+⏰Duração: 5 segundos
+ ⏳ Cooldown: 20 segundos
+
+Ozzi: Então, as outras skills são bem simples, mas essa aqui é o que faz valer a pena a Defender Role. Olha isso! Reduz todo o dano e ainda cura! Contra chefes e skills hit kill é absurdamente boa.
+
+
+
+
+Dicas para iniciantes
+
+Então você está querendo fazer um personagem e começar a jogar, certo? 
+
+Bom, como toda vez, o óbvio é que você pensa em fazer uma classe de dano e em paralelo fazer um mercador para vender mais caro o loot e comprar mais barato consumíveis.
+
+Depois que pegar level 50, focar em ter os equipamentos básicos do seu personagem principal e mudar de job para enfrentar monstros mais fortes e fazer o famoso percurso de up de todo server.
+
+Lamento te dizer, mas isso não vai funcionar aqui.
+
+Os inimigos tem níveis e atributos diferentes, os mercadores não tem skill de aumentar o valor de venda, os equipamentos maravilhosos no jogo convencional não necessariamente são os melhores e principalmente, você precisa estar preparado para o que vai acontecer.
+
+Não estou aqui para ditar regras, você pode fazer da forma que achar melhor, mas vou dar uma luz para quem está começando.
+
+Escolha o personagem que você goste
+Sério, não pense em meta ou no que é mais fácil. Com as alterações das skills e os equipamentos disponíveis, toda classe consegue fazer o mínimo.
+
+Não pule quests, principalmente no primeiro personagem
+Você consegue itens, bônus e experiência através das quests disponíveis no servidor, então se não quiser sofrer tanto no início, faça todas as quests possíveis.
+E por favor!  LEIA OS DIÁLOGOS, elas que vão te ensinar como o jogo funciona, para de ser apressado.
+
+Você terá um reset de status quando mudar de job
+Mesmo que você seja um mago full Int/Dex, não tem problema colocar STR e AGI enquanto aprendiz para conseguir concluir as missões com maior facilidade.
+
+Foque em pegar sua primeira Legacy Skill
+É uma quest bem simples e dependendo do que escolher, você poderá mudar totalmente a facilidade do seu gameplay no começo.
+
+SIM! Do level 10 até o level 20 é difícil e complicado mesmo!!!!!
+Ainda mais se for o primeiro personagem, você vai ter que ir com calma e o foco agora é ganhar job e equipamentos, não level. Então vai caçar porings para ter dinheiro para os primeiros equipamentos e vai dar uma volta pelos mapas para conhecer o mundo.
+Lembre-se, o Level é consequência do jogo, não objetivo.
+
+Equipamento Low Tier com pelo menos uma estrela
+Não precisa ser um equipamento milagroso, uma adaga simples, uma sandália, uma capinha e uma camisa já ajuda em ter alguns bônus no Star Grade Alligament.
+Aconselho escolher entre Recuperação de HP ou de SP no começo, pois auxilia bastante, depois você muda para o que fizer mais sentido.
+
+Segue a lista de quais monstros dropam esses equipamentos iniciais, seu foco é pegar um com pelo menos uma estrela (Você pode comprar no NPC e dar upgrade de ranking se estiver muito difícil dropar).
+
+Equipamentos
+
+
+
+Gaste todos os Idriks e durabilidade
+Não tenha dó de aumentar o nível de seus equipamentos até chegar a 0 de durabilidade, pois eles darão mais autonomia para enfrentar monstros mais fortes.
+
+Pegue suas primeiras Singularidades
+Mesmo que seja um equipamento simples, não deixei de encantar com singularidades, pois mais status significam uma vida mais fácil.
+
+Consiga um Pet
+Os pets neste servidor são muito úteis e vão te ajudar bastante para enfrentar monstros mais fortes. 
+Escolha um que faça sentido para a sua classe e foque em pegar pelo menos um.
+
+Faça uma backpack para seu pet
+Com esse acessório no seu pet, ele fica com a função de Autoloot, o que minimiza a sua necessidade de ficar usando Pick Up.
+
+Segunda e Terceira Legacy Skill
+Você pode fazer a quest das novas skills no job 27 e 47, então assim que atingir esses requisitos, já foque em pegar mais skills para seu personagem.
+
+Pegue uma Role assim que puder em Prontera.
+As skills de Role ajudam e mudam bastante o formato do Game, então não esqueça de pensar qual role você vai querer.
+
+Novos pets para o Pet Adventure
+Para conseguir usar o Pet Adventure, você precisa de no mínimo 3 pets, então vale a pena fazer a quest de itens de domesticação sempre que puder.
+
+Upgrade de Ranking
+Guarde todos os equipamentos com ranking que não for usar para quebrar em Star Cluster, assim tendo catalisadores para dar upgrade nos seus equipamentos quando tiver dois iguais.
+
+Carola, sua best friend
+Com dinheiro ou sorte, você já consegue pegar um chapéu bacana com bônus interessantes, e você pode encantar na Carola para ainda mais status legais para o seu Up.
+Embora seja um pouco caro e precise de catalisadores, ainda assim, vale a pena.
+
+Ordem de over para melhor performance
+O ideal é que se tiver dois equipamentos iguais você aplica a singularidade primeiro, para ver qual dos dois será melhor, depois você dá upgrade de ranking usando o segundo equipamento como catalisador e aí sim pode começar a dar upgrade.
+Se fizer na ordem contrária, você vai gastar idrik atoa ou acabar com uma singularidade ruim.
+Então lembre-se : Singularidade > Ranking > Over
+
+Dinheiro não é tão fácil assim
+MMORPG sempre foi um jogo de gerenciamento de recursos e sem a opção do mercador receber mais dinheiro nas vendas de loot, o dinheiro acaba sendo um pouco mais difícil no começo do jogo.
+Então é importante ter sempre uma pequena reserva no banco para caso tenha alguma oportunidade de um item que você precise.
+
+
+
+
+Guia de UP
+
+Então, eu tô me arriscando muito criando um guia de up, pois eu não tenho muita experiência com classes mágicas, mas normalmente, o que serve para um pode servir para outro.
+
+Inclusive, se não quiser seguir esse guia, você pode usar o omnibook filtrando por nível ou por quantidade de exp e escolher o mapa que seja mais agradável para você. Se não souber como faz isso, volte para como funciona o Omnibook.
+
+Outra forma de saber onde upar é simplesmente abrir o mapa mundi, ele mostra o nível dos monstros daquele mapa, simples e fácil:
+
+
+
+Se não estiver aparecendo o level dos mapas, é só apertar Tab.
+
+Bom, mas antes de sair falando sobre mapas e monstros, vamos organizar dois conceitos bem básicos que só no Myth acontece.
+
+1 - Level não determina o que você consegue enfrentar
+Há um abismo gigante de diferença entre um espadachim com equipamento básico e um espadachim com o mesmo level mas com singularidades, ranking, upgrade e over. 
+Então não adianta ir no chat global perguntando “Onde upa level XX?”, o que vai determinar onde você consegue upar é o seu equipamento, não o level.
+
+2 - Grupo facilita muito no jogo mas depende
+Sim, jogar em um grupo possibilita que você enfrente monstros mais fortes, mas o conceito de equipamento ainda existe. Um grupo de cinco players sem equipamentos adequados é inferior a um único player com bons equipamentos!!!!
+
+Com essas duas regras em mente, eu vou sugerir alguns mapas de up para você escolher. Eu digo “sugerir” porque não to aqui ditando regras e muito menos pode ser a melhor experiência para você. Eu estou levando em consideração o Omnibook e também o Mapa Mundi do jogo.
+
+Considere então a leitura da seguinte forma: 
+
+Se seus equipamentos ainda são fracos, não tem singularidade e a grana tá curta, enfrente inimigos de nível mais baixo do que o seu
+Se seus equipamentos estão ok e você consegue se manter, enfrente inimigos de seu nível ou um pouco mais alto
+Se seus equipamentos estão lindos e você está com toneladas de consumíveis ou você está em um grupo bom, pode enfrentar inimigos ainda mais fortes.
+
+Acho que dei todos os avisos necessários, então não vem me culpar se você morrer porque não estava preparado, beleza?
+
+Level 10~15
+Pelo amor de deus, só faz as quests seguindo as indicações dos NPCs, você vai ganhar experiência e vai praticamente pular para o level 14. Então para de tentar matar os esporos, além dele te bater feito uma jamanta por ser level 18, você ainda não vai conseguir equipamentos e entender o jogo. 
+Vou repetir, FAÇA AS QUESTS.
+
+Level 15 ~ 20
+A partir daqui que o jogo realmente começa, você já deve estar com equipamentos com estrelas e algumas habilidade de sua skill tree.
+Tem alguns caminhos que você pode seguir para upar sendo.
+Morroc: Scorpion
+Payon:  Wormtail,  Sporo e Snake
+Geffen:  Ambernite e Roda Frog 
+Aqui é a gosto do freguês.
+
+Level 20~25
+Meio que obrigatório você ir para o esgoto matar thief bug nesse nível, então nem vou me alongar muito sobre.
+Mas caso você morra muito na dungeon, pode optar por River Spore ou Muka
+
+Level 25~30 
+Aqui as coisas ficam um pouco mais caóticas, porque as opções acabam se abrindo mais do que só em torno de Prontera.
+Eu aconselharia você ir para o Ant Hell, mas a vitata é bem chata com a cura dela e você precisa estar bem equipado.
+Mas você pode ir para Poison Spore, Skeleton, Zombie, Big Foot e até poporing.
+Eu fiquei mobando no primeiro nível da pirâmide, mas não sei se é para todo mundo.
+
+Level 30~35
+Se você não foi ainda para anthell, agora é a melhor hora para ir.
+Além disso, você pode enfrentar Madrone, Horn e Coco.
+Nesse nível não tem muitas opções mesmo.
+
+Level 35~40
+A quem goste de ir para a fábrica de brinquedos matar cookies, tem quem goste de ir matar yoyo, tem quem prefira matar martins, mas particularmente, estando equipado, eu fiquei morando em Byalan matando vadon, kukre e marina até pegar job 50. Vai de gosto.
+
+Level 40 ~ 45
+Se você não foi para Byalan antes, agora é um ótimo momento. Mas na verdade, qualquer mapa perto da guilda da sua segunda classe costuma ter monstros que darão um bom nível.
+Então você pode ir para Thara Frog, Megalodon, Wolf, Crab, Ragler, Orcs ou Goblins.
+Se estiver muito difícil, volte para algum mapa anterior ou se equipe melhor.
+
+Level 45 ~ 50
+Você ainda pode se manter nos mapas anteriores até completar job 50 caso ainda não tenha concluído.
+Mesmo que você tenha mudado de job, ainda vale a pena revisitar os mapas anteriores para garantir algumas habilidades básicas para os próximos desafios.
+Alguns monstros diferentes caso você tenha enjoado seria Greatest General, Argos, Wolf, Metaller, Golem e Savage.
+
+Level 50 ~ 60
+A partir daqui, vai variar da sua build e sua classe, mas vou seguir com sugestões básicas.
+Flora, Verit, Minorus, Magnolia, Orc Esqueleto e Zenorc, Grove, Mummy, Obeaune, Marc, Swordfish.
+Eu prefiro ficar no Orc Dungeon até uns 70 mobando, mas vai de cada um.
+
+Level 60 ~ 70
+Você ainda tem mais algumas opções caso tenha enjoado dos mapas anteriores
+Sandman, Hode, Dustiness, Hunter Fly, Jakk, Leaf Cat, Sanguinary Wolf, Sohee, Mantis, Pirate Skeleton, Wootan Fighter, Baby Leopard, Dryad, Stalactic Golem.
+Lembrando que se forem muito difíceis, atualize seus equipamentos ou mate monstros mais fracos para pegar habilidades melhores.
+
+Level 70 ~ 80
+Aqui se você ainda não estiver com bons equipamentos e dando dano alto, melhor repensar sua vida amiguinho.
+Maple Rafflesia, Karakasa, Sasquatch, Wooden Golem, Geographer, Marduk, Rideword, Argiope, Grand Peco, Parasite, Wraith, Pasana.
+
+Level 80 ~ 90
+Tamo chegando no final do jogo e você deve estar em duas situações. Ou forte demais e minhas sugestões nem fazem mais sentido ou você está focando em melhorar seus equipamentos ainda mais.
+Clock, Metaling, Sleeper, Cramp, Les/Lesavka, Punk, Zhu Po Long, Harpy, Kapha, Mi Gao, Stem Worm,  Gig, Miyabi Doll, Porcellio, Dragon Tail, Petit, Yao Jun, Alarm, Firelock Soldier, Spring Rabbit, 
+
+Level 90 ~ 100
+Aqui vai demorar mesmo para upar e você já deve estar acostumado com isso. 
+Se estiver bem equipado, é melhor você focar em monstros ainda mais fortes do que essa lista, já que normalmente um nível 90 bem equipado é equivalente a um 105, mas já que já cheguei até aqui, vamos terminar essa lista.
+Zombie Prisoner, Skeleton prisoner, Injustice, Baba Yaga, Perimeter, Solider, Freeze, Pitman, Ted Bear, Old Stove,  Obsidian, Zipper Bear, Enchanted Peach Tree, High Orc, High Orc Archer, High Orc Lady, Anolian, Deleter, Hill Wind, Kobold, Muscipular, Snow Wolf
+
+Mas Ozzi, cadê os básicos de outros servidores que você não mencionou como Siroma, Venatu, Sting, Gibbet, Disguise, Isila, Vanberk, Magmaring, Raydric, Ferus, Banshee, etc?
+
+Simples, dá uma olhada neles no Omnibook s2
+
+
+
+
+Em breve
+Estou aguardando a inauguração para poder adicionar os tópicos que não consegui tempo de adicionar no Beta.
+
+Informações Sobre Cartas ✅
+Melhoria nas informações de Pet Adventure ✅
+Novos status e cálculos ✅
+Detalhes sobre o sistema de Reforge✅
+Guia de UP ✅
+Combos de Equipamentos
+Guia de Farm de Zeny
+Mudanças de Itens
+Detalhes Sobre o Sistema de Criação de Itens
+Detalhes sobre o sistema de estalagem
+Guia Training Island
+
+
+
+
+
+Finalização
+Obrigado para você que leu até aqui
+Eu comecei a fazer esse guia para alguns amigos que estavam começando no servidor, mas é legal saber que o conteúdo pode ajudar muitas outras pessoas.
+Agradeço a todos os membros da Staff da Myth of Yggdrasil pelo apoio!
+Se tiver alguma sugestão ou sentir falta de alguma informação, pode me chamar no discord!
+OzziCombo

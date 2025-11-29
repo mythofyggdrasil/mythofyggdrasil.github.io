@@ -1,0 +1,13 @@
+site_name: Myth of Yggdrasil Wiki
+nav:
+  - Introdução: introducao.md
+  - Diferenças e Sistema: sistema.md
+  - Novas Métricas: metricas.md
+  - Jobs e Progressão: jobs.md
+  - Omnibook: omnibook.md
+  - Itens de Cura e Sucos: cura.md
+  - Smart Cast e Automação: smart.md
+  - Cartas: cartas.md
+  - Singularidade e Encantamentos: singularidade.md
+  - Durabilidade e Refino: durabilidade.md
+  - Ranking de Equipamentos: ranking.md
