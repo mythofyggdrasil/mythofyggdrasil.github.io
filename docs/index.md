@@ -73,6 +73,7 @@ hide:
 
 ### Mecânicas Avançadas
 - [Cura e Sucos](cura.md) - Sistema de consumo por tempo
+- [Pets](pets.md) - Sistema de pets
 - [Smart Cast](smart.md) - Automação de skills e itens
 - [Cartas](cartas.md) - Sistema de cartas e encantamentos
 - [Singularidade](singularidade.md) - Encantamentos de equipamentos
