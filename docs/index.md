@@ -60,7 +60,7 @@ hide:
 
     [:octicons-arrow-right-24: Estudar](jobs.md)
 
-    :dog2: **Pets**
+-   :dog2: **Pets**
 
     ---
 
