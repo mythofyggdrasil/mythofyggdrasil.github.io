@@ -64,7 +64,7 @@ hide:
 
     ---
 
-    Sistema de Pets
+    Guia de Pets com suas respectivas raças, skills e recomendações
 
     [:octicons-arrow-right-24: Domesticar](pets.md)
 
