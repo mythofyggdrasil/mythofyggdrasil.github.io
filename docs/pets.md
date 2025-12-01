@@ -127,4 +127,4 @@ Abaixo você confere a lista técnica de todos os pets disponíveis e seus níve
 * **Roda Frog (Tank/Mag):** Cold Bolt lv6, Frost Nova lv5, Water Barrier lv1
 
 ---
-*Wiki atualizada com base no patch atual do servidor.*
+*Wiki atualizada baseada nesse guia do Lokalt, mais informações assista no youtube: https://www.youtube.com/watch?v=xCPwu9Ik5_s.*
