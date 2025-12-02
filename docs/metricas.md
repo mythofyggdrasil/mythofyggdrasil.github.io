@@ -1,162 +1,49 @@
-# Novas Métricas
+---
+title: Novas Métricas e Atributos
+description: Guia detalhado sobre as novas métricas e atributos introduzidos no Myth of Yggdrasil, como Thorns, Damage Rebounce, Cast Shield e mais.
+---
 
-Novas métricas para aprender
+# Novas Métricas e Atributos
 
-Calma, não houve nenhuma mudança como os atributos do personagem funcionam. Str continua dando dano, Agi continua dando esquiva e ASPD, etc.
+O Myth of Yggdrasil introduz uma variedade de novas métricas que expandem as possibilidades de construção de personagens. Embora os atributos clássicos (Força, Agilidade, Vitalidade, etc.) funcionem da mesma forma, esses novos status, obtidos através de equipamentos, singularidades e habilidades, adicionam uma nova camada de estratégia ao jogo.
 
-Mas aqui temos algumas coisas novas que vale a pena entender antes de se aventurar por aí.
+## Métricas Ofensivas
 
-Esses novos status apenas são recebidos através de singularidades, equipamentos, itens, Stargrade Alligament e algumas skills específicas (Você vai ler sobre isso mais para frente)
+| Métrica | Descrição | Exemplo |
+| :--- | :--- | :--- |
+| **Thorns** | Reflete uma quantidade fixa de dano ao receber um ataque. | Com 20 de Thorns, você reflete 20 de dano a cada golpe recebido. |
+| **Physical/Magical Strike** | Concede uma chance de causar 40% de dano adicional em ataques ou habilidades. | Com 12% de Strike, uma habilidade que causa 5.000 de dano pode causar 7.000. |
+| **True Damage/Magic Attack** | Adiciona uma quantidade fixa de dano que ignora a defesa do alvo. | Com 150 de True Damage, cada ataque causará 150 de dano adicional. |
 
-Thorns
-É tipo um reflect de dano, mas ele é um valor flat de acordo com o dano recebido de um inimigo.
-Ex: Vamos supor que você tem 20 de Thorns, ao levar um hit, você dará 20 de dano de volta no inimigo. (Ataques que você esquivou não contam para o Thorns).
-Ozzi: Uma build focada em thorn pode massacrar inimigos no começo e meio do jogo, pois ela não depende do valor do reflect, então se você tiver 100 de thorns, será 100 de dano no poring que te deu 1 de dano. Tem grandes possibilidades e equipamentos que aumentam ainda mais o valor de thorn.
+> **Análise do Ozzi:** Builds focadas em **Thorns** são extremamente eficazes no início e meio do jogo. **Strike** funciona como um "crítico" para habilidades e pode ser uma fonte significativa de aumento de dano. **True Damage** é poderoso no início do jogo, pois ignora as defesas dos monstros.
 
-Damage Rebounce
-Pelo nome parece um Thorns, né? Mas não é. 
-Quando você sofrer um dano, parte dele será curado logo em seguida, sendo ótimo para sustain.
-Ex: Você tem 5% de Rebounce e recebe 100 de dano, você irá se curar em 5 de HP.
-Ozzi: Parece pouco, mas conforme você vai acumulando valores de Rebounce você consegue mitigar uma boa quantidade do dano recebido. Para classes que possuem pouca def costuma ser mais vantajoso (Stalker, Sinx, Suporte, etc)
+## Métricas Defensivas
 
-Cast Shield
-É o quanto de dano você consegue receber antes que seu cast seja interrompido.
-Todos os personagens têm como padrão 5% de seu HP como Cast Shield.
-Ex: Se levar um dano de 50 de dano e você estiver com 60 de Cast Shield, seu cast não será cancelado.
-Ozzi: Imagina seu wizz com uma carta phen. É exatamente isso que acontece, você consegue tomar uma quantidade de dano sem perder o cast.
+| Métrica | Descrição | Exemplo |
+| :--- | :--- | :--- |
+| **Damage Rebounce** | Cura uma porcentagem do dano recebido. | Com 5% de Rebounce, ao receber 100 de dano, você é curado em 5 de HP. |
+| **Cast Shield** | Define a quantidade de dano que você pode receber antes que seu cast seja interrompido. | Com 60 de Cast Shield, um dano de 50 não cancelará sua conjuração. |
+| **True Defense/Magic Defense** | Reduz o dano recebido em uma quantidade fixa, após o cálculo de defesa. | Com 50 de True Defense, o dano final recebido é reduzido em 50. |
 
+> **Análise do Ozzi:** **Damage Rebounce** é excelente para a sobrevivência de classes com pouca defesa. **Cast Shield** é o equivalente a ter uma carta Phen, permitindo que conjuradores não sejam interrompidos. **True Defense** oferece uma mitigação de dano consistente.
 
-Move Speed / Walk Delay - WD
-Sim, além de habilidades e poções, seu sapato pode vir com bônus de move speed.
-Ex: acho que o nome é meio óbvio, mas você anda mais rápido quanto menos walk delay você tiver.
-Ozzi: Tome cuidado para não confundir. Tem algumas skills que aumentam o Walk Delay, e isso é negativo, porque você fica mais lento que o padrão. Quanto menor o Walk Delay, melhor!
+## Métricas de Utilidade
 
-Shield ASPD Penalty 
-Odeio o Renewal por inventar a perda de aspd ao equipar escudo, mas esse bônus faz com que uma parte da penalidade seja mitigada.
-Cada classe possui um valor fixo de perda de ASPD ao utilizar escudo, sendo:
+| Métrica | Descrição | Exemplo |
+| :--- | :--- | :--- |
+| **Move Speed / Walk Delay (WD)** | Aumenta a velocidade de movimento do personagem. | Sapatos com bônus de Move Speed reduzem o Walk Delay. |
+| **Shield ASPD Penalty (SASDP)** | Reduz a penalidade de velocidade de ataque ao usar um escudo. | Com 30% de SASDP, você recupera 30% da ASPD perdida com o escudo. |
+| **HP/SP Regeneration** | Aumenta a quantidade de HP/SP recuperada por segundo. | Uma armadura com 20 de HP Regeneration recupera 20 de HP por segundo. |
+| **Negating Status (NSE/NSR)** | Aumenta a eficácia ou a resistência a efeitos de status negativos. | Aumenta a chance de aplicar ou resistir a atordoamento, silêncio, etc. |
 
+## Delay After Attack (DDA) e Attack Speed (ASPD)
 
+O **Delay After Attack (DDA)** é um conceito fundamental para entender como a velocidade de ataque (ASPD) funciona no Myth of Yggdrasil. O DDA representa a porcentagem que falta para atingir a ASPD máxima (191). A fórmula para calcular o DDA é:
 
-Ex: Com 30% de SASPDP, você recupera 30% da penalidade de ASPD ao usar Shield.
-Ozzi: Normalmente em Renewal eu abro mão de escudo em prol da aspd. Mas como temos um sistema de singularidades no Myth, esse bônus é muito importante caso você esteja fazendo um personagem de auto ataque.
+`DDA = (ASPD / ASPD Máxima) * 100`
 
-Delay after attack & Attack Speed - DDA & ASPD
-Aumenta sua velocidade de ataque e auxilia em algumas skills específicas a serem utilizadas com maior velocidade e menor tempo de espera.
+Por exemplo, um personagem com 139 de ASPD atingiu aproximadamente 73% da ASPD máxima, o que significa que seu DDA é de 27%. Itens e habilidades que reduzem o DDA são mais eficazes para personagens que já possuem uma alta ASPD.
 
-Ozzi: Aqui eu vou aproveitar para te dar uma aula de matemática sobre todo o processo do funcionamento do DDA e ASPD.
+---
 
-Cada personagem tem uma ASPD padrão, assim como cada arma tem uma ASPD própria, sendo adagas mais rápidas e armas de duas mãos mais lentas.
-
-Vamos usar um aprendiz como referência, ele usando uma incrível Knife e um Guard para já aproveitar para explicar o Shield Penalty.
-
-Como era de se esperar, a AGI do personagem aumenta seu ASPD, assim como a DEX também impacta na ASPD, mas em menor quantidade.
-
-Para facilitar, podemos dizer que DEX impacta UM TERÇO na ASPD em relação a AGI.
-
-Então temos o seguinte cenário no aumento de AGI e DEX para comparação do nosso aprendiz:
-
-
-
-Como podemos observar, a DEX ajuda na ASPD, mas em uma quantidade bem baixa em relação a AGI. Portanto, o equilíbrio entre os dois é importante.
-
-A AGI tem uma porção maior na equação de ASPD, principalmente em grandes quantidades.
-
-Para melhor performance, considerando somente ASPD e ignorando HIT, não há porque gastar mais que 40 ou 50 de DEX, já que seriam muitos pontos investidos para um benefício tão baixo.
-
-Se você for uma classe que utiliza DEX como primário (Hunter, Stalker de Arco, Gunslinger, etc). Neste caso a DEX acaba sendo obrigatória e você pode manter a AGI conforme a necessidade de sua build.
-
-Mas mesmo assim, você não vai conseguir atingir o limite de 191 de ASPD só utilizando AGI e DEX, pois existe outro fator, que é o DDA (Delay After Attack).
-
-Mas o que é o DDA?
-O DDA é a porcentagem que falta para você atingir o limite de ASPD máximo.
-
-Parece complexo mas não é tanto, vamos pegar nosso aprendiz equipado com uma faca e um escudo como exemplo novamente.
-
-Esse aprendiz com AGI 40 e DEX 30 vai ter 139 de ASPD, e o valor máximo de ASPD é 191. Então bora para a regra de três.
-
-DDA = (ASPD / ASPD MÁXIMA) * 100
-DDA = (139 / 191) * 100
-DDA = 0,7277486910994764 * 100 
-DDA = 72,77486910994764
-DDA = 73 (Arredondando)
-
-Ou seja, o meu aprendiz com ASPD de 139 atingiu 73% da ASPD máxima e seu DDA é de 27%, fácil né? 👀
-
-Vamos supor então que você utilize uma Awakening Potion, que diminui o DDA em -10%. Então é só fazer a conta para descobrir quanto é +10% do 73%, vou colocar o cálculo embora seja óbvio:
-
-Awakening: (ASPD / DDA) - ((Awakening * DDA) / 100)
-Awakening: (139 / 73) - ((10 * 73) / 100)
-Awakening:  1,904109589041096 - (730 / 100)
-Awakening:  1,904109589041096 - 7,3
-Awakening: -5,395890410958904
-Awakening: -5 (Arredondando)
-
-Então nosso aprendiz de 139 de ASPD usando uma Awakening vai ter um aumento de 5 em sua ASPD final considerando seu 73% de atingimento de DDA inicial
-
-Moleza né? 🔥💚 
-
-Então você precisa entender o que vale a pena para o seu personagem, pois quanto menor a ASPD que você tem, maior o DDA e vice-versa
-
-Muitas vezes quando você tiver um alto ASPD será melhor um bônus de redução de DDA, assim como o contrário também é verdadeiro.
-
-O escudo em seu personagem também impacta todo esse cálculo, porque ele diminui sua ASPD em um valor fixo como comentei em Shield Penalty. 
-
-Então o nosso aprendiz que tem 139 de ASPD, se ele remover o escudo, ele vai receber de volta seus 10 pontos de ASPD e ficar com 149 de ASPD.
-
-
-HP Regeneration e SP Regeneration
-Além da sua recuperação habitual, você pode ter equipamentos que dão uma quantidade fixa de aumento de recuperação.
-Ex: Uma armadura com 20 de HP Regeneration vai recuperar 20 de hp por tick de recuperação.
-
-Ozzi: É bem quebrado no começo, tanto o HP quanto o SP, pois a recuperação inicial de seu personagem é bem baixa, então ajuda muito nos primeiros níveis.
-
-
-Negating Status Eficiente - NSE / Negating Status Resistance - NSR
-Aumenta a efetividade ou resistência a status negativos 
-(Cegueira, Maldição, Tonteamento, Congelamento, Silêncio, etc)
-
-Ozzi: Sim, você pode ter uma chance a mais de aplicar um efeito negativo além do já esperado em uma carta, habilidade ou equipamento.
-
-Physical Strike / Magical Strike
-A cada skill ou ataque normal você tem x% de Strike de dar 40% mais dano.
-Ex: Com 12% de Strike sua skill que dá 5k de dano vai dar 2k a mais de dano.
-
-Ozzi: Pense como se fosse um “Crit” mas que aumenta consideravelmente seu dano às vezes. Uma build focada totalmente em Strike pode auxiliar muito no dano, pois o esforço para conseguir 40% a mais de damage no end game é bem custoso.
-Ah! Strike pode ser crítico! São cálculos diferentes!
-
-
-True Damage / True Magic Attack
-O nome já é sugestivo, mas é o valor de dano verdadeiro que você aplica em cada ataque.
-Ex: Com 150 de True Damage cada ataque vai adicionar 150 no valor do dano independente da Vit/int ou Def/Mdef dos inimigos.
-
-Ozzi: Outro status que no começo do jogo pode derreter inimigos facilmente, porque é um dano total final, então seu aprendiz que dá 20 de dano pode dar 120 de dano com apenas 100 de true ataque.
-
-
-True Defense / True Magic Defense
-É a mesma coisa que True Damage, só que ao contrário, é um valor fixo de quanto você vai defender após os cálculos de Soft, Hard Def/Hard MDEF.
-
-Aqui eu vou explicar com mais detalhes para aproveitar sobre a dinâmica do Hard e Soft.
-
-Vamos supor que você tem um personagem com 30 de Vit, uma armadura de 6 de defesa refinada em +4 com True Defense 50 e você recebe um ataque de 1000.
-
-Primeiro o dano será reduzido pela Hard Def, que é proveniente de seus equipamentos e de seus refinos. 
-
-Neste caso, com uma armada de 6 de defesa e + 4 de refino, totaliza 10 de Hard Def, o que vai diminuir mais ou menos entre 9% e 11% o dano recebido, já que o cálculo do servidor é Renewal. 
-
-Então com a Hard Def o dano que você iria receber seria de 910.
-
-Mas ainda tem a Soft Def, que é um valor fixo que é diminuído do dano após o cálculo de Hard Def baseado em seu level e VIT, ou seja, aproximadamente 30 já que o cálculo do servidor é Renewal
-
-Então com Soft Def o valor que você iria receber de dano seria 880.
-
-Mas ainda no final do cálculo é atribuído a True Defense, que é mais um valor flat que é reduzido no dano de forma real, sem qualquer outra variação, que neste caso seria mais 50.
-
-Então após a Hard Def, a Soft Def e o True Defense, você receberia somente 830 de dano.
-
-No caso de True Magic Defense, funciona de forma similar, mas considerando INT ao invés de VIT e MDEF ao invés de DEF para os cálculos.
-
-Ozzi: Temos muitas possibilidades a mais com esses status novos, por isso é importante sempre analisar qual melhor equipamento para a sua classe.
-
-________________________________________________________________________________
-
-
+*Compreender essas novas métricas é crucial para otimizar sua build e se adaptar aos desafios do Myth of Yggdrasil. Experimente diferentes combinações para descobrir o que funciona melhor para a sua classe e estilo de jogo.*
