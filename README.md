@@ -1,6 +1,6 @@
 # 🌳 Myth of Yggdrasil — Wiki Oficial
 
-[![GitHub Pages Status](https://github.com/mythofyggdrasil/mythofyggdrasil.github.io/actions/workflows/mkdocs.yml/badge.svg)](https://github.com/mythofyggdrasil/mythofyggdrasil.github.io/actions/workflows/mkdocs.yml)
+[Acesse a wiki por aqui](https://mythofyggdrasil.github.io/).
 
 Este repositório contém o código-fonte e o conteúdo da **Wiki Oficial do Myth of Yggdrasil**, um servidor privado de Ragnarok Online focado em uma experiência de jogo renovada, com mecânicas únicas e uma forte ênfase em *lore* e *quests*.
 
