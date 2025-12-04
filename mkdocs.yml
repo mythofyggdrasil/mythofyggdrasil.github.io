@@ -28,6 +28,7 @@ theme:
 
 plugins:
   - search
+  - sitemap
 
 markdown_extensions:
   - toc:
@@ -55,8 +56,10 @@ nav:
     - Novas Métricas: metricas.md
   - Personagem:
     - Jobs e Progressão: jobs.md
+    - Guia de Up: guia-de-up.md
     - Omnibook: omnibook.md
   - Mecânicas:
+    - Todos os Reforges: todos-os-reforges.md
     - Cura e Sucos: cura.md
     - Pets: pets.md
     - Smart Cast: smart.md
@@ -65,5 +68,7 @@ nav:
     - Durabilidade: durabilidade.md
   - Rankings:
     - Ranking de Equipamentos: ranking.md
+  - Ferramentas:
+    - Skill Calculator: skill-calculator.md
   - Quests:
     - Quests de Chapéus: hat-quests.md

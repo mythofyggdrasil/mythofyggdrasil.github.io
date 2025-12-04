@@ -76,6 +76,7 @@ Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor
 
 ### Mecânicas Avançadas
 
+*   [Todos os Reforges](todos-os-reforges.md) - Guia completo de encantamentos de arma.
 *   [Cura e Sucos](cura.md) - Sistema de consumo por tempo.
 *   [Pets](pets.md) - Guia completo do sistema de pets.
 *   [Smart Cast](smart.md) - Automação de skills e itens.
@@ -86,7 +87,12 @@ Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor
 ### Progressão e Classes
 
 *   [Jobs e Progressão](jobs.md) - Sistema de classes e evolução.
+*   [Guia de Up](guia-de-up.md) - Locais de caça e dicas para subir de nível.
 *   [Ranking de Equipamentos](ranking.md) - Sistema de estrelas e upgrades.
+
+### Ferramentas
+
+*   [Skill Calculator](skill-calculator.md) - Ferramenta para planejar a distribuição de habilidades.
 
 ### Quests e Itens
 
