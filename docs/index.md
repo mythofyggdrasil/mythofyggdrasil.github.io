@@ -62,6 +62,33 @@ Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor
 
     [:octicons-arrow-right-24: Domesticar](pets.md)
 
+-   :chart_with_upwards_trend: **Guia de Up**
+
+    ---
+
+    Locais de caça e dicas para subir de nível de forma eficiente.
+
+    [:octicons-arrow-right-24: Evoluir](guia-de-up.md)
+
+-   :video_camera: **Streamers Oficiais**
+
+    ---
+
+    Apoie a comunidade! Assista aos streamers oficiais do Myth of Yggdrasil na Twitch.
+
+    [:octicons-arrow-right-24: Juliezinha](https://www.twitch.tv/julliezinha)
+    [:octicons-arrow-right-24: Suigh](https://www.twitch.tv/suigh)
+    [:octicons-arrow-right-24: Skzhito](https://www.twitch.tv/skzhito)
+    [:octicons-arrow-right-24: Lokaltgames](https://www.twitch.tv/lokaltgames)
+
+-   :hammer_and_wrench: **Builds**
+
+    ---
+
+    Índice de guias de builds e classes para otimizar seu personagem.
+
+    [:octicons-arrow-right-24: Montar Build](builds.md)
+
 </div>
 
 ---
@@ -89,6 +116,7 @@ Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor
 *   [Jobs e Progressão](jobs.md) - Sistema de classes e evolução.
 *   [Guia de Up](guia-de-up.md) - Locais de caça e dicas para subir de nível.
 *   [Ranking de Equipamentos](ranking.md) - Sistema de estrelas e upgrades.
+*   [Builds e Guias de Classes](builds.md) - Índice de guias de builds.
 
 ### Ferramentas
 
