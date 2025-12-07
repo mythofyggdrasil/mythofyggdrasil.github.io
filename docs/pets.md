@@ -19,7 +19,7 @@ Esqueça os métodos tradicionais. Aqui, você precisará da ajuda do NPC **Mr. 
 Você pode aceitar missões diárias com o Mr. Catchum para coletar itens de uma raça específica de monstro.
 * **Recompensa:** Entre 10 a 50 itens de captura, dependendo da dificuldade escolhida.
 * **Cooldown:** A missão pode ser realizada a cada 24 horas.
-* **Escalonamento:** Quanto maior o seu nível, mais itens você recebe, mas mais difícil será a coleta.
+* **Escalonamento:** Quanto maior o seu nível, mais itens você recebe, mas mais difícil será a coleta (mapas de nível mais alto).
 
 > **💡 Dica do Ozzi:**
 > "Não acho que compense criar itens (Crafting) a menos que você já tenha os materiais sobrando. O tempo que você levaria para farmar os ingredientes do craft é melhor investido na Quest de Coleta, que rende muito mais itens de captura."
@@ -88,7 +88,7 @@ Cada pet pertence a uma "Classe" que define seu comportamento em combate:
 
 ## 🏆 Tier List: Destaques do Meta
 
-Abaixo, uma análise estratégica dos pets mais impactantes para builds específicas.
+Abaixo, uma análise estratégica dos pets mais impactantes para builds específicas, com base em suas habilidades.
 
 ### Classes Mágicas (Casters)
 | Pet | Tier | Habilidade Chave | Motivo |
@@ -100,7 +100,7 @@ Abaixo, uma análise estratégica dos pets mais impactantes para builds específ
 ### Classes Físicas (DPS)
 | Pet | Tier | Habilidade Chave | Motivo |
 | :--- | :---: | :--- | :--- |
-| **Metaller** | **S** | **Assassin Cross of Sunset Lv5** | Buff massivo de ASPD e Precisão. |
+| **Metaller** | **S** | **Ass. Cross Sunset Lv5** | Buff massivo de ASPD e Precisão. |
 | **Lunatic** | **S** | **Gloria Lv1** | +30 de LUK para builds de Crítico. |
 | **Goblin Mace**| **S** | **Power Thrust Lv5** | Aumento bruto de dano físico. |
 
