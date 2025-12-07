@@ -1,11 +1,11 @@
 ---
 title: Guia de Pets e Habilidades
-description: Guia completo de pets do Myth of Yggdrasil: captura, equipamentos, tier list, habilidades e banco de dados completo.
+description: "Guia completo de pets do Myth of Yggdrasil: captura, equipamentos, tier list, habilidades e banco de dados completo."
 ---
 
 # 🥚 Guia de Pets e Habilidades Customizadas
 
-No servidor **Myth of Yggdrasil**, os pets transcendem a função de meros companheiros cosméticos. Eles são uma parte essencial da sua estratégia, equipados com habilidades de classes avançadas, buffs poderosos e até funções de utilidade como **Autoloot**.
+No servidor **Myth of Yggdrasil**, os pets transcendem a função de meros companheiros cosméticos. Eles são uma parte essencial da sua estratégia, equipados com habilidades de classes avançadas, buffs poderosos e até funções de utilidade essenciais como o **Autoloot**.
 
 Este guia cobre desde a captura com o **Mr. Catchum** até a análise do metagame para PvE e PvP.
 
@@ -13,16 +13,16 @@ Este guia cobre desde a captura com o **Mr. Catchum** até a análise do metagam
 
 ## 🎣 Como Capturar seu Pet
 
-Esqueça os métodos tradicionais. Aqui, você precisará da ajuda do NPC **Mr. Catchum**, encontrado na **Taverna** de todas as cidades principais. Existem duas formas de obter os itens de captura (Taming Items):
+Esqueça os métodos tradicionais. Aqui, você precisará da ajuda do NPC **Mr. Catchum**, encontrado na **Taverna** de todas as cidades principais. Existem duas formas de obter os itens de captura (*Taming Items*):
 
 ### 1. Quests de Coleta (Recomendado)
 Você pode aceitar missões diárias com o Mr. Catchum para coletar itens de uma raça específica de monstro.
 * **Recompensa:** Entre 10 a 50 itens de captura, dependendo da dificuldade escolhida.
 * **Cooldown:** A missão pode ser realizada a cada 24 horas.
-* **Escalonamento:** Quanto maior o seu nível, mais itens você recebe, mas mais difícil será a coleta (mapas de nível mais alto).
+* **Escalonamento:** Quanto maior o seu nível, mais itens você recebe, porém a coleta será em mapas mais difíceis.
 
-> **💡 Dica do Ozzi:**
-> "Não acho que compense criar itens (Crafting) a menos que você já tenha os materiais sobrando. O tempo que você levaria para farmar os ingredientes do craft é melhor investido na Quest de Coleta, que rende muito mais itens de captura."
+> **💡 Dica de Ouro:**
+> Não compensa criar itens (*Crafting*) a menos que você já tenha os materiais sobrando. O tempo investido para farmar os ingredientes do craft é melhor aproveitado na **Quest de Coleta**, que rende muito mais itens de captura de uma só vez.
 
 ### 2. Troca de Itens (Crafting)
 Você pode trocar drops comuns de monstros por itens de captura separados por raça (Amorfo, Anjo, Bruto, Demônio, Dragão, Demi-Humano, Inseto, Morto-Vivo, Peixe, Planta).
@@ -30,20 +30,20 @@ Você pode trocar drops comuns de monstros por itens de captura separados por ra
 ### Taxa de Sucesso
 Ter o item não garante o pet.
 * Pets de nível alto são mais difíceis de capturar.
-* **Estimativa:** A taxa gira em torno de **5%** se o seu nível for maior que o do monstro. Esteja preparado para gastar de 10 a 30 itens para garantir sua captura.
+* **Estimativa:** A taxa gira em torno de **5%** se o seu nível for maior que o do monstro. Esteja preparado para gastar de 10 a 30 itens para garantir a captura de pets mais simples, como um Lunático.
 
 ---
 
-## ⚙️ Sistemas e Mecânicas do Pet
+## ⚙️ Sistemas e Mecânicas
 
 Uma vez capturado, seu pet possui diversas mecânicas que influenciam seu desempenho. Acesse o menu do pet com **CTRL + J** ou clicando com o botão direito nele.
 
 ### Evolução e Alimento
-* **Leveling:** Os pets ganham uma fração da EXP dos monstros que você elimina. É recomendado manter um grupo seleto de pets evoluídos.
-* **Comida:** Todos os pets comem **Pet Food**, vendida nas lojas de utilidades (Utility Shop) das cidades.
+* **Leveling:** Os pets ganham uma fração da EXP dos monstros que você elimina. É recomendado manter um grupo seleto de pets evoluídos para alternar conforme a necessidade.
+* **Comida:** Todos os pets comem **Pet Food**, vendida nas lojas de utilidades (*Utility Shop*) das cidades.
 
 ### Amizade e Cooldown (Friendship)
-A lealdade do pet impacta diretamente na frequência com que ele usa habilidades. Quanto maior a amizade, menor o tempo de recarga (Cooldown):
+A lealdade do pet impacta diretamente na frequência com que ele usa habilidades. Quanto maior a amizade, menor o tempo de recarga (*Cooldown*):
 
 | Nível de Amizade | Redução de Cooldown |
 | :--- | :---: |
@@ -53,7 +53,7 @@ A lealdade do pet impacta diretamente na frequência com que ele usa habilidades
 | Leal | **-25%** |
 
 ### DNA (Raridade)
-Ao capturar ou chocar um pet, ele pode vir com características especiais de raridade visual:
+Ao capturar ou chocar um pet, ele pode vir com características visuais especiais (RNG):
 1.  **Brilhante (Shiny)**
 2.  **Cor Alternativa**
 3.  **Híbrido:** Brilhante e com cor diferente (muito raro).
@@ -71,7 +71,8 @@ Você pode equipar itens no seu pet para conceder bônus ao dono ou utilitários
 | **Guard [0] ou [1]** | **Pet Armor** | DEF +25, HP Máximo +10% |
 | **Cotton Shirt [0] ou [1]** | **Pet Backpack** | Capacidade de Peso +100, **Autoloot** |
 
-> **🌟 Destaque:** A **Pet Backpack** (feita com Cotton Shirt +7) é um dos itens mais valiosos do jogo, pois habilita o **Autoloot**, fazendo seu pet recolher automaticamente todos os itens do chão para o seu inventário.
+> **🌟 Destaque: Pet Backpack**
+> Feita com uma `Cotton Shirt +7`, este é um dos itens mais valiosos do jogo. Ela habilita o **Autoloot**, fazendo seu pet recolher automaticamente todos os itens do chão direto para o seu inventário.
 
 ---
 
@@ -88,34 +89,34 @@ Cada pet pertence a uma "Classe" que define seu comportamento em combate:
 
 ## 🏆 Tier List: Destaques do Meta
 
-Abaixo, uma análise estratégica dos pets mais impactantes para builds específicas, com base em suas habilidades.
+Abaixo, uma análise estratégica dos pets mais impactantes para builds específicas.
 
 ### Classes Mágicas (Casters)
 | Pet | Tier | Habilidade Chave | Motivo |
 | :--- | :---: | :--- | :--- |
-| **Rocker** | **S** | **Poem of Bragi Lv5** | Redução massiva de cast e delay. |
-| **Creamy** | **A** | **Blessing Lv5** | +10 em todos os status (INT/DEX/STR). |
-| **Willow** | **A** | **Pure Soul Lv2** | Regeneração de SP infinita para upar. |
+| **Rocker** | **S** | **Poem of Bragi Lv5** | Redução massiva de cast e delay. Indispensável. |
+| **Creamy** | **A** | **Blessing Lv5** | +10 em todos os status (INT/DEX/STR). Ótimo buff geral. |
+| **Willow** | **A** | **Pure Soul Lv2** | Regeneração de SP massiva, permitindo upar sem parar. |
 
 ### Classes Físicas (DPS)
 | Pet | Tier | Habilidade Chave | Motivo |
 | :--- | :---: | :--- | :--- |
-| **Metaller** | **S** | **Ass. Cross Sunset Lv5** | Buff massivo de ASPD e Precisão. |
-| **Lunatic** | **S** | **Gloria Lv1** | +30 de LUK para builds de Crítico. |
-| **Goblin Mace**| **S** | **Power Thrust Lv5** | Aumento bruto de dano físico. |
+| **Metaller** | **S** | **Ass. Cross Sunset Lv5** | Aumenta ASPD e Precisão. Crucial para DPS. |
+| **Lunatic** | **S** | **Gloria Lv1** | +30 de LUK. Essencial para builds de Crítico. |
+| **Goblin Mace**| **S** | **Power Thrust Lv5** | Aumento bruto de dano físico na arma. |
 
 ### Tanques e PvP
 | Pet | Tier | Habilidade Chave | Motivo |
 | :--- | :---: | :--- | :--- |
-| **Golem** | **S** | **Guard Lv10** | Bloqueio físico. |
-| **Smokie** | **PvP**| **Weapon Strip Lv5** | Desarma inimigos físicos. |
-| **Thief Bug**| **PvP**| **Armor Stripping Lv5** | Remove armadura do alvo. |
+| **Golem** | **S** | **Guard Lv10** | Chance de bloqueio físico total. |
+| **Smokie** | **PvP**| **Weapon Strip Lv5** | Desarma classes físicas inimigas. |
+| **Thief Bug**| **PvP**| **Armor Stripping Lv5** | Remove armadura do alvo, aumentando dano recebido. |
 
 ---
 
 ## 📚 Banco de Dados Completo
 
-Lista detalhada de todos os pets disponíveis, seus tipos e o kit de 3 habilidades.
+Lista detalhada de todos os pets disponíveis, organizados por raça.
 
 ### 🌱 Planta (Plant)
 | Pet | Classe | Skill 1 | Skill 2 | Skill 3 |
@@ -201,4 +202,4 @@ Lista detalhada de todos os pets disponíveis, seus tipos e o kit de 3 habilidad
 
 ---
 
-> **Nota do Editor:** Este guia foi atualizado com base nas contribuições da comunidade e no vídeo de [Lokalt no YouTube](https://www.youtube.com/watch?v=xCPwu9Ik5_s). Algumas habilidades podem sofrer balanceamento em patches futuros.
+*Este guia foi atualizado com base no feedback da comunidade e nas mecânicas vigentes no servidor.*
