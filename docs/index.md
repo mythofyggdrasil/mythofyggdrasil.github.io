@@ -84,10 +84,10 @@ Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor
 
     Apoie a comunidade! Assista aos streamers oficiais do Myth of Yggdrasil na Twitch.
 
-    *   [:octicons-arrow-right-24: Juliezinha](https://www.twitch.tv/julliezinha )
-    *   [:octicons-arrow-right-24: Suigh](https://www.twitch.tv/suigh )
     *   [:octicons-arrow-right-24: Skzhito](https://www.twitch.tv/skzhito )
+    *   [:octicons-arrow-right-24: Suigh](https://www.twitch.tv/suigh )
     *   [:octicons-arrow-right-24: Lokaltgames](https://www.twitch.tv/lokaltgames )
+    *   [:octicons-arrow-right-24: Juliezinha](https://www.twitch.tv/julliezinha )
 
 
 
