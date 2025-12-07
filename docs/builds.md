@@ -30,7 +30,7 @@ Selecione sua classe para acessar os guias de build, habilidades e equipamentos.
 | **Gatuno (Thief)** | | Em Breve |
 | Mercenário (Assassin) | [Assassin Cross - Guia Externo] [1] | Guia Externo |
 | Desordeiro (Rogue) | | Em Breve |
-| **Noviço (Acolyte)** | | Em Breve |
+| **| Noviço (Acolyte) | [Guia de Up (Holy Light)](builds/novico.md) | Guia Interno |
 | Sacerdote (Priest) | | Em Breve |
 | Monge (Monk) | [Monk/Champion - Guia Externo] [2] | Guia Externo |
 
