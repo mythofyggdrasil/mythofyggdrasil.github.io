@@ -70,18 +70,6 @@ Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor
 
     [:octicons-arrow-right-24: Evoluir](guia-de-up.md)
 
--   :video_camera: **Streamers Oficiais**
-
-    ---
-
-    Apoie a comunidade! Assista aos streamers oficiais do Myth of Yggdrasil na Twitch.
-
-    
-*   [:octicons-arrow-right-24: Suigh](https://www.twitch.tv/suigh)
-*   [:octicons-arrow-right-24: Skzhito](https://www.twitch.tv/skzhito)
-*   [:octicons-arrow-right-24: Lokaltgames](https://www.twitch.tv/lokaltgames)
-*   [:octicons-arrow-right-24: Juliezinha](https://www.twitch.tv/julliezinha)
-
 -   :hammer_and_wrench: **Builds**
 
     ---
@@ -89,6 +77,19 @@ Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor
     Índice de guias de builds e classes para otimizar seu personagem.
 
     [:octicons-arrow-right-24: Montar Build](builds.md)
+
+-   :video_camera: **Streamers Oficiais**
+
+    ---
+
+    Apoie a comunidade! Assista aos streamers oficiais do Myth of Yggdrasil na Twitch.
+
+    *   [:octicons-arrow-right-24: Juliezinha](https://www.twitch.tv/julliezinha )
+    *   [:octicons-arrow-right-24: Suigh](https://www.twitch.tv/suigh )
+    *   [:octicons-arrow-right-24: Skzhito](https://www.twitch.tv/skzhito )
+    *   [:octicons-arrow-right-24: Lokaltgames](https://www.twitch.tv/lokaltgames )
+
+
 
 </div>
 
