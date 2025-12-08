@@ -28,7 +28,7 @@ Selecione sua classe para acessar os guias de build, habilidades e equipamentos.
 | Ferreiro (Blacksmith) | | Em Breve |
 | Alquimista (Alchemist) | | Em Breve |
 | **Gatuno (Thief)** | | Em Breve |
-| Mercenário (Assassin) | [Guia Rápido (AA/MA)](builds/assassin-cross.md) e [Quest de Mudança] [1] | Guia e Quest |
+| Mercenário (Assassin) | [Builds AA e MA](builds/assassin-cross.md) e [Quest de Mudança] [1] | Guia e Quest |
 | Desordeiro (Rogue) | | Em Breve |
 | **Noviço (Acolyte)**| [Build pra Up (Holy Light)](builds/novico.md) | Guia pra Up |
 | Sacerdote (Priest) | | Em Breve |
