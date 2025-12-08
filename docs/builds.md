@@ -30,12 +30,12 @@ Selecione sua classe para acessar os guias de build, habilidades e equipamentos.
 | **Gatuno (Thief)** | | Em Breve |
 | Mercenário (Assassin) | [Guia Externo] [1] e Quest de Mudança [3] | Guia Externo e Quest |
 | Desordeiro (Rogue) | | Em Breve |
-| **Noviço (Acolyte)**| | [Guia de Up (Holy Light)](builds/novico.md) | Guia Interno |
+| **Noviço (Acolyte)**| [Build pra Up (Holy Light)](builds/novico.md) | Guia Interno |
 | Sacerdote (Priest) | | Em Breve |
 | Monge (Monk) | [Monk/Champion - Guia Externo] [2] | Guia Externo |
 
 ## 🔗 Referências
 
-[1]: https://docs.google.com/document/d/1E4CgeyOnRhvf-wCLmsEbOteVaeVLPur4nR8PB-tpxK0/edit?tab=t.0 "Assassin Cross - Guia Externo"
-[2]: https://alexandrelfilho.github.io/Nykahub/monk_tss.html "Monk/Champion - Guia Externo"
-[3]: https://www.youtube.com/watch?v=OuxWSsRrwtw "Quest de Mudança de Classe"
+[1]: https://docs.google.com/document/d/1E4CgeyOnRhvf-wCLmsEbOteVaeVLPur4nR8PB-tpxK0/edit?tab=t.0 "Assassin Cross"
+[2]: https://alexandrelfilho.github.io/Nykahub/monk_tss.html "Build de Disparo (TSS)"
+[3]: https://www.youtube.com/watch?v=OuxWSsRrwtw "Mudança de Classe"
