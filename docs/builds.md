@@ -16,7 +16,7 @@ Selecione sua classe para acessar os guias de build, habilidades e equipamentos.
 | Classe | Guia de Build | Status |
 | :--- | :--- | :--- |
 | **Espadachim (Swordman)** | | Em Breve |
-| Cavaleiro (Knight) | | Em Breve |
+| Cavaleiro (Knight) | [Build de Pierce](builds/cavaleiro.md) | Em Breve |
 | Templário (Crusader) | | Em Breve |
 | **Mago (Mage)** | | Em Breve |
 | Bruxo (Wizard) | | Em Breve |
