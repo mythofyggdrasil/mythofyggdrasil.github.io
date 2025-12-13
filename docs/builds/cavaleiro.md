@@ -22,7 +22,14 @@ Como a habilidade escala com agilidade, o foco muda um pouco do tradicional "Ful
 
 ## ✨ Skills e Legacy Skills
 
-O foco principal é o spam da habilidade **Pierce**. No entanto, as *Legacy Skills* mudam a dinâmica do jogo:
+O foco principal é o spam da habilidade **Pierce**. No entanto, as *Legacy Skills* também são importantes, pois mudam a dinâmica do jogo:
+
+### Skills (Ordem Recomendada)
+1.  **Bash:** Skill básica do espadachim para dar dano, é a que será substituída por Pierce quando virar Cavaleiro, pegue ela primeiramente no 5 para liberar Magnum Break e depois no 10.
+2.  **Magnum Break:** Skill de dano em área do espadachim, muito útil pra mapas como Formigueiro Infernal ou Orcs (normais e zumbis). Aliada à Legacy Skill Magnum Implosion, essa skill se torna excelente para o leveling.
+3.  **Pierce**: Assim que virar Cavaleiro, priorize pegar essa skill, pois vai ser o core da sua build.
+4.  **Lança**: Tudo que tiver lança, pois será sua arma principal: Mastery de lança, Rapidez com Lança, Lança-perfume, tudo.
+5.  **Peco Peco/Riding**: Quem não gosta de correr montado no Peco? Pegue essas skills assim que possível pra poder montar seu Peco Peco.
 
 ### Legacy Skills (Ordem Recomendada)
 1.  **Magnum Implosion:** Escolha esta primeiro. Ela altera o funcionamento do *Magnum Break*. Ao invés de empurrar os inimigos para longe, ela **puxa os inimigos para perto** de você, facilitando o controle de mob e o uso de habilidades.
