@@ -30,17 +30,22 @@ O foco principal é o spam da habilidade **Pierce**. No entanto, as *Legacy Skil
 
 ## ⚔️ Equipamentos e Armas
 
-Para começar com o pé direito, uma arma específica farmável é altamente recomendada.
+Para começar com o pé direito, uma lança forte e farmável como a **Halberd** é altamente recomendada, além de uma armadura o mais pesada possível, pra combinar com o bônus de defesa da Legacy Skill, como uma **Full Plate**.
 
-### A Arma "Old Stove"
-Existe um monstro chamado **Old Stove** que dropa uma arma excelente para essa build.
-* **Dica de Farm:** Se você tiver outro personagem mais forte ou com mais mobilidade (como um Monk ou SinX), vá caçar Old Stoves com ele.
-* **Objetivo:** Tente dropar cerca de 20 armas dessas para identificar as *Singularities* (bônus aleatórios).
-* **Bônus Ideal:** Procure por armas que venham com 3 atributos focados em **ASPD** (Velocidade de Ataque) ou **DAA** (Double Attack Action/Chance). Isso fará seu personagem começar muito forte ("tunado").
+### Halberd
+Dropa de **Old Stove**, um monstro level 92. 
+
+* **Dica de Farm:** Se você tiver outro personagem mais forte que já consiga matar esse monstro facilmente e de preferência em área, vá caçar Old Stoves com ele.
+
+* **Objetivo:** Tente dropar várias Halberds (cerca de 20 armas seria o ideal) para conseguir as melhores *Singularities* (bônus aleatórios).
+
+* **Bônus Ideal:** Procure por armas que venham com 3 atributos focados em **ASPD** (Velocidade de Ataque) ou **DAA** (Delay After Attack). Isso fará seu personagem começar muito forte, pois já aumentará bastante a velocidade de uso do **Pierce**.
 
 ### Sustentabilidade (SP)
 O maior gargalo dessa build é o consumo de SP, pois você usará o Pierce repetidamente como se fosse um ataque básico.
+
 * **Sapatos (Shoes):** É vital conseguir um par de sapatos com **2x SP Recovery**.
+
 * **Realidade:** Apenas ter estrelas de SP não é suficiente. Mesmo com 4 estrelas de SP e 1 singularidade de recuperação, ainda é comum ter que sentar para recuperar mana a cada 20~30 segundos de combate intenso. Priorize regeneração de SP acima de tudo no início.
 
 ## 🌟 Star Alignment (Bônus de Estrela)
@@ -49,4 +54,4 @@ A prioridade dos encantamentos estelares deve seguir a progressão do seu person
 
 1.  **Fase de Up (Early/Mid):** **SP Recovery**. Coloque o máximo que puder, especialmente nas botas, para sustentar o spam de Pierce.
 2.  **Fase de Dano (Mid/Late):** Assim que seu SP estiver confortável/infinito, troque os bônus para **Ignore DEF (FLAT)**.
-    * **Atenção:** Invista em penetração de defesa em valores fixos (Flat). **Não** invista em **% Ignore Def** no início ou meio do jogo; porcentagem só vale a pena contra MVPs no *late game* com valores de defesa altíssimos.
+    * **Atenção:** Invista em penetração de defesa em valores fixos (Flat). **Não** invista em **% Ignore Def** no início ou meio do jogo; porcentagem só vale a pena contra MVPs no *late game* com valores de defesa altíssimos, além disso por Cavaleiros já terem muita defesa, principalmente por skills como **Endure**, não é necessário pegar Iron Bastion como a sua twinkling star.
