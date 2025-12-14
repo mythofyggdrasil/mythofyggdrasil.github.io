@@ -143,3 +143,19 @@ Em Dungeons, TODOS os monstros são agressivos! Vá preparado.
 ---
 
 *Baseado no guia do Ozzi - Atualizado para a comunidade brasileira.*
+
+---
+
+![](media/image28.png){width="1.859375546806649in"
+height="1.7634547244094487in"}
+
+**Guia Myth of Yggdrasil**
+
+> De confuso, já basta eu
+
+Última atualização: 23/10/2025
+
+https://acesse.one/GuiaMyth
+
+![](media/image3.png){width="1.0674420384951882in"
+height="0.9340113735783027in"}

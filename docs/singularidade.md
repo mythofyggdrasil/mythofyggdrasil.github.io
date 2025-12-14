@@ -1,60 +1,357 @@
----
-title: Singularidade e Encantamentos
-description: Guia sobre o sistema de Singularidade (encantamentos) para equipamentos e chapéus no Myth of Yggdrasil.
----
-
 # Singularidade e Encantamentos
 
-O sistema de **Singularidade** é a mecânica de encantamentos do Myth of Yggdrasil, permitindo que você adicione bônus aleatórios aos seus equipamentos. Este sistema é dividido em duas partes: os encantamentos gerais com a NPC Raphaela e os encantamentos específicos para chapéus com a NPC Carola.
+Quando você dropa ou compra uma arma, ela não vem com nenhum bônus, mas
+você pode adicionar o bônus adicionando "singularidade" no seu
+equipamento.
 
-## Encantamentos de Singularidade (Raphaela)
+Embora pareça complexo inicialmente, é um processo bem simples.
 
-Com a NPC **Raphaela**, localizada na área dos ferreiros, você pode adicionar até quatro bônus, ou "singularidades", a Armas, Escudos, Capas, Botas e Armaduras. Acessórios e chapéus não podem ser encantados por ela.
+Todos os monstros que você eliminar durante o jogo, tem a chance de
+dropar uma pedra que será usada para adicionar singularidade no seu
+equipamento.
 
-### O Processo de Encantamento
+A pedra dropada varia de acordo com o nível do monstro, conforme a
+tabela a seguir:
 
-1.  **Obtenha as Pedras:** Monstros dropam pedras de singularidade. O tipo de pedra depende do nível do monstro e determina qual slot de encantamento ela pode preencher.
-2.  **Encante o Equipamento:** Você precisará de 4 pedras do mesmo tipo para tentar um encantamento. O bônus recebido é aleatório.
+![](/assets/images/guide_images/image96.png){width="5.657607174103237in"
+height="1.6018886701662292in"}
 
-| Slot | Pedra Necessária |
-| :--- | :--- |
-| 1ª Singularidade | Sunlight Drop |
-| 2ª Singularidade | Ouroboros Cristal |
-| 3ª Singularidade | Philosophical Amber |
-| 4ª Singularidade | Tria Prima Pearl |
+Para a primeira singularidade você vai gastar Sunlight Drop
 
-### Rerolando Bônus
+Para a segunda singularidade você vai gastar Ouroboros Cristal
 
-Se você não gostar do valor do bônus recebido, é possível roletá-lo novamente usando mais pedras. No entanto, atenção: **você só pode alterar o valor do bônus, não o tipo**. Por exemplo, se você recebeu `ASPD +1`, ao roletar novamente, você pode conseguir `ASPD +2` ou `ASPD +3`, mas nunca poderá trocar o bônus de ASPD por outro, como `ATK +5%`.
+Para a terceira singularidade você vai gastar Philosophical Amber
 
-> **Atenção:** Uma vez que um tipo de bônus é aplicado, ele não pode ser trocado. Apenas seu valor pode ser alterado.
+Para a quarta singularidade você vai gastar Tria Prima Pearl
 
-### Tipos de Encantamento para Armas
+Você vai usar **4 pedras** para cada singularidade que deseja adicionar
+ao equipamento e assim receber um bônus aleatório.
 
-Ao encantar uma arma, você pode escolher entre três categorias:
+Para fazer os encantamentos, você precisa ir até o ferreiro da cidade e
+falar com a Raphaela.
 
-*   **Physical:** Focado em dano físico.
-*   **Magical:** Focado em dano mágico.
-*   **Supportive:** Focado em bônus de utilidade.
+![](/assets/images/guide_images/image76.png)
 
-Uma dica importante é que o segundo encantamento de *Physical* ou *Magical* geralmente concede bônus de dano contra uma raça, elemento ou tamanho específico, o que pode tornar sua arma muito situacional. Já a categoria *Supportive* pode conceder bônus mais genéricos e úteis, como `Todos os Atributos +1`.
+No próprio NPC ela tem a opção onde explica melhor qual bônus pode vir
+em cada tipo de equipamento, mas vale mencionar que você apenas pode
+encantar Arma, Escudo, Capa, Bota e Armadura. Não dá para encantar
+Acessórios ou Equipamentos de Cabeça (Low, Mid ou Top) com a Raphaela,
+mas a Carola pode te ajudar nisso.
 
-> **Aviso do Ozzi:** Este sistema pode ser viciante, é pior que o jogo do tigrinho! Tenha cuidado para não gastar todos os seus recursos roletando o bônus perfeito.
+Quando for encantar uma arma, você pode escolher entre as opções de
+Physical, Magical ou Supportive.
 
-***Nota:** O arquivo original não continha as tabelas completas com todos os bônus possíveis para cada tipo de equipamento. Consulte o Omnibook ou a própria NPC Raphaela no jogo para a lista completa.*
+Os próprios nomes já são sugestivos, mas tem uma pegadinha que achei
+legal comentar.
 
----
+O segundo encantamento de Physical ou Magical dará uma porcentagem de
+dano contra uma Raça, Elemento ou Tamanho, o que pode deixar sua arma
+muito específica.
 
-## Encantamentos de Chapéu (Carola)
+Já o segundo encantamento de Supportive pode dar All Stats +1 ou +2,
+Perfect Dodge, Aumentar a Cura Recebida ou adicionar um status negativo
+ao atacar.
 
-A NPC **Carola**, encontrada na Guilda dos Exploradores, é especialista em encantar chapéus. Diferente de Raphaela, com Carola **você pode escolher o bônus** que deseja aplicar.
+Então vale a pena ir testando qual seria a melhor opção para a sua arma
+antes de sair colocando 100% em uma única opção. Faça uma build coerente
+para te ajudar.
 
-### O Processo de Encantamento
+E é bem comum o bônus não vir no valor que você quer,, mas você tem a
+opção de rodar a singularidade novamente gastantando mais pedras e
+alterando o valor do bônus recebido.
 
-1.  **Complete a Quest:** Após entregar 12 *Report Pages* na quest da Guilda dos Exploradores, você habilita os serviços de Carola.
-2.  **Escolha o Encantamento:** Você pode encantar qualquer chapéu duas vezes, desde que os bônus sejam diferentes.
-3.  **Pague o Custo:** Cada encantamento requer uma quantidade de Zeny e itens específicos.
+*Sim, diferente do que você esperava, **rodar novamente** a opção
+somente vai alterar o valor do bônus que você tem, mas **não altera o
+tipo de bônus**.*
 
-Isso permite uma personalização incrível, transformando chapéus padrão em itens poderosos e adaptados à sua build. Por exemplo, você pode adicionar `DEX +3` e `ASPD +5%` a uma Maçã de Guilherme Tell, ou criar chapéus com defesa racial específica para diferentes mapas de caça.
+*Por exemplo, se você estiver com uma adaga qualquer que te dá aspd+1 e
+você roda novamente, não vai haver a possibilidade de trocar aspd por
+outro tipo de bônus, mas você pode conseguir aspd +1 . +2 ou +3 a
+depender do nível do bônus.*
 
-> **Análise do Ozzi:** O sistema da Carola é fantástico para tornar equipamentos padrão ainda mais úteis. O custo é justo e a possibilidade de escolher o bônus permite criar itens verdadeiramente únicos para sua build.
+*Então uma vez ativado um tipo de bônus, não tem como alterar ele,
+somente seu valor.*
+
+![](/assets/images/guide_images/image59.png){width="4.602612642169729in"
+height="1.3659372265966754in"}
+
+Segue a lista completa de bônus que cada equipamento e tipo para você
+poder extrair o máximo de seu equipamento.
+
+Para armas, há uma divisão entre uma mão e duas mãos, já que armas de
+duas mão não podem usar escudo, então os bônus são maiores.
+
+**[One Handed Weapon]{.underline}**
+
+**Physical**
+
+  **Group 1**                        **Group 2**                            
+  ------------------ --------------- ------------- ------------------------ ---------
+  ATK                10\~20                        Pys. Dmg. on Size        1%\~10%
+  True ATK           10\~30                        Pys. Dmg. on Elements    2%\~20%
+  Physical Strike    1\~6                          Pys. Dmg. on Race        2%\~20%
+  Delay After ATK    -1%\~-8%                      Pys. Dmg. on Type        1%\~8%
+  ATK                1%\~8%                                                 
+                                                                            
+  **Group 3**                        **Group 4**                            
+  After Cast Delay   1%\~10%                       ASPD                     1\~2
+  Variable Casting   -1%\~-10%                     Ignore DEF Normal Type   2%\~20%
+  Fixed Casting      -1%\~-25%                     Ignore DEF Boss Type     2%\~20%
+  Fixed Casting      -0,01s\~0,15s                 Pys. Dmg. on Boss Type   1%\~8%
+
+**Magical**
+
+  **Group 1**                        **Group 2**                              
+  ------------------ --------------- ------------- -------------------------- ---------
+  M.ATK              10\~20                        Mgc. Dmg. on Size          1%\~10%
+  True M.ATK         10\~30                        Mgc. Dmg. on Elements      2%\~20%
+  Magical Strike     1\~6                          Mgc. Dmg. on Race          2%\~20%
+  Delay After ATK    -1%\~-8%                      Mgc. Dmg. on Type          1%\~8%
+  M.ATK              1%\~8%                                                   
+                                                                              
+  **Group 3**                        **Group 4**                              
+  After Cast Delay   1%\~10%                       ASPD                       1\~2
+  Variable Casting   -1%\~-10%                     Ignore M.DEF Normal Type   2%\~20%
+  Fixed Casting      -1%\~-25%                     Ignore M.DEF Boss Type     2%\~20%
+  Fixed Casting      -0,01s\~0,15s                 Mgc. Dmg. on Boss Type     1%\~8%
+
+**Supportive**
+
+  **Group 1**                        **Group 2**                             
+  ------------------ --------------- ------------- ------------------------- ----------
+  Max HP             20\~400                       All Stats                 1\~2
+  Max SP             30\~60                        Perfect Dodge             1\~6
+  Flee               1\~10                         Healing Received          1%\~10%
+  Delay After ATK    -1%\~-10%                     Inflict Negative Status   1%\~6%
+  Healing Effect.    1%\~10%                                                 
+                                                                             
+  **Group 3**                        **Group 4**                             
+  After Cast Delay   1%\~10%                       Status Resist             1% \~ 6%
+  Variable Casting   -1%\~-10%                     Damage Recovery           1%\~ 6%
+  Fixed Casting      -1%\~-25%                     Hp Regen /10s             1%\~6%
+  Fixed Casting      -0,01s\~0,15s                 SP Regen /10s             1%\~6%
+
+**[Two Handed Weapon]{.underline}**
+
+**Physical**
+
+  **Group 1**                        **Group 2**                            
+  ------------------ --------------- ------------- ------------------------ ---------
+  ATK                10\~30                        Pys. Dmg. on Size        1%\~15%
+  True ATK           10\~45                        Pys. Dmg. on Elements    3%\~30%
+  Physical Strike    1\~9                          Pys. Dmg. on Race        3%\~30%
+  Delay After ATK    -1%\~-12%                     Pys. Dmg. on Type        1%\~12%
+  ATK                1%\~12%                                                
+                                                                            
+  **Group 3**                        **Group 4**                            
+  After Cast Delay   1%\~15%                       ASPD                     1\~3
+  Variable Casting   -1%\~-15%                     Ignore DEF Normal Type   3%\~30%
+  Fixed Casting      -1%\~-37%                     Ignore DEF Boss Type     3%\~30%
+  Fixed Casting      -0,01s\~0,22s                 Pys. Dmg. on Boss Type   1%\~12%
+
+**Magical**
+
+  **Group 1**                        **Group 2**                              
+  ------------------ --------------- ------------- -------------------------- ---------
+  M.ATK              10\~30                        Mgc. Dmg. on Size          1%\~15%
+  True M.ATK         10\~45                        Mgc. Dmg. on Elements      3%\~30%
+  Magical Strike     1\~9                          Mgc. Dmg. on Race          3%\~30%
+  Delay After ATK    -1%\~-12%                     Mgc. Dmg. on Type          1%\~12%
+  M.ATK              1%\~12%                                                  
+                                                                              
+  **Group 3**                        **Group 4**                              
+  After Cast Delay   1%\~15%                       ASPD                       1\~3
+  Variable Casting   -1%\~-15%                     Ignore M.DEF Normal Type   3%\~30%
+  Fixed Casting      -1%\~-37%                     Ignore M.DEF Boss Type     3%\~30%
+  Fixed Casting      -0,01s\~0,22s                 Mgc. Dmg. on Boss Type     1%\~12%
+
+**Supportive**
+
+  **Group 1**                        **Group 2**                             
+  ------------------ --------------- ------------- ------------------------- ----------
+  Max HP             30\~600                       All Stats                 1\~3
+  Max SP             45\~90                        Perfect Dodge             1\~9
+  Flee               1\~15                         Healing Received          1%\~15%
+  Delay After ATK    -1%\~-15%                     Inflict Negative Status   1%\~9%
+  Healing Effect.    1%\~15%                                                 
+                                                                             
+  **Group 3**                        **Group 4**                             
+  After Cast Delay   1%\~15%                       Status Resist             1% \~ 9%
+  Variable Casting   -1%\~-15%                     Damage Recovery           1%\~ 9%
+  Fixed Casting      -1%\~-37%                     Hp Regen /10s             1%\~9%
+  Fixed Casting      -0,01s\~0,22s                 SP Regen /10s             1%\~9%
+
+Para equipamentos, cada um deles vai ter uma tabela de bônus diferente,
+mas não possuem a escolha entre Physical, Magical e Supportive, podendo
+vir qualquer um dos status abaixo:
+
+**[Armor]{.underline}**
+
+  **Group 1**                            **Group 2**                                
+  --------------------------- ---------- ------------- ---------------------------- -----------
+  Base Stats                  1\~2                     Max HP                       1%\~5%
+  Max HP                      200\~400                 Healing Received             1%\~5%
+  Soft Def                    5\~25                    Item Recovery                1%\~10%
+  Hard Def                    4\~40                    Critical Damage Resistance   1% \~ 10%
+  HP Regen                    2%\~20%                                               
+                                                                                    
+  **Group 3**                            **Group 4**                                
+  Neg. Status on Dmg Taken    1% \~6%                  Pys. Dmg Reflection          1% \~ 10%
+  Pys, Melee Dmg Resistance   1% \~ 5%                 Status Resistance            1% \~ 6%
+
+**[Shield]{.underline}**
+
+  **Group 1**                          **Group 2**                          
+  ------------------------- ---------- ------------- ---------------------- -----------
+  Base Stats                1\~2                     Critical Shield        5 \~15
+  True Def                  5 \~ 50                  Healing Received       1%\~5%
+  Thorns                    10 \~100                 Item Recovery          1%\~10%
+  Racial Resistance         1% \~ 5%                 Shield ASPD Penalty    3% \~30%
+  Size Resistance           1% \~ 5%                                        
+                                                                            
+  **Group 3**                          **Group 4**                          
+  Mgc. Dmg Resistance       1% \~5%                  Knockback Resistance   1% \~ 10%
+  Neg. Stat. on Dmg Taken   1% \~ 6%                 Status Resistance      1% \~ 6%
+
+**[Garment]{.underline}**
+
+  **Group 1**                           **Group 2**                           
+  ------------------------- ----------- ------------- ----------------------- -----------
+  Base Stats                1\~2                      Elemental Resistance    1% \~ 5%
+  Flee                      1 \~ 10                   Healing Received        1%\~5%
+  Perfect Dodge             1 \~ 6                    Item Recovery           1%\~10%
+  Soft MDEF                 1% \~ 25%                 Damage Recovery         1% \~ 6%
+  Hard MDEF                 1 \~ 10                                           
+                                                                              
+  **Group 3**                           **Group 4**                           
+  Raged Phy,. Dmg Resist.   1% \~5%                   Mgc Damage Reflection   1% \~ 10%
+  Neg. Stat. on Dmg Taken   1% \~ 6%                  Status Resistance       1% \~ 6%
+
+**[Shoes]{.underline}**
+
+  **Group 1**                            **Group 2**                       
+  ------------------------- ------------ ------------- ------------------- -----------
+  Base Stats                1\~2                       Max SP              1% \~ 5%
+  Max SP                    6 \~ 60                    Healing Received    1%\~5%
+  Rec. HP every 10s         1% \~ 6%                   Item Recovery       1%\~10%
+  Rec. SP every 10s         1% \~ 6%                   Damage Recovery     1% \~ 6%
+  Sp Regen                  2% \~ 20%                                      
+                                                                           
+  **Group 3**                            **Group 4**                       
+  Wal Delay (Move Speed).   -1% \~ -5%                 Slow Resistance     1% \~ 10%
+  Neg. Stat. on Dmg Taken   1% \~ 6%                   Status Resistance   1% \~ 6%
+
+*Ozzi: Atenção, isso aqui é pior que o jogo do tigrinho, pode causar
+dependência em ficar roletando os equipamentos em busca do bônus
+perfeito.*
+
+---{width="1.0674420384951882in"
+height="0.9340113735783027in"}
+
+# Sistema encantamento da Carola
+
+Durante a explicação das singularidades eu disse que não dava para
+encantar com bônus aleatórios Chapéus, certo?
+
+Mas a Carola pode resolver isso para nós!
+
+Ela é uma jovem que fica na Guilda dos Exploradores que possui poderes
+místicos e que pode melhorar seus chapéus a depender da força oculta que
+eles possuem.
+
+![](/assets/images/guide_images/image139.png){width="2.6041666666666665in"
+height="2.6041666666666665in"}
+
+Depois de fazer a quest que explica as possibilidades de encantamento de
+equipamento, com 12 Report Page entregues, você pode falar com ela para
+encantar um chapéu da sua escolha.
+
+Qualquer chapéu pode ser ser encantado duas vezes, mas não pode ser o
+mesmo bônus.
+
+Para isso, você precisa de alguns itens e uma quantia de dinheiro. Cada
+tipo de encantamento concede um bônus que, diferente da singularidade,
+você pode escolher qual você quer para fazer sentido com sua build ou
+com o que seu chapéu já faz.
+
++----------------------------+----------------------------+---------+
+| Itens                      | Opções                     | Zeny    |
++============================+============================+=========+
+| ![](/assets/images/guide_images/image200.png){wi | Racial True Damage + 20    | 15.000z |
+| dth="0.2604166666666667in" |                            |         |
+| heig                       | Racial TrueSoft Defense    |         |
+| ht="0.2604166666666667in"} | Damage + 30                |         |
+|                            |                            |         |
+| 5 x Scell                  |                            |         |
++----------------------------+----------------------------+---------+
+| ![](media/i                | Str + 3                    | 50.000z |
+| mage69.png){width="0.25in" |                            |         |
+| height="0.3125in"}         | Agi + 3                    |         |
+|                            |                            |         |
+| 15 x Cyfar                 | Vit + 3                    |         |
+|                            |                            |         |
+|                            | Int + 3                    |         |
+|                            |                            |         |
+|                            | Dex + 3                    |         |
+|                            |                            |         |
+|                            | Luk + 3                    |         |
+|                            |                            |         |
+|                            | MaxHP + 240                |         |
+|                            |                            |         |
+|                            | Max SP + 36                |         |
+|                            |                            |         |
+|                            | Soft Def + 12              |         |
+|                            |                            |         |
+|                            | Soft MDef + 12             |         |
+|                            |                            |         |
+|                            | Hit + 12                   |         |
+|                            |                            |         |
+|                            | Flee + 12                  |         |
++----------------------------+----------------------------+---------+
+| ![](media/imag             | MaxHP + 5%                 | 75.000z |
+| e141.png){width="0.3125in" |                            |         |
+| height="0.3125in"}         | MaxSP + 5%                 |         |
+|                            |                            |         |
+| 45 x Brigan                | Cast Variável -5%          |         |
+|                            |                            |         |
+|                            | Cast Fixo - 0.1            |         |
+|                            |                            |         |
+|                            | Cast Fixo - 5%             |         |
+|                            |                            |         |
+|                            | Critical + 2               |         |
+|                            |                            |         |
+|                            | Matk + 5%                  |         |
+|                            |                            |         |
+|                            | Atk + 5%                   |         |
+|                            |                            |         |
+|                            | Soft Def + 5%              |         |
+|                            |                            |         |
+|                            | Soft MDef + 5%             |         |
+|                            |                            |         |
+|                            | Aspd + 5%                  |         |
++----------------------------+----------------------------+---------+
+
+Ozzi: No caso de Dano Verdadeiro Racial ou Defesa Verdadeira Racial
+aplicada pelo Scell, você pode escolher qual a raça, fazendo um chapéu
+específico para cada caçada que fizer.
+
+Ao ser encantado por Carola, o chapéu vai ficar com um informativo em
+sua descrição de quantos bônus e qual é o bônus, como por exemplo a
+Apple of Archer concedendo ao total
+
+**+ 6 de Dex** e ainda podendo ser encantada mais uma vez, o que no meu
+caso será no futuro Aspd +5%.
+
+![](/assets/images/guide_images/image51.png){width="5.208333333333333in"
+height="4.166666666666667in"}
+
+Ozzi: Isso é muito bom para que os equipamentos padrões possam se tornar
+ainda mais úteis, e o preço é bem coerente.
+
+Você pode ter agora um chapéu rosa para cada tipo de monstro que vai
+enfrentar, ou aquele laço vermelho com ainda mais MDef para inimigos
+mágicos.
+
+---{width="1.0674420384951882in"
+height="0.9340113735783027in"}
+

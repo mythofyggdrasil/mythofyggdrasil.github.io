@@ -1,42 +1,64 @@
----
-title: Smart Cast (Autocast)
-description: Guia sobre o sistema de Smart Cast do Myth of Yggdrasil, que permite a automação de habilidades e itens.
----
+# Smart Cast & Auto Stuffs
 
-# Smart Cast (Autocast)
+Para quem já jogou League of Legends deve saber o que é Smart Cast, mas
+vou explicar.
 
-O **Smart Cast** é um sistema de qualidade de vida revolucionário no Myth of Yggdrasil que permite a **automação do uso de habilidades e itens**. Com ele, você pode configurar gatilhos para que suas habilidades sejam usadas automaticamente, otimizando sua performance em batalha e reduzindo a necessidade de pressionar as mesmas teclas repetidamente.
+Vamos supor que você vai usar a skill "Rajada de Flechas" com seu
+arqueiro que está em sua barra de atalho no F1.
 
-## Como Acessar e Usar
+Você precisa clicar no botão F1, mover o mouse até o inimigo, clicar e
+seu personagem vai performar a habilidade.
 
-*   **Acesso:** Você pode abrir a interface do Smart Cast através do menu do jogo ou usando o atalho `ALT + S`.
-*   **Configuração:** A interface é intuitiva e permite que você arraste habilidades e itens para os slots de automação.
+Se tiver que usar a habilidade de novo, novamente clicar em F1, mover o
+mouse até o inimigo e clicar para ele usar a skill de novo.
 
-## Opções de Automação
+Olhando assim parece simples, mas depois de fazer a mesma ação mais de
+mil vezes, lá vem a tendinite bater na sua porta, além de seu mouse
+sofrer com tanto clique.
 
-O sistema oferece uma variedade de condições para ativar suas habilidades e itens, permitindo uma personalização profunda.
+O Smart Cast serve para resolver essa tarefa chata de ficar clicando
+para usar habilidade. Com ele ativado, você vai simplesmente apertar F1
+com o mouse em cima do inimigo e a skill vai ser realizada diretamente,
+sem a necessidade de nenhum clique, e se quiser usar novamente, é só
+manter o botão pressionado!
 
-### Gatilhos de Ativação
+Beleza, mas como ativa essa belezinha?
 
-*   **Self (Em si mesmo):** A habilidade será usada em você mesmo quando uma condição for atendida.
-    *   **Exemplo:** Usar automaticamente a habilidade *Aumentar Agilidade* sempre que o buff expirar.
-*   **Attack (Ao atacar):** A habilidade será usada no seu alvo sempre que você atacar.
-    *   **Exemplo:** Usar a habilidade *Ataque Duplo* no inimigo que você está atacando.
-*   **When Hit (Ao ser atingido):** A habilidade será usada quando você receber dano.
-    *   **Exemplo:** Usar uma *Poção Vermelha* automaticamente quando seu HP ficar abaixo de 50%.
-*   **Support (Suporte):** A habilidade será usada em um membro do grupo que atender a uma condição específica.
-    *   **Exemplo:** Usar a habilidade *Curar* em um aliado do grupo cujo HP esteja abaixo de 70%.
+Para ativar, na sua barra de atalhos vai ter um botão vermelho e um
+azul. Clique no azul e depois selecione as skills que você quer que
+tenha o Smart Cast clicando com o botão direito.
 
-### Condições Adicionais
+**Simples assim!**
 
-Além dos gatilhos principais, você pode refinar a automação com condições adicionais:
+![](/assets/images/guide_images/image112.gif)
 
-*   **Nível de HP/SP:** Ativar a habilidade quando o HP ou SP estiver acima ou abaixo de uma certa porcentagem.
-*   **Status Negativo:** Ativar a habilidade quando você ou um aliado for afligido por um status negativo (ex: usar *Desintoxicar* ao ser envenenado).
-*   **Monstros na Tela:** Ativar uma habilidade de área quando um certo número de monstros estiver na tela.
+Também tem uma outra funcionalidade que é o Auto Stuff, e esse ajuda
+muito na hora do up, pois como o nome já diz... bem, você usa itens
+automaticamente conforme a regra que você criar.
 
-> **Nota do Ozzi:** O Smart Cast é uma ferramenta poderosa, mas não substitui a habilidade do jogador. Use-o para automatizar tarefas repetitivas e se concentrar na estratégia da batalha. É especialmente útil para Sacerdotes de suporte em grupos, garantindo que buffs e curas sejam aplicados de forma consistente.
+Para a janela de auto stuff aparecer, é só fazer o comando **CTRL + A**
+e arrastar os itens que você quer que seja automático.
 
----
+Para poções de HP e SP, você pode escolher a porcentagem da vida/sp que
+você deve estar para o sistema usar o item automaticamente.
 
-*Experimente diferentes configurações para encontrar a automação que melhor se adapta ao seu estilo de jogo e à sua classe. O Smart Cast é uma das muitas funcionalidades que tornam a experiência no Myth of Yggdrasil única e agradável.*
+Também é possível manter algum outro item ativo o tempo todo, como por
+exemplo poções, gemas ou ervas.
+
+Depois de configurar, você pode ativar ou desativar apenas clicando na
+barrinha abaixo do item, facilitando para parar a utilização de itens
+temporários quando estiver em um lugar seguro.
+
+Todos os players têm três slots disponíveis, um para HP, um para SP e um
+de item aleatório, quem for Benefactor tem acesso a 5 slots de itens
+aleatórios extras.
+
+![](/assets/images/guide_images/image178.gif)
+
+Ozzi: Ambas as funcionalidades são muito boas para que você possa se
+manter focado no que realmente importa durante a exploração de dungeons
+ou jogando com grupos.
+
+---{width="1.0674420384951882in"
+height="0.9340113735783027in"}
+
