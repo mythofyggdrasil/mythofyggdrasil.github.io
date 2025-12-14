@@ -56,6 +56,43 @@ Valor, Skills Legacy, Resetar e ativar a Provision Skill.
 Vou falar mais de Skill Legacy mais para o final do Guia, mas vale
 entender o que tem na sua guilda.
 
+<<<<<<< HEAD
+| ![](media/im         | ![](media/im         | Em cada guilda de    |
+|---|---|---|
+| age158.png){width="1 | age145.png){width="1 | classe há uma NPC    |
+|---|---|---|
+| .5104166666666667in" | .6870811461067368in" | que dará quests      |
+|---|---|---|
+| height="2.           | height="2.           | simples para você    |
+|---|---|---|
+| 6145833333333335in"} | 1708759842519685in"} | concluir em troca de |
+|---|---|---|
+|                      |                      | Proof of Valor.      |
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+|                      |                      | Essas medalhinhas    |
+|---|---|---|
+|                      |                      | que você recebe      |
+|---|---|---|
+|                      |                      | servem para serem    |
+|---|---|---|
+|                      |                      | trocadas por itens e |
+|---|---|---|
+|                      |                      | são obrigatórias     |
+|---|---|---|
+|                      |                      | para mudar de        |
+|---|---|---|
+|                      |                      | classe.              |
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+|                      |                      | Então constantemente |
+|---|---|---|
+|                      |                      | você estará fazendo  |
+|---|---|---|
+|                      |                      | elas.                |
+=======
 +----------------------+----------------------+----------------------+
 | ![](media/im         | ![](media/im         | Em cada guilda de    |
 | age158.png){width="1 | age145.png){width="1 | classe há uma NPC    |
@@ -76,6 +113,7 @@ entender o que tem na sua guilda.
 |                      |                      | você estará fazendo  |
 |                      |                      | elas.                |
 +----------------------+----------------------+----------------------+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 
 Você que determina qual quest é melhor para a sua classe, pois elas são
 de eliminar uma boa quantidade de monstros.
@@ -102,6 +140,30 @@ tempo, mas há um limite de 3 quests em 24 horas.
 enfrentar nas próximas horas, mas normalmente eu pego somente a de Level
 e de Tamanho, pois as outras são muito específicas.*
 
+<<<<<<< HEAD
+| Com as Proof of Valor você       | ![](medi                         |
+|---|---|
+| também pode trocar por alguns    | a/image122.png){width="3.6875in" |
+|---|---|
+| itens de suporte, como Asas de   | height="1.8020833333333333in"}   |
+|---|---|
+| Teleporte para a cidade de sua   |                                  |
+|---|---|
+| guilda ou uma estatueta          |                                  |
+|---|---|
+| exclusiva de sua classe, que é   |                                  |
+|---|---|
+| um acessório de slot esquerdo    |                                  |
+|---|---|
+| que dá +1 em todos os status.    |                                  |
+|---|---|
+|                                  |                                  |
+|---|---|
+| **Obs:** não dá para usar dois   |                                  |
+|---|---|
+|---|---|
+| acessórios!!!!                   |                                  |
+=======
 +----------------------------------+----------------------------------+
 | Com as Proof of Valor você       | ![](medi                         |
 | também pode trocar por alguns    | a/image122.png){width="3.6875in" |
@@ -115,11 +177,31 @@ e de Tamanho, pois as outras são muito específicas.*
 | **Obs:** não dá para usar dois   |                                  |
 | acessórios!!!!                   |                                  |
 +----------------------------------+----------------------------------+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 
 Você também consegue trocar por um token de Valorbrew, que são itens que
 aumentam seus status temporariamente conforme seu nível, vale muito a
 pena para o up.
 
+<<<<<<< HEAD
+| ![](media/image204.  | ![](media/image64.   | ![](media/image171.  |
+|---|---|---|
+| png){width="3.125in" | png){width="3.125in" | png){width="3.125in" |
+|---|---|---|
+| height="2.           | height="2.           | height="2.           |
+|---|---|---|
+| 6041666666666665in"} | 6041666666666665in"} | 6041666666666665in"} |
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| Ataque físico        | Ataque Mágico        | Defesa verdadeira    |
+|---|---|---|
+| verdadeiro +1 para   | verdadeiro +1 para   | +1\                  |
+|---|---|---|
+| cada level de base   | cada level de base   | para cada level de   |
+|---|---|---|
+|                      |                      | base                 |
+=======
 +----------------------+----------------------+----------------------+
 | ![](media/image204.  | ![](media/image64.   | ![](media/image171.  |
 | png){width="3.125in" | png){width="3.125in" | png){width="3.125in" |
@@ -131,6 +213,7 @@ pena para o up.
 | cada level de base   | cada level de base   | para cada level de   |
 |                      |                      | base                 |
 +======================+======================+======================+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | ![](media/image87.   | ![](media/image216.  | ![](media/image124.  |
 | png){width="3.125in" | png){width="3.125in" | png){width="3.125in" |
 | height="2.           | height="2.           | height="2.           |
@@ -140,7 +223,10 @@ pena para o up.
 | para cada level de   | para cada level de   | -10%\                |
 | base                 | base                 | para cada level de   |
 |                      |                      | base                 |
+<<<<<<< HEAD
+=======
 +----------------------+----------------------+----------------------+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 
 Na Guilda você também consegue resetar seus atributos, skills e até
 mesmo Legacy Skill pagando um valor em Zeny de acordo com o seu nível.
@@ -172,6 +258,10 @@ em branco onde será adicionado a nova skill para a sua classe.
 | ![](/assets/images/guide_images/image4.png){width="0.3286001749781277in"                   |
 | height="0.3286001749781                                              |
 | 277in"}**Atenção**![](/assets/images/guide_images/image4.png){width="0.3286001749781277in" |
+<<<<<<< HEAD
+|---|
+=======
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | height="0.3286001749781277in"}                                       |
 |                                                                      |
 | Você pode escolher no máximo 3 Legacy Skills para sua classe         |
@@ -925,6 +1015,10 @@ vai depender do que você quer.
 | ![](/assets/images/guide_images/image4.png){width="0.3286001749781277in"                   |
 | height="0.3286001749781                                              |
 | 277in"}**Atenção**![](/assets/images/guide_images/image4.png){width="0.3286001749781277in" |
+<<<<<<< HEAD
+|---|
+=======
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | height="0.3286001749781277in"}                                       |
 |                                                                      |
 | Você pode ter até 2 Battle Role!                                     |

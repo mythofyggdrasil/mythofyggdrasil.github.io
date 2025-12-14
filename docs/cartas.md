@@ -21,6 +21,33 @@ De forma geral, uma arma de nível baixo pode ter até \[4\] slots e
 equipamentos somente \[1\] slot, mas equipamentos mais raros e mais
 fortes costumam não ter slot, pois seus atributos já são incríveis.
 
+<<<<<<< HEAD
+| ![](media/image93.               | Diferente do convencional, onde  |
+|---|---|
+| png){width="3.276042213473316in" | cada carta tem um lugar          |
+|---|---|
+| height="3.431514654418198in"}    | específico para ser colocada,    |
+|---|---|
+|                                  | algumas cartas no Myth of        |
+|---|---|
+|                                  | Yggdrasil podem ser adicionadas  |
+|---|---|
+|                                  | em qualquer equipamento conforme |
+|---|---|
+|                                  | suas restrições.                 |
+|---|---|
+|                                  |                                  |
+|---|---|
+|                                  | Outro ponto é que boa parte das  |
+|---|---|
+|                                  | cartas tiveram seus benefícios   |
+|---|---|
+|                                  | revistos ou alterados, assim     |
+|---|---|
+|                                  | como alguns monstros que antes   |
+|---|---|
+|                                  | não tinham carta, agora tem.     |
+=======
 +----------------------------------+----------------------------------+
 | ![](media/image93.               | Diferente do convencional, onde  |
 | png){width="3.276042213473316in" | cada carta tem um lugar          |
@@ -36,10 +63,54 @@ fortes costumam não ter slot, pois seus atributos já são incríveis.
 |                                  | como alguns monstros que antes   |
 |                                  | não tinham carta, agora tem.     |
 +----------------------------------+----------------------------------+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 
 E uma informação importante para quem encontrou a Ophelia na área dos
 ferreiros e viu que ela remove cartas de equipamentos.
 
+<<<<<<< HEAD
+| Na maioria dos servidores, ao    | ![](media/image66.p              |
+|---|---|
+| remover uma carta, você recebe   | ng){width="2.6041666666666665in" |
+|---|---|
+| seu equipamento e também a carta | height="3.6458333333333335in"}   |
+|---|---|
+| para ser utilizada em outro      |                                  |
+|---|---|
+| lugar.                           |                                  |
+|---|---|
+|                                  |                                  |
+|---|---|
+| Mas no Myth of Yggdrasil não, ao |                                  |
+|---|---|
+| remover a carta, você recebe seu |                                  |
+|---|---|
+| equipamento **[mas a carta é     |                                  |
+|---|---|
+|---|---|
+| destruída]{.underline}**. Isso   |                                  |
+|---|---|
+|---|---|
+| mesmo que você leu, a carta já   |                                  |
+|---|---|
+| era.                             |                                  |
+|---|---|
+|                                  |                                  |
+|---|---|
+| De certa forma, os equipamentos  |                                  |
+|---|---|
+| com um bom ranking, refino       |                                  |
+|---|---|
+| elevado e singularidade          |                                  |
+|---|---|
+| interessantes são mais difíceis  |                                  |
+|---|---|
+| do que dropar uma carta, então   |                                  |
+|---|---|
+| até que faz sentido esse         |                                  |
+|---|---|
+| sistema.                         |                                  |
+=======
 +----------------------------------+----------------------------------+
 | Na maioria dos servidores, ao    | ![](media/image66.p              |
 | remover uma carta, você recebe   | ng){width="2.6041666666666665in" |
@@ -62,6 +133,7 @@ ferreiros e viu que ela remove cartas de equipamentos.
 | até que faz sentido esse         |                                  |
 | sistema.                         |                                  |
 +----------------------------------+----------------------------------+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 
 *Ozzi: Por isso é tão importante ficar de olho no omnibook antes de ir
 matar mais de mil monstros para dropar sua carta e depois descobrir que

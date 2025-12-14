@@ -70,6 +70,10 @@ de Morroc.
 
 +----------------------------------------------------------------------+
 | **💡Dica:** No começo do jogo você ganha algumas moedas (Training     |
+<<<<<<< HEAD
+|---|
+=======
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | Island Reward Coins) de acordo com quantas quests você concluiu no   |
 | treinamento inicial.                                                 |
 |                                                                      |

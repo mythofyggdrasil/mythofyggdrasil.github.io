@@ -17,17 +17,29 @@ A calculadora abrange as árvores de habilidades das seguintes classes:
 | Classe Base | 1ª Evolução | 2ª Evolução |
 | :--- | :--- | :--- |
 | **Acolyte** | Monk | Champion |
+|---|---|---|
 | **Acolyte** | Priest | High Priest |
+|---|---|---|
 | **Archer** | Hunter | Sniper |
+|---|---|---|
 | **Archer** | Bard | Clown |
+|---|---|---|
 | **Archer** | Dancer | Gypsy |
+|---|---|---|
 | **Mage** | Wizard | High Wizard |
+|---|---|---|
 | **Mage** | Sage | Professor |
+|---|---|---|
 | **Merchant** | Alchemist | Creator |
+|---|---|---|
 | **Merchant** | Blacksmith | Whitesmith |
+|---|---|---|
 | **Swordman** | Crusader | Paladin |
+|---|---|---|
 | **Swordman** | Knight | Lord Knight |
+|---|---|---|
 | **Thief** | Assassin | Assassin Cross |
+|---|---|---|
 | **Thief** | Rogue | Stalker |
 
 ## 💡 Funcionalidades da Ferramenta

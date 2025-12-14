@@ -33,6 +33,31 @@ Hammer e Mini Furnace são vendidos no ferreiro em Geffen ou em Einbroch,
 não é difícil e nem tão caro, mas a quantidade de carvão que você vai
 precisar.....
 
+<<<<<<< HEAD
+| ![](me                           | ![](m                            |
+|---|---|
+| dia/image101.gif){width="0.25in" | edia/image99.gif){width="0.25in" |
+|---|---|
+| height="0.25in"}10 x Wind of     | height="0.25in"}1 x Rough Wind   |
+|---|---|
+| Verdure                          |                                  |
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](m                            |                                  |
+|---|---|
+| edia/image52.gif){width="0.25in" |                                  |
+|---|---|
+| height="0.25in"}1 x Mini Furnace |                                  |
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](m                            |                                  |
+|---|---|
+| edia/image10.gif){width="0.25in" |                                  |
+|---|---|
+| height="0.25in"}1 x Coal         |                                  |
+=======
 +----------------------------------+----------------------------------+
 | ![](me                           | ![](m                            |
 | dia/image101.gif){width="0.25in" | edia/image99.gif){width="0.25in" |
@@ -47,6 +72,7 @@ precisar.....
 | edia/image10.gif){width="0.25in" |                                  |
 | height="0.25in"}1 x Coal         |                                  |
 +==================================+==================================+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | ![](me                           | ![](me                           |
 | dia/image110.gif){width="0.25in" | dia/image209.gif){width="0.25in" |
 | height="0.25in"}10 x Red Blood   | height="0.25in"}1 x Flame Heart  |
@@ -58,6 +84,30 @@ precisar.....
 | ![](m                            |                                  |
 | edia/image10.gif){width="0.25in" |                                  |
 | height="0.25in"}1 x Coal         |                                  |
+<<<<<<< HEAD
+|---|---|
+| ![](m                            | ![](                             |
+|---|---|
+| edia/image14.gif){width="0.25in" | media/image7.gif){width="0.25in" |
+|---|---|
+| height="0.25in"}10 x Green live  | height="0.25in"} 1 x Great       |
+|---|---|
+|                                  | Nature                           |
+|---|---|
+| ![](m                            |                                  |
+|---|---|
+| edia/image52.gif){width="0.25in" |                                  |
+|---|---|
+| height="0.25in"}1 x Mini Furnace |                                  |
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](m                            |                                  |
+|---|---|
+| edia/image10.gif){width="0.25in" |                                  |
+|---|---|
+| height="0.25in"}1 x Coal         |                                  |
+=======
 +----------------------------------+----------------------------------+
 | ![](m                            | ![](                             |
 | edia/image14.gif){width="0.25in" | media/image7.gif){width="0.25in" |
@@ -71,6 +121,7 @@ precisar.....
 | edia/image10.gif){width="0.25in" |                                  |
 | height="0.25in"}1 x Coal         |                                  |
 +----------------------------------+----------------------------------+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | ![](me                           | ![](me                           |
 | dia/image147.gif){width="0.25in" | dia/image187.gif){width="0.25in" |
 | height="0.25in"}10 x Crystal     | height="0.25in"}1x Mystic Frozen |
@@ -83,6 +134,30 @@ precisar.....
 | ![](m                            |                                  |
 | edia/image10.gif){width="0.25in" |                                  |
 | height="0.25in"}1 x Coal         |                                  |
+<<<<<<< HEAD
+|---|---|
+| ![](me                           | ![](m                            |
+|---|---|
+| dia/image100.gif){width="0.25in" | edia/image44.gif){width="0.25in" |
+|---|---|
+| height="0.25in"} 5 x Iron ore    | height="0.25in"} 1x Iron         |
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](m                            |                                  |
+|---|---|
+| edia/image52.gif){width="0.25in" |                                  |
+|---|---|
+| height="0.25in"}1 x Mini Furnace |                                  |
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](m                            |                                  |
+|---|---|
+| edia/image10.gif){width="0.25in" |                                  |
+|---|---|
+| height="0.25in"}1 x Coal         |                                  |
+=======
 +----------------------------------+----------------------------------+
 | ![](me                           | ![](m                            |
 | dia/image100.gif){width="0.25in" | edia/image44.gif){width="0.25in" |
@@ -96,6 +171,7 @@ precisar.....
 | edia/image10.gif){width="0.25in" |                                  |
 | height="0.25in"}1 x Coal         |                                  |
 +----------------------------------+----------------------------------+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | ![](m                            | ![](me                           |
 | edia/image44.gif){width="0.25in" | dia/image132.gif){width="0.25in" |
 | height="0.25in"} x 10 Iron       | height="0.25in"} 1x Steel        |
@@ -107,6 +183,30 @@ precisar.....
 | ![](m                            |                                  |
 | edia/image10.gif){width="0.25in" |                                  |
 | height="0.25in"}1 x Coal         |                                  |
+<<<<<<< HEAD
+|---|---|
+| ![](m                            | ![](me                           |
+|---|---|
+| edia/image57.gif){width="0.25in" | dia/image191.gif){width="0.25in" |
+|---|---|
+| height="0.25in"}10 x Stardust    | height="0.25in"} 1x Star Crumb   |
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](m                            |                                  |
+|---|---|
+| edia/image52.gif){width="0.25in" |                                  |
+|---|---|
+| height="0.25in"}1 x Mini Furnace |                                  |
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](m                            |                                  |
+|---|---|
+| edia/image10.gif){width="0.25in" |                                  |
+|---|---|
+| height="0.25in"}1 x Coal         |                                  |
+=======
 +----------------------------------+----------------------------------+
 | ![](m                            | ![](me                           |
 | edia/image57.gif){width="0.25in" | dia/image191.gif){width="0.25in" |
@@ -120,6 +220,7 @@ precisar.....
 | edia/image10.gif){width="0.25in" |                                  |
 | height="0.25in"}1 x Coal         |                                  |
 +----------------------------------+----------------------------------+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | ![](m                            | ![](me                           |
 | edia/image16.gif){width="0.25in" | dia/image219.gif){width="0.25in" |
 | height="0.25in"}10 x Rough       | height="0.25in"} 1x Elunium      |
@@ -132,6 +233,32 @@ precisar.....
 | ![](m                            |                                  |
 | edia/image10.gif){width="0.25in" |                                  |
 | height="0.25in"}1 x Coal         |                                  |
+<<<<<<< HEAD
+|---|---|
+| ![](                             | ![](m                            |
+|---|---|
+| media/image9.gif){width="0.25in" | edia/image50.gif){width="0.25in" |
+|---|---|
+| height="0.25in"}10 x Rough       | height="0.25in"} 1x Oridecon     |
+|---|---|
+| Oridecon                         |                                  |
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](m                            |                                  |
+|---|---|
+| edia/image52.gif){width="0.25in" |                                  |
+|---|---|
+| height="0.25in"}1 x Mini Furnace |                                  |
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](m                            |                                  |
+|---|---|
+| edia/image10.gif){width="0.25in" |                                  |
+|---|---|
+| height="0.25in"}1 x Coal         |                                  |
+=======
 +----------------------------------+----------------------------------+
 | ![](                             | ![](m                            |
 | media/image9.gif){width="0.25in" | edia/image50.gif){width="0.25in" |
@@ -146,6 +273,7 @@ precisar.....
 | edia/image10.gif){width="0.25in" |                                  |
 | height="0.25in"}1 x Coal         |                                  |
 +----------------------------------+----------------------------------+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 
 Ozzi: Aconselho a ficar de olho nestes itens de forja e manter eles na
 Kafra, mesmo que não tenha interesse de deixar sua arma mais forte, pois
@@ -163,18 +291,38 @@ mais tranquilo, não é tão complexo.
 Lembrando que você pode adicionar elemento em uma arma com ranking,
 singularidades e com slot!
 
+<<<<<<< HEAD
+| **Element Substance**            |                                  |
+|---|---|
+| **Element Substante**            | **Possibilidades de Elementos**  |
+|---|---|
+|                                  |                                  |
+| **Effect:** Transforma sua arma  | Para mudar o elemento você vai   |
+|---|---|
+=======
 +----------------------------------+----------------------------------+
 | **Element Substance**            |                                  |
 +==================================+==================================+
 | **Element Substante**            | **Possibilidades de Elementos**  |
 |                                  |                                  |
 | **Effect:** Transforma sua arma  | Para mudar o elemento você vai   |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | em um dos quatro elementos       | precisar de 5 pedras elementais  |
 | básicos do jogo.                 | do elemento que deseja.          |
 |                                  |                                  |
 | ![](media/image217.p             | Flame Heart, Mystic Frozen,      |
 | ng){width="1.7897965879265092in" | Rough Wind ou Great Nature.      |
 | height="0.6243471128608924in"}   |                                  |
+<<<<<<< HEAD
+
+| **Reforços de Status**           |                                  |
+|---|---|
+| **ATK reinforcement I**          | **ATK reinforcement II**         |
+|---|---|
+|                                  |                                  |
+| **Effect:** ATK + 15             | **Effect:** ATK + 40             |
+|---|---|
+=======
 +----------------------------------+----------------------------------+
 
 +----------------------------------+----------------------------------+
@@ -183,10 +331,34 @@ singularidades e com slot!
 | **ATK reinforcement I**          | **ATK reinforcement II**         |
 |                                  |                                  |
 | **Effect:** ATK + 15             | **Effect:** ATK + 40             |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 |                                  |                                  |
 | ![](media/image206.p             | ![](media/image186.p             |
 | ng){width="1.5104166666666667in" | ng){width="1.5104166666666667in" |
 | height="0.8854166666666666in"}   | height="0.8854166666666666in"}   |
+<<<<<<< HEAD
+|---|---|
+| **MATK reinforcement I**         | **MATK reinforcement II**        |
+|---|---|
+|---|---|
+|                                  |                                  |
+|---|---|
+| **Effect:** MATK + 15            | **Effect:** MATK + 40            |
+|---|---|
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](media/image210.p             | ![](media/image6.p               |
+|---|---|
+| ng){width="1.5104166666666667in" | ng){width="1.5104166666666667in" |
+|---|---|
+| height="0.8854166666666666in"}   | height="0.8854166666666666in"}   |
+| **Acc reinforcement I**          | **Acc reinforcement II**         |
+|---|---|
+|                                  |                                  |
+| **Effect:** Acc + 15             | **Effect:** Acc + 40             |
+|---|---|
+=======
 +----------------------------------+----------------------------------+
 | **MATK reinforcement I**         | **MATK reinforcement II**        |
 |                                  |                                  |
@@ -199,10 +371,34 @@ singularidades e com slot!
 | **Acc reinforcement I**          | **Acc reinforcement II**         |
 |                                  |                                  |
 | **Effect:** Acc + 15             | **Effect:** Acc + 40             |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 |                                  |                                  |
 | ![](media/image79.p              | ![](media/image151.p             |
 | ng){width="1.5104166666666667in" | ng){width="1.5104166666666667in" |
 | height="0.8854166666666666in"}   | height="0.8854166666666666in"}   |
+<<<<<<< HEAD
+|---|---|
+| **Crit reinforcement I**         | **Crit reinforcement II**        |
+|---|---|
+|---|---|
+|                                  |                                  |
+|---|---|
+| **Effect:** Crit + 5             | **Effect:** Crit + 15            |
+|---|---|
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](media/image182.p             | ![](media/image70.p              |
+|---|---|
+| ng){width="1.5104166666666667in" | ng){width="1.5104166666666667in" |
+|---|---|
+| height="0.8854166666666666in"}   | height="0.8854166666666666in"}   |
+| **Def reinforcement I**          | **Def reinforcement II**         |
+|---|---|
+|                                  |                                  |
+| **Effect:** Def + 15             | **Effect:** Def + 40             |
+|---|---|
+=======
 +----------------------------------+----------------------------------+
 | **Crit reinforcement I**         | **Crit reinforcement II**        |
 |                                  |                                  |
@@ -215,10 +411,34 @@ singularidades e com slot!
 | **Def reinforcement I**          | **Def reinforcement II**         |
 |                                  |                                  |
 | **Effect:** Def + 15             | **Effect:** Def + 40             |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 |                                  |                                  |
 | ![](media/image62.p              | ![](media/image11.p              |
 | ng){width="1.5104166666666667in" | ng){width="1.5104166666666667in" |
 | height="0.8854166666666666in"}   | height="0.8854166666666666in"}   |
+<<<<<<< HEAD
+|---|---|
+| **M.Def reinforcement I**        | **M.Def reinforcement II**       |
+|---|---|
+|---|---|
+|                                  |                                  |
+|---|---|
+| **Effect:** Hard Mdef + 4        | **Effect:** Hard Mdef + 10       |
+|---|---|
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](media/image118.p             | ![](media/image195.p             |
+|---|---|
+| ng){width="1.5104166666666667in" | ng){width="1.5104166666666667in" |
+|---|---|
+| height="0.8854166666666666in"}   | height="0.8854166666666666in"}   |
+| **Thorns reinforcement I**       | **Thorns reinforcement II**      |
+|---|---|
+|                                  |                                  |
+| **Effect:** Thorns + 20          | **Effect:** Thorns + 60          |
+|---|---|
+=======
 +----------------------------------+----------------------------------+
 | **M.Def reinforcement I**        | **M.Def reinforcement II**       |
 |                                  |                                  |
@@ -231,10 +451,29 @@ singularidades e com slot!
 | **Thorns reinforcement I**       | **Thorns reinforcement II**      |
 |                                  |                                  |
 | **Effect:** Thorns + 20          | **Effect:** Thorns + 60          |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 |                                  |                                  |
 | ![](media/image199.p             | ![](media/image33.p              |
 | ng){width="1.5104166666666667in" | ng){width="1.5104166666666667in" |
 | height="0.8854166666666666in"}   | height="0.8854166666666666in"}   |
+<<<<<<< HEAD
+|---|---|
+| **Aspd reinforcement**           | **Range reinforcement**          |
+|---|---|
+|---|---|
+|                                  |                                  |
+|---|---|
+| **Effect:** Aspd + 1             | **Effect:** Range + 1            |
+|---|---|
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](media/image189.p             | ![](media/image193.p             |
+|---|---|
+| ng){width="1.5104166666666667in" | ng){width="1.5104166666666667in" |
+|---|---|
+| height="0.8854166666666666in"}   | height="0.8854166666666666in"}   |
+=======
 +----------------------------------+----------------------------------+
 | **Aspd reinforcement**           | **Range reinforcement**          |
 |                                  |                                  |
@@ -244,6 +483,7 @@ singularidades e com slot!
 | ng){width="1.5104166666666667in" | ng){width="1.5104166666666667in" |
 | height="0.8854166666666666in"}   | height="0.8854166666666666in"}   |
 +----------------------------------+----------------------------------+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 
 **[Reforço Intermediário]{.underline}**
 
@@ -282,6 +522,18 @@ intermediário conforme o upgrade de sua arma e o level dela.
 Por curiosidade, o valor máximo seria uma arma level 4 com upgrade até +
 18, que daria +23 ou 23%!!!!
 
+<<<<<<< HEAD
+| **Reforço            |                      |                      |
+|---|---|---|
+|---|---|---|
+| Intermediário**      |                      |                      |
+|---|---|---|
+| **STR Core**         | **AGI Core**         | **VIT Core**         |
+|---|---|---|
+|                      |                      |                      |
+| **Effect:** STR+1    | **Effect:** AGI+1    | **Effect:** Vit+1    |
+|---|---|---|
+=======
 +----------------------+----------------------+----------------------+
 | **Reforço            |                      |                      |
 | Intermediário**      |                      |                      |
@@ -289,6 +541,7 @@ Por curiosidade, o valor máximo seria uma arma level 4 com upgrade até +
 | **STR Core**         | **AGI Core**         | **VIT Core**         |
 |                      |                      |                      |
 | **Effect:** STR+1    | **Effect:** AGI+1    | **Effect:** Vit+1    |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 |                      |                      |                      |
 | STR = +1 x 3 refinos | AGI =+1 x 3 refinos  | Vit =+1 x 3 refinos  |
 |                      |                      |                      |
@@ -299,6 +552,44 @@ Por curiosidade, o valor máximo seria uma arma level 4 com upgrade até +
 | .5104166666666667in" | .5104166666666667in" | .5104166666666667in" |
 | height="0.           | height="0.           | height="0.           |
 | 8854166666666666in"} | 8854166666666666in"} | 8854166666666666in"} |
+<<<<<<< HEAD
+|---|---|---|
+| **INT Core**         | **DEX Core**         | **Luk Core**         |
+|---|---|---|
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| **Effect:** Int+1    | **Effect:** Dex+1    | **Effect:** Luk+1    |
+|---|---|---|
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| Int =+1 x 3 refinos  | Dex =+1 x 3 refinos  | Luk =+1 x 3 refinos  |
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| Int= Level da Arma   | Dex= Level da Arma   | Luk= Level da Arma   |
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| ![](media/im         | ![](media/im         | ![](media/im         |
+|---|---|---|
+| age201.png){width="1 | age138.png){width="1 | age214.png){width="1 |
+|---|---|---|
+| .5104166666666667in" | .5104166666666667in" | .5104166666666667in" |
+|---|---|---|
+| height="0.           | height="0.           | height="0.           |
+|---|---|---|
+| 8854166666666666in"} | 8854166666666666in"} | 8854166666666666in"} |
+| **Item Healing Power | **Critical Core**    | **Delay After Attack |
+|---|---|---|
+| Core**               |                      | Core**               |
+|---|---|---|
+|                      | **Effect:** Crit+1   |                      |
+|---|---|---|
+| **Effect:** Item     |                      | **Effect:** DDA -1%  |
+|---|---|---|
+=======
 +----------------------+----------------------+----------------------+
 | **INT Core**         | **DEX Core**         | **Luk Core**         |
 |                      |                      |                      |
@@ -318,6 +609,7 @@ Por curiosidade, o valor máximo seria uma arma level 4 com upgrade até +
 | Core**               |                      | Core**               |
 |                      | **Effect:** Crit+1   |                      |
 | **Effect:** Item     |                      | **Effect:** DDA -1%  |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | Healing +1%          | Crit=+1 x 3 refinos  |                      |
 |                      |                      | DDA= -1% x 3 refinos |
 | Item Healing =+1% x  | Crit = Level da Arma |                      |
@@ -331,6 +623,53 @@ Por curiosidade, o valor máximo seria uma arma level 4 com upgrade até +
 | .5104166666666667in" |                      |                      |
 | height="0.           |                      |                      |
 | 8854166666666666in"} |                      |                      |
+<<<<<<< HEAD
+|---|---|---|
+| **Perfect Flee       | **Healing Power      | **Damage Rebounce    |
+|---|---|---|
+|---|---|---|
+| Core**               | Core**               | Core**               |
+|---|---|---|
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| **Effect:** P.Flee   | **Effect:** Healing  | **Effect:** Rebounce |
+|---|---|---|
+|---|---|---|
+| +1                   | +1%                  | +1%                  |
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| P.Flee=+1 x 3        | Healing =+1% x 3     | Rebounce =+1% x 3    |
+|---|---|---|
+| refinos              | refinos              | refinos              |
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| P.Flee = Level da    | Healing = Level da   | Rebounce = Level da  |
+|---|---|---|
+| Arma                 | Arma                 | Arma                 |
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| ![](media/im         | ![](media/           | ![](media/im         |
+|---|---|---|
+| age205.png){width="1 | image1.png){width="1 | age113.png){width="1 |
+|---|---|---|
+| .5104166666666667in" | .5104166666666667in" | .5104166666666667in" |
+|---|---|---|
+| height="0.           | height="0.           | height="0.           |
+|---|---|---|
+| 8854166666666666in"} | 8854166666666666in"} | 8854166666666666in"} |
+| **Variable Cast      | **Fixed Cast Core**  | **After Cast Delay   |
+|---|---|---|
+| Core**               |                      | Core**               |
+|---|---|---|
+|                      | **Effect:** FCT -1%  |                      |
+|---|---|---|
+| **Effect:** VCT -1%  |                      | **Effect:** ACD -1%  |
+|---|---|---|
+=======
 +----------------------+----------------------+----------------------+
 | **Perfect Flee       | **Healing Power      | **Damage Rebounce    |
 | Core**               | Core**               | Core**               |
@@ -354,6 +693,7 @@ Por curiosidade, o valor máximo seria uma arma level 4 com upgrade até +
 | Core**               |                      | Core**               |
 |                      | **Effect:** FCT -1%  |                      |
 | **Effect:** VCT -1%  |                      | **Effect:** ACD -1%  |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 |                      | FCT= -1% x 3 refinos |                      |
 | VCT= -1% x 3 refinos |                      | ACD= -1% x 3 refinos |
 |                      | FCT = Level da Arma  |                      |
@@ -364,6 +704,39 @@ Por curiosidade, o valor máximo seria uma arma level 4 com upgrade até +
 | .5104166666666667in" | height="0.           | .5104166666666667in" |
 | height="0.           | 8854166666666666in"} | height="0.           |
 | 8854166666666666in"} |                      | 8854166666666666in"} |
+<<<<<<< HEAD
+|---|---|---|
+| **Skill Cooldown     | **Physical Strike    | **Magical Strike     |
+|---|---|---|
+|---|---|---|
+| Core**               | Core**               | Core**               |
+|---|---|---|
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| **Effect:** CD -1%   | **Effect:** PS+1%    | **Effect:** MS+1%    |
+|---|---|---|
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| CD= -1% x 3 refinos  | PS =+1% x 3 refinos  | MS =+1% x 3 refinos  |
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| CD = Level da Arma   | PS = Level da Arma   | MS = Level da Arma   |
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| ![](media/im         | ![](media/im         | ![](media/i          |
+|---|---|---|
+| age121.png){width="1 | age167.png){width="1 | mage65.png){width="1 |
+|---|---|---|
+| .5104166666666667in" | .5104166666666667in" | .5104166666666667in" |
+|---|---|---|
+| height="0.           | height="0.           | height="0.           |
+|---|---|---|
+| 8854166666666666in"} | 8854166666666666in"} | 8854166666666666in"} |
+=======
 +----------------------+----------------------+----------------------+
 | **Skill Cooldown     | **Physical Strike    | **Magical Strike     |
 | Core**               | Core**               | Core**               |
@@ -380,6 +753,7 @@ Por curiosidade, o valor máximo seria uma arma level 4 com upgrade até +
 | height="0.           | height="0.           | height="0.           |
 | 8854166666666666in"} | 8854166666666666in"} | 8854166666666666in"} |
 +----------------------+----------------------+----------------------+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 
 **[Regorge Avançados]{.underline}**
 
@@ -395,6 +769,24 @@ O roleplay é mais ou menos esse.
 Então antes de mostrar os requisitos, segue uma lista de qual
 equipamento se caracteriza em cada uma das opções:
 
+<<<<<<< HEAD
+| **Bladed**           | **Blunt**             | **Piercing**          |
+|---|---|---|
+|---|---|---|
+|                      |                       |                       |
+|---|---|---|
+| Espada de uma mão    | Machados de uma mão   | Lança de uma mão      |
+|---|---|---|
+|                      |                       |                       |
+|---|---|---|
+| Espadas de duas mãos | Machados de duas mãos | Lança de duas mãos    |
+|---|---|---|
+|                      |                       |                       |
+|---|---|---|
+| Adagas               | Maça                  |                       |
+| **Magical**          | **Exotic**            | **String**            |
+|---|---|---|
+=======
 +----------------------+-----------------------+-----------------------+
 | **Bladed**           | **Blunt**             | **Piercing**          |
 |                      |                       |                       |
@@ -405,12 +797,59 @@ equipamento se caracteriza em cada uma das opções:
 | Adagas               | Maça                  |                       |
 +======================+=======================+=======================+
 | **Magical**          | **Exotic**            | **String**            |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 |                      |                       |                       |
 | Cajados de uma mão   | Katares               | Arcos                 |
 |                      |                       |                       |
 | Cajados de duas mão  |                       | Instrumentos Musicais |
 |                      |                       |                       |
 | Livros               |                       | Chicotes              |
+<<<<<<< HEAD
+
+| **Final Upgrades**   |                      |                      |
+|---|---|---|
+| **Bladed**           |                      |                      |
+|---|---|---|
+|---|---|---|
+| **Duelist Blade**    | **Whirlwind Blade**  | **Vorpal Blade**     |
+|---|---|---|
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| **Effect:** Adiciona | **Effect:** Ataques  | **Effect:** Para     |
+|---|---|---|
+|---|---|---|
+| 25% de dano físico   | dão 20% do dano em   | cada 5% de vida      |
+|---|---|---|
+| se não houver nenhum | uma área de 5x5 em   | perdida do alvo,     |
+|---|---|---|
+| outro inimigo em uma | volta do alvo.       | aumenta a            |
+|---|---|---|
+| área de 9x9 do alvo. |                      | possibilidade de     |
+|---|---|---|
+|                      | ![](media/i          | crítico em 4%        |
+|---|---|---|
+| ![](media/im         | mage74.png){width="1 |                      |
+|---|---|---|
+| age120.png){width="1 | .5104166666666667in" | ![](media/im         |
+|---|---|---|
+| .5104166666666667in" | height="0.           | age176.png){width="1 |
+|---|---|---|
+| height="0.           | 8854166666666666in"} | .5104166666666667in" |
+|---|---|---|
+| 8854166666666666in"} |                      | height="0.           |
+|---|---|---|
+|                      |                      | 8854166666666666in"} |
+|                      |                      |                      |
+|---|---|---|
+| **Blunt**            |                      |                      |
+|---|---|---|
+| **Stunning Impact**  | **Stonebreaker**     | **Berserk Fury**     |
+|---|---|---|
+|                      |                      |                      |
+| **Effect:** Cada     | **Effect:** Ignora   | **Effect:** Ganha    |
+|---|---|---|
+=======
 +----------------------+-----------------------+-----------------------+
 
 +----------------------+----------------------+----------------------+
@@ -440,6 +879,7 @@ equipamento se caracteriza em cada uma das opções:
 | **Stunning Impact**  | **Stonebreaker**     | **Berserk Fury**     |
 |                      |                      |                      |
 | **Effect:** Cada     | **Effect:** Ignora   | **Effect:** Ganha    |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | ataque consecutivo   | 20% da resistência   | +2% de ataque físico |
 | no mesmo alvo        | total do alvo        | para cada 5% de HP   |
 | adiciona a chance de | (Racial, elemental e | perdido.             |
@@ -453,6 +893,59 @@ equipamento se caracteriza em cada uma das opções:
 | .5104166666666667in" |                      |                      |
 | height="0.           |                      |                      |
 | 8854166666666666in"} |                      |                      |
+<<<<<<< HEAD
+|---|---|---|
+|                      |                      |                      |
+| **Piercing**         |                      |                      |
+|---|---|---|
+|---|---|---|
+| **Ethereal Lance**   | **Piercing           | **Dragons Gaze**     |
+|---|---|---|
+|---|---|---|
+|                      | Resilience**         |                      |
+|---|---|---|
+|---|---|---|
+| **Effect:** Adiciona |                      | **Effect:** Crítico  |
+|---|---|---|
+|---|---|---|
+| 30% do seu dano      | **Effect:** Aumenta  | + 30 quando atacando |
+|---|---|---|
+|---|---|---|
+| físico como True     | o range de sua arma  | monstros de tamanho  |
+|---|---|---|
+| Damage               | em +1.               | grande ou de classe  |
+|---|---|---|
+|                      |                      | Elite.               |
+|---|---|---|
+| ![](media/i          | Reduz o dano         |                      |
+|---|---|---|
+| mage60.png){width="1 | recebido em 4% por   | ![](media/i          |
+|---|---|---|
+| .5104166666666667in" | cada range de sua    | mage95.png){width="1 |
+|---|---|---|
+| height="0.           | arma.                | .5104166666666667in" |
+|---|---|---|
+| 8854166666666666in"} |                      | height="0.           |
+|---|---|---|
+|                      | ![](media/           | 8854166666666666in"} |
+|---|---|---|
+|                      | image2.png){width="1 |                      |
+|---|---|---|
+|                      | .5104166666666667in" |                      |
+|---|---|---|
+|                      | height="0.           |                      |
+|---|---|---|
+|                      | 8854166666666666in"} |                      |
+|                      |                      |                      |
+|---|---|---|
+| **Magical**          |                      |                      |
+|---|---|---|
+| **Astal Infusion**   | **Arcane Aegis**     | **Faerie Extension** |
+|---|---|---|
+|                      |                      |                      |
+| **Effect:** Usar uma | **Effect:** Ganha um | **Effect:** Aumenta  |
+|---|---|---|
+=======
 +----------------------+----------------------+----------------------+
 |                      |                      |                      |
 +----------------------+----------------------+----------------------+
@@ -483,6 +976,7 @@ equipamento se caracteriza em cada uma das opções:
 | **Astal Infusion**   | **Arcane Aegis**     | **Faerie Extension** |
 |                      |                      |                      |
 | **Effect:** Usar uma | **Effect:** Ganha um | **Effect:** Aumenta  |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | skill com cast time  | escudo de 5% do seu  | o range de skills em |
 | adiciona +1% de      | HP Máximo toda vez   | 4 células.           |
 | Matak (acumulável)   | que usar uma skill   |                      |
@@ -496,6 +990,49 @@ equipamento se caracteriza em cada uma das opções:
 | .5104166666666667in" | .5104166666666667in" |                      |
 | height="0.           | height="0.           |                      |
 | 8854166666666666in"} | 8854166666666666in"} |                      |
+<<<<<<< HEAD
+|---|---|---|
+|                      |                      |                      |
+| **Exotic**           |                      |                      |
+|---|---|---|
+|---|---|---|
+| **Phase Shift**      | **Malice**           | **Shadow Serenity**  |
+|---|---|---|
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| **Effect:** Adiciona | **Effect:** Não      | **Effect:** Garante  |
+|---|---|---|
+|---|---|---|
+| 30% de dano físico.  | atacar por 5         | 3 segundos de        |
+|---|---|---|
+| O dano extra é de    | segundos o dano do   | invisibilidade após  |
+|---|---|---|
+| uma propriedade      | próximo ataque em    | eliminar um inimigo. |
+|---|---|---|
+| aleatória.           | 40%.                 |                      |
+|---|---|---|
+|                      |                      | ![](media/i          |
+|---|---|---|
+| ![](media/i          | ![](media/i          | mage72.png){width="1 |
+|---|---|---|
+| mage35.png){width="1 | mage15.png){width="1 | .5104166666666667in" |
+|---|---|---|
+| .5104166666666667in" | .5104166666666667in" | height="0.           |
+|---|---|---|
+| height="0.           | height="0.           | 8854166666666666in"} |
+|---|---|---|
+| 8854166666666666in"} | 8854166666666666in"} |                      |
+|                      |                      |                      |
+|---|---|---|
+| **String**           |                      |                      |
+|---|---|---|
+| **Sonic Wave**       | **Crescendo**        | **Piercing**         |
+|---|---|---|
+|                      |                      |                      |
+| **Effect:** Ao       | **Effect:** Quando   | **Effect:** Ataques  |
+|---|---|---|
+=======
 +----------------------+----------------------+----------------------+
 |                      |                      |                      |
 +----------------------+----------------------+----------------------+
@@ -522,6 +1059,7 @@ equipamento se caracteriza em cada uma das opções:
 | **Sonic Wave**       | **Crescendo**        | **Piercing**         |
 |                      |                      |                      |
 | **Effect:** Ao       | **Effect:** Quando   | **Effect:** Ataques  |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | atacar, aplica um    | atacando o mesmo     | e habilidades        |
 | debuff de distúrbio  | alvo, ganha 1% de    | possuem uma chance   |
 | no inimigo,          | dano por acerto.     | de 20% de acertar os |
@@ -535,7 +1073,10 @@ equipamento se caracteriza em cada uma das opções:
 | .5104166666666667in" | height="0.           | 8854166666666666in"} |
 | height="0.           | 8854166666666666in"} |                      |
 | 8854166666666666in"} |                      |                      |
+<<<<<<< HEAD
+=======
 +----------------------+----------------------+----------------------+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 
 *Ozzi: É caro, é difícil e tem chance de falha, ou seja, vamos com calma
 amiguinho, mas os benefícios são muito bons. Aconselho começar com armas

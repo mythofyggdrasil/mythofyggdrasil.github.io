@@ -274,15 +274,67 @@ tipo de encantamento concede um bônus que, diferente da singularidade,
 você pode escolher qual você quer para fazer sentido com sua build ou
 com o que seu chapéu já faz.
 
+<<<<<<< HEAD
+| Itens                      | Opções                     | Zeny    |
+=======
 +----------------------------+----------------------------+---------+
 | Itens                      | Opções                     | Zeny    |
 +============================+============================+=========+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | ![](/assets/images/guide_images/image200.png){wi | Racial True Damage + 20    | 15.000z |
 | dth="0.2604166666666667in" |                            |         |
 | heig                       | Racial TrueSoft Defense    |         |
 | ht="0.2604166666666667in"} | Damage + 30                |         |
 |                            |                            |         |
 | 5 x Scell                  |                            |         |
+<<<<<<< HEAD
+|---|---|---|
+| ![](media/i                | Str + 3                    | 50.000z |
+|---|---|---|
+| mage69.png){width="0.25in" |                            |         |
+|---|---|---|
+| height="0.3125in"}         | Agi + 3                    |         |
+|---|---|---|
+|                            |                            |         |
+|---|---|---|
+| 15 x Cyfar                 | Vit + 3                    |         |
+|---|---|---|
+|                            |                            |         |
+|---|---|---|
+|                            | Int + 3                    |         |
+|---|---|---|
+|                            |                            |         |
+|---|---|---|
+|                            | Dex + 3                    |         |
+|---|---|---|
+|                            |                            |         |
+|---|---|---|
+|                            | Luk + 3                    |         |
+|---|---|---|
+|                            |                            |         |
+|---|---|---|
+|                            | MaxHP + 240                |         |
+|---|---|---|
+|                            |                            |         |
+|---|---|---|
+|                            | Max SP + 36                |         |
+|---|---|---|
+|                            |                            |         |
+|---|---|---|
+|                            | Soft Def + 12              |         |
+|---|---|---|
+|                            |                            |         |
+|---|---|---|
+|                            | Soft MDef + 12             |         |
+|---|---|---|
+|                            |                            |         |
+|---|---|---|
+|                            | Hit + 12                   |         |
+|---|---|---|
+|                            |                            |         |
+|---|---|---|
+|                            | Flee + 12                  |         |
+=======
 +----------------------------+----------------------------+---------+
 | ![](media/i                | Str + 3                    | 50.000z |
 | mage69.png){width="0.25in" |                            |         |
@@ -308,6 +360,7 @@ com o que seu chapéu já faz.
 |                            |                            |         |
 |                            | Flee + 12                  |         |
 +----------------------------+----------------------------+---------+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | ![](media/imag             | MaxHP + 5%                 | 75.000z |
 | e141.png){width="0.3125in" |                            |         |
 | height="0.3125in"}         | MaxSP + 5%                 |         |
@@ -329,7 +382,10 @@ com o que seu chapéu já faz.
 |                            | Soft MDef + 5%             |         |
 |                            |                            |         |
 |                            | Aspd + 5%                  |         |
+<<<<<<< HEAD
+=======
 +----------------------------+----------------------------+---------+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 
 Ozzi: No caso de Dano Verdadeiro Racial ou Defesa Verdadeira Racial
 aplicada pelo Scell, você pode escolher qual a raça, fazendo um chapéu

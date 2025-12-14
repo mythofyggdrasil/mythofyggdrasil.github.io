@@ -71,6 +71,20 @@ dar upgrade de ranking se estiver muito difícil dropar).
 
 **Equipamentos**
 
+<<<<<<< HEAD
+| **Chapéu**                       | **Armadura**                     |
+|---|---|
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](m                            | ![](m                            |
+|---|---|
+| edia/image90.gif){width="0.25in" | edia/image68.gif){width="0.25in" |
+|---|---|
+| height="0.25in"}Spore            | height="0.25in"} Picky           |
+| **Calçado**                      | **Escudo**                       |
+|---|---|
+=======
 +----------------------------------+----------------------------------+
 | **Chapéu**                       | **Armadura**                     |
 |                                  |                                  |
@@ -79,10 +93,39 @@ dar upgrade de ranking se estiver muito difícil dropar).
 | height="0.25in"}Spore            | height="0.25in"} Picky           |
 +==================================+==================================+
 | **Calçado**                      | **Escudo**                       |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 |                                  |                                  |
 | ![](m                            | ![](m                            |
 | edia/image23.gif){width="0.25in" | edia/image34.gif){width="0.25in" |
 | height="0.25in"}Savage Baby      | height="0.25in"}Mandrágora       |
+<<<<<<< HEAD
+|---|---|
+| **Capa**                         |                                  |
+|---|---|
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](m                            |                                  |
+|---|---|
+| edia/image48.gif){width="0.25in" |                                  |
+|---|---|
+| height="0.25in"}Hornet           |                                  |
+| **Armas**                        |                                  |
+|---|---|
+|---|---|
+| **Adaga**                        | **Machado**                      |
+|---|---|
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](me                           | ![](me                           |
+|---|---|
+| dia/image156.gif){width="0.25in" | dia/image185.gif){width="0.25in" |
+|---|---|
+| height="0.25in"}Poring           | height="0.25in"}Willow           |
+| **Espada de uma mão**            | **Espada de duas mãos**          |
+|---|---|
+=======
 +----------------------------------+----------------------------------+
 | **Capa**                         |                                  |
 |                                  |                                  |
@@ -99,6 +142,7 @@ dar upgrade de ranking se estiver muito difícil dropar).
 | height="0.25in"}Poring           | height="0.25in"}Willow           |
 +----------------------------------+----------------------------------+
 | **Espada de uma mão**            | **Espada de duas mãos**          |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 |                                  |                                  |
 | ![](m                            | ![](me                           |
 | edia/image63.gif){width="0.25in" | dia/image218.gif){width="0.25in" |
@@ -106,6 +150,21 @@ dar upgrade de ranking se estiver muito difícil dropar).
 | ![](me                           |                                  |
 | dia/image177.gif){width="0.25in" |                                  |
 | height="0.25in"} Wormtail        |                                  |
+<<<<<<< HEAD
+|---|---|
+| **Lança de uma Mão**             | **Lança de duas mãos**           |
+|---|---|
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](m                            | ![](me                           |
+|---|---|
+| edia/image43.gif){width="0.25in" | dia/image192.gif){width="0.25in" |
+|---|---|
+| height="0.25in"} Creamy          | height="0.25in"}Muka             |
+| **Maça**                         | **Cajado**                       |
+|---|---|
+=======
 +----------------------------------+----------------------------------+
 | **Lança de uma Mão**             | **Lança de duas mãos**           |
 |                                  |                                  |
@@ -114,10 +173,24 @@ dar upgrade de ranking se estiver muito difícil dropar).
 | height="0.25in"} Creamy          | height="0.25in"}Muka             |
 +----------------------------------+----------------------------------+
 | **Maça**                         | **Cajado**                       |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 |                                  |                                  |
 | ![](me                           | ![](me                           |
 | dia/image108.gif){width="0.25in" | dia/image163.gif){width="0.25in" |
 | height="0.25in"} Fabre           | height="0.25in"} Leaftic         |
+<<<<<<< HEAD
+|---|---|
+| **Arco**                         |                                  |
+|---|---|
+|---|---|
+|                                  |                                  |
+|---|---|
+| ![](m                            |                                  |
+|---|---|
+| edia/image97.gif){width="0.25in" |                                  |
+|---|---|
+| height="0.25in"}Baby Wolf        |                                  |
+=======
 +----------------------------------+----------------------------------+
 | **Arco**                         |                                  |
 |                                  |                                  |
@@ -125,6 +198,7 @@ dar upgrade de ranking se estiver muito difícil dropar).
 | edia/image97.gif){width="0.25in" |                                  |
 | height="0.25in"}Baby Wolf        |                                  |
 +----------------------------------+----------------------------------+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 
 *[Gaste todos os Idriks e durabilidade]{.underline}*
 

@@ -176,6 +176,10 @@ Spiritual Energy.
 | ![](/assets/images/guide_images/image4.png){width="0.3286001749781277in"                   |
 | height="0.3286001749781277                                           |
 | in"}**Importante**![](/assets/images/guide_images/image4.png){width="0.3286001749781277in" |
+<<<<<<< HEAD
+|---|
+=======
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | height="0.3286001749781277in"}                                       |
 |                                                                      |
 | O preço é bem salgado para melhorar o nível dos equipamentos, mas    |

@@ -112,10 +112,17 @@ Ao usar um suco, você será curado por um valor imediatamente (instant) e
 mais um valor por 1 segundos nos próximos 4 segundos (Over). Mas cada um
 deles tem um nível mínimo que seu personagem precisa estar para usar.
 
+<<<<<<< HEAD
+| **Sucos de HP**      |                      |                      |
+|---|---|---|
+| **Apple Juice**      | **Carrot Juice**     | **Banana Juice**     |
+|---|---|---|
+=======
 +----------------------+----------------------+----------------------+
 | **Sucos de HP**      |                      |                      |
 +======================+======================+======================+
 | **Apple Juice**      | **Carrot Juice**     | **Banana Juice**     |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 |                      |                      |                      |
 | ![](media/im         | ![](media/i          | !                    |
 | age115.png){width="1 | mage73.png){width="1 | [](media/image146.pn |
@@ -128,6 +135,41 @@ deles tem um nível mínimo que seu personagem precisa estar para usar.
 | Over: 12\~20 HP      |                      |                      |
 |                      | LV 20                | LV 40                |
 | LV 1                 |                      |                      |
+<<<<<<< HEAD
+|---|---|---|
+| **Pumpkin Juice**    | **Coconut Juice**    |                      |
+|---|---|---|
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| ![](media/im         | ![](media/im         |                      |
+|---|---|---|
+| age144.png){width="1 | age207.png){width="1 |                      |
+|---|---|---|
+| .8541666666666667in" | .8333333333333333in" |                      |
+|---|---|---|
+| height="0.           | height="0.           |                      |
+|---|---|---|
+| 8958333333333334in"} | 8541666666666666in"} |                      |
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| Instant: 256\~320 HP | Instant: 512\~640 HP |                      |
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| Over: 96\~160 HP     | Over: 192\~320 HP    |                      |
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| LV 60                | LV 80                |                      |
+|                      |                      |                      |
+|---|---|---|
+| **Sucos de SP**      |                      |                      |
+|---|---|---|
+| **Melon Juice**      | **Strawberry Juice** | **Orange Juice**     |
+|---|---|---|
+=======
 +----------------------+----------------------+----------------------+
 | **Pumpkin Juice**    | **Coconut Juice**    |                      |
 |                      |                      |                      |
@@ -148,6 +190,7 @@ deles tem um nível mínimo que seu personagem precisa estar para usar.
 | **Sucos de SP**      |                      |                      |
 +----------------------+----------------------+----------------------+
 | **Melon Juice**      | **Strawberry Juice** | **Orange Juice**     |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 |                      |                      |                      |
 | ![](media/im         | ![](media/im         | ![](media/i          |
 | age215.png){width="1 | age184.png){width="1 | mage20.png){width="1 |
@@ -160,6 +203,37 @@ deles tem um nível mínimo que seu personagem precisa estar para usar.
 | Over: 2\~3 SP        | Over: 3\~6 SP        | Over: 6\~12 SP       |
 |                      |                      |                      |
 | LV 1                 | LV 1                 | LV 20                |
+<<<<<<< HEAD
+|---|---|---|
+| **Watermelon Juice** | **Grape Juice**      | **Lemon Juice**      |
+|---|---|---|
+|---|---|---|
+|                      |                      |                      |
+|---|---|---|
+| !                    | ![](media/im         | ![](media/im         |
+|---|---|---|
+| [](media/image119.pn | age211.png){width="1 | age170.png){width="1 |
+|---|---|---|
+| g){width="1.84375in" | .8229166666666667in" | .8645833333333333in" |
+|---|---|---|
+| height="0.           | height="0.84375in"}  | height="0.875in"}    |
+|---|---|---|
+| 8645833333333334in"} |                      |                      |
+|---|---|---|
+|                      | Instant: 27\~36 SP   | Instant: 36\~48 SP   |
+|---|---|---|
+| Instant: 18\~24 SP   |                      |                      |
+|---|---|---|
+|                      | Over: 9\~18 SP       | Over: 12\~24 SP      |
+|---|---|---|
+| Over: 6\~12 SP       |                      |                      |
+|---|---|---|
+|                      | LV 40                | LV 60                |
+|---|---|---|
+| LV 20                |                      |                      |
+| **Peach Juice**      | **Pineapple Juice**  |                      |
+|---|---|---|
+=======
 +----------------------+----------------------+----------------------+
 | **Watermelon Juice** | **Grape Juice**      | **Lemon Juice**      |
 |                      |                      |                      |
@@ -176,6 +250,7 @@ deles tem um nível mínimo que seu personagem precisa estar para usar.
 | LV 20                |                      |                      |
 +----------------------+----------------------+----------------------+
 | **Peach Juice**      | **Pineapple Juice**  |                      |
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 |                      |                      |                      |
 | ![](media/im         | ![](media/im         |                      |
 | age194.png){width="1 | age134.png){width="1 |                      |
@@ -188,7 +263,10 @@ deles tem um nível mínimo que seu personagem precisa estar para usar.
 | Over: 12\~24 SP      | Over: 15\~30 SP      |                      |
 |                      |                      |                      |
 | Lv 60                | LV 80                |                      |
+<<<<<<< HEAD
+=======
 +----------------------+----------------------+----------------------+
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 
 Então vamos supor o Suco de Maçã e os valores mínimos, você vai curar
 instantaneamente **32 de HP** e mais **12 de HP** nos próximos 4

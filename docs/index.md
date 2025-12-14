@@ -89,8 +89,6 @@ Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor
     *   [:octicons-arrow-right-24: Lokaltgames](https://www.twitch.tv/lokaltgames )
     *   [:octicons-arrow-right-24: Juliezinha](https://www.twitch.tv/julliezinha )
 
-
-
 </div>
 
 ---
@@ -146,7 +144,11 @@ Em Dungeons, TODOS os monstros são agressivos! Vá preparado.
 
 ---
 
+<<<<<<< HEAD
+![](/assets/images/guide_images/image28.png){width="1.859375546806649in"
+=======
 ![](media/image28.png){width="1.859375546806649in"
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 height="1.7634547244094487in"}
 
 **Guia Myth of Yggdrasil**
@@ -157,5 +159,9 @@ height="1.7634547244094487in"}
 
 https://acesse.one/GuiaMyth
 
+<<<<<<< HEAD
+![](/assets/images/guide_images/image3.png){width="1.0674420384951882in"
+=======
 ![](media/image3.png){width="1.0674420384951882in"
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 height="0.9340113735783027in"}

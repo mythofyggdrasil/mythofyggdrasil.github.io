@@ -86,6 +86,10 @@ várias formas ou comprar com outros jogadores.
 
 +----------------------------------------------------------------------+
 | **💡Dica:** No começo do jogo pode ser complicado matar monstros que  |
+<<<<<<< HEAD
+|---|
+=======
+>>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
 | drope essas pedras, mas você pode focar em caçar cogumelos ao longo  |
 | dos mapas, todos eles tem chance de dropar um dos cristais e foi     |
 | adicionado no jogo o cogumelo verde e o cogumelo amarelo.            |
