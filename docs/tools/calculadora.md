@@ -55,8 +55,8 @@
 - **Considera bônus de equipamentos**
 
 <div class="admonition success" markdown="1">
-<p class="admonition-title">Compatibilidade</p>
-A calculadora é totalmente responsiva e funciona em dispositivos móveis e desktop.
+<p class="admonition-title">Créditos</p>
+Valeu Sinergia e Sweet pelos cálculos e planilha.
 </div>
 
 ---
