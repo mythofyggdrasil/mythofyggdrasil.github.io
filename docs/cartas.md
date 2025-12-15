@@ -8,7 +8,7 @@ Para quem não pegou a época que o Ragnarok vinha em um CD de instalação junt
 
 Cada carta tem um benefício diferente para seu personagem e deve ser colocada nos equipamentos que tem slot.
 
-![Exemplo de slots de equipamento](/assets/images/guide_images/image36.png)
+![Exemplo de slots de equipamento](/docs/assets/images/guide_images/image36.png)
 
 Por exemplo, um Stiletto \[3\] pode receber até três cartas, assim como uma Bota \[1\] possui um slot para ser adicionado uma carta e assim por diante.
 
