@@ -18,7 +18,7 @@ De forma geral, uma arma de nível baixo pode ter até \[4\] slots e equipamento
 
 | | |
 | :--- | :--- |
-| ![Carta no jogo](/assets/images/guide_images/image93.png) | **Diferente do convencional**, onde cada carta tem um lugar específico para ser colocada, algumas cartas no Myth of Yggdrasil podem ser adicionadas em qualquer equipamento conforme suas restrições. <br><br> Outro ponto é que boa parte das cartas tiveram seus benefícios revistos ou alterados, assim como alguns monstros que antes não tinham carta, agora tem. |
+| ![Carta no jogo](/docs/assets/images/guide_images/image93.png) | **Diferente do convencional**, onde cada carta tem um lugar específico para ser colocada, algumas cartas no Myth of Yggdrasil podem ser adicionadas em qualquer equipamento conforme suas restrições. <br><br> Outro ponto é que boa parte das cartas tiveram seus benefícios revistos ou alterados, assim como alguns monstros que antes não tinham carta, agora tem. |
 
 ## Remoção de Cartas
 
@@ -26,11 +26,9 @@ E uma informação importante para quem encontrou a Ophelia na área dos ferreir
 
 | | |
 | :--- | :--- |
-| Na maioria dos servidores, ao remover uma carta, você recebe seu equipamento e também a carta para ser utilizada em outro lugar. <br><br> **Mas no Myth of Yggdrasil não**, ao remover a carta, você recebe seu equipamento **<u>mas a carta é destruída</u>**. Isso mesmo que você leu, a carta já era. <br><br> De certa forma, os equipamentos com um bom ranking, refino elevado e singularidade interessantes são mais difíceis do que dropar uma carta, então até que faz sentido esse sistema. | ![NPC Ophelia](/assets/images/guide_images/image66.png) |
+| Na maioria dos servidores, ao remover uma carta, você recebe seu equipamento e também a carta para ser utilizada em outro lugar. <br><br> **Mas no Myth of Yggdrasil não**, ao remover a carta, você recebe seu equipamento **<u>mas a carta é destruída</u>**. Isso mesmo que você leu, a carta já era. <br><br> De certa forma, os equipamentos com um bom ranking, refino elevado e singularidade interessantes são mais difíceis do que dropar uma carta, então até que faz sentido esse sistema. | ![NPC Ophelia](/docs/assets/images/guide_images/image66.png) |
 
 !!! warning "Atenção"
     **Ozzi:** Por isso é tão importante ficar de olho no omnibook antes de ir matar mais de mil monstros para dropar sua carta e depois descobrir que o efeito mudou. Baseado em fatos reais.
 
 ---
-
-*Próximo: [Sistema de encantamento por...](singularidade.md)*
