@@ -8,7 +8,7 @@ Os valores podem variar, mas vale esclarecer, você pode fazer apenas um reforge
 
 Para começar e ver as opções disponíveis, você precisa encontrar um ferreiro que esteja vendendo o serviço de reforge.
 
-![Interface do Reforge](/docs/assets/images/guide_images/image127.png)
+![Interface do Reforge](/assets/images/guide_images/image127.png)
 
 Não vou entrar aqui na explicação de build voltadas para reforge, pois parece que a dex e luk do ferreiro tem grande influência, mas vale procurar alguém com uma build voltada para isso para melhores chances de sucesso.
 
@@ -22,15 +22,15 @@ Hammer e Mini Furnace são vendidos no ferreiro em Geffen ou em Einbroch, não �
 
 | Itens Necessários (Lado Esquerdo) | Produz (Lado Direito) |
 | :--- | :--- |
-| ![Wind of Verdure](/docs/assets/images/guide_images/image101.gif) 10x Wind of Verdure<br>![Mini Furnace](/docs/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/docs/assets/images/guide_images/image10.gif) 1x Coal | ![Rough Wind](/docs/assets/images/guide_images/image99.gif) 1x Rough Wind |
-| ![Red Blood](/docs/assets/images/guide_images/image110.gif) 10x Red Blood<br>![Mini Furnace](/docs/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/docs/assets/images/guide_images/image10.gif) 1x Coal | ![Flame Heart](/docs/assets/images/guide_images/image209.gif) 1x Flame Heart |
-| ![Green Live](/docs/assets/images/guide_images/image14.gif) 10x Green live<br>![Mini Furnace](/docs/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/docs/assets/images/guide_images/image10.gif) 1x Coal | ![Great Nature](/docs/assets/images/guide_images/image7.gif) 1x Great Nature |
-| ![Crystal Blue](/docs/assets/images/guide_images/image147.gif) 10x Crystal Blue<br>![Mini Furnace](/docs/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/docs/assets/images/guide_images/image10.gif) 1x Coal | ![Mystic Frozen](/docs/assets/images/guide_images/image187.gif) 1x Mystic Frozen |
-| ![Iron Ore](/docs/assets/images/guide_images/image100.gif) 5x Iron ore<br>![Mini Furnace](/docs/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/docs/assets/images/guide_images/image10.gif) 1x Coal | ![Iron](/docs/assets/images/guide_images/image44.gif) 1x Iron |
-| ![Iron](/docs/assets/images/guide_images/image44.gif) 10x Iron<br>![Mini Furnace](/docs/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/docs/assets/images/guide_images/image10.gif) 1x Coal | ![Steel](/docs/assets/images/guide_images/image132.gif) 1x Steel |
-| ![Stardust](/docs/assets/images/guide_images/image57.gif) 10x Stardust<br>![Mini Furnace](/docs/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/docs/assets/images/guide_images/image10.gif) 1x Coal | ![Star Crumb](/docs/assets/images/guide_images/image191.gif) 1x Star Crumb |
-| ![Rough Elunium](/docs/assets/images/guide_images/image16.gif) 10x Rough Elunium<br>![Mini Furnace](/docs/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/docs/assets/images/guide_images/image10.gif) 1x Coal | ![Elunium](/docs/assets/images/guide_images/image219.gif) 1x Elunium |
-| ![Rough Oridecon](/docs/assets/images/guide_images/image9.gif) 10x Rough Oridecon<br>![Mini Furnace](/docs/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/docs/assets/images/guide_images/image10.gif) 1x Coal | ![Oridecon](/docs/assets/images/guide_images/image50.gif) 1x Oridecon |
+| ![Wind of Verdure](/assets/images/guide_images/image101.gif) 10x Wind of Verdure<br>![Mini Furnace](/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/assets/images/guide_images/image10.gif) 1x Coal | ![Rough Wind](/assets/images/guide_images/image99.gif) 1x Rough Wind |
+| ![Red Blood](/assets/images/guide_images/image110.gif) 10x Red Blood<br>![Mini Furnace](/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/assets/images/guide_images/image10.gif) 1x Coal | ![Flame Heart](/assets/images/guide_images/image209.gif) 1x Flame Heart |
+| ![Green Live](/assets/images/guide_images/image14.gif) 10x Green live<br>![Mini Furnace](/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/assets/images/guide_images/image10.gif) 1x Coal | ![Great Nature](/assets/images/guide_images/image7.gif) 1x Great Nature |
+| ![Crystal Blue](/assets/images/guide_images/image147.gif) 10x Crystal Blue<br>![Mini Furnace](/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/assets/images/guide_images/image10.gif) 1x Coal | ![Mystic Frozen](/assets/images/guide_images/image187.gif) 1x Mystic Frozen |
+| ![Iron Ore](/assets/images/guide_images/image100.gif) 5x Iron ore<br>![Mini Furnace](/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/assets/images/guide_images/image10.gif) 1x Coal | ![Iron](/assets/images/guide_images/image44.gif) 1x Iron |
+| ![Iron](/assets/images/guide_images/image44.gif) 10x Iron<br>![Mini Furnace](/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/assets/images/guide_images/image10.gif) 1x Coal | ![Steel](/assets/images/guide_images/image132.gif) 1x Steel |
+| ![Stardust](/assets/images/guide_images/image57.gif) 10x Stardust<br>![Mini Furnace](/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/assets/images/guide_images/image10.gif) 1x Coal | ![Star Crumb](/assets/images/guide_images/image191.gif) 1x Star Crumb |
+| ![Rough Elunium](/assets/images/guide_images/image16.gif) 10x Rough Elunium<br>![Mini Furnace](/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/assets/images/guide_images/image10.gif) 1x Coal | ![Elunium](/assets/images/guide_images/image219.gif) 1x Elunium |
+| ![Rough Oridecon](/assets/images/guide_images/image9.gif) 10x Rough Oridecon<br>![Mini Furnace](/assets/images/guide_images/image52.gif) 1x Mini Furnace<br>![Coal](/assets/images/guide_images/image10.gif) 1x Coal | ![Oridecon](/assets/images/guide_images/image50.gif) 1x Oridecon |
 
 > **Ozzi:** Aconselho a ficar de olho nestes itens de forja e manter eles na Kafra, mesmo que não tenha interesse de deixar sua arma mais forte, pois podem ter um bom valor de mercado para venda.
 
