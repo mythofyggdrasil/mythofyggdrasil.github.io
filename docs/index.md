@@ -1,9 +1,3 @@
----
-hide:
-  - navigation
-  - toc
----
-
 # Myth of Yggdrasil Wiki
 
 <div style="text-align: center; margin: 2rem 0;">
@@ -84,10 +78,10 @@ Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor
 
     Apoie a comunidade! Assista aos streamers oficiais do Myth of Yggdrasil na Twitch.
 
-    *   [:octicons-arrow-right-24: Skzhito](https://www.twitch.tv/skzhito )
-    *   [:octicons-arrow-right-24: Suigh](https://www.twitch.tv/suigh )
-    *   [:octicons-arrow-right-24: Lokaltgames](https://www.twitch.tv/lokaltgames )
-    *   [:octicons-arrow-right-24: Juliezinha](https://www.twitch.tv/julliezinha )
+    *   [:octicons-arrow-right-24: Skzhito](https://www.twitch.tv/skzhito)
+    *   [:octicons-arrow-right-24: Suigh](https://www.twitch.tv/suigh)
+    *   [:octicons-arrow-right-24: Lokaltgames](https://www.twitch.tv/lokaltgames)
+    *   [:octicons-arrow-right-24: Juliezinha](https://www.twitch.tv/julliezinha)
 
 </div>
 
@@ -96,35 +90,30 @@ Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor
 ## 📚 Navegação Rápida
 
 ### Sistema e Fundamentos
-
-*   [Sistema e Diferenças](sistema.md) - O que mudou no servidor.
-*   [Novas Métricas](metricas.md) - Thorns, Damage Rebounce, Cast Shield e mais.
-*   [Omnibook](omnibook.md) - Como usar o banco de dados interno do jogo.
+- [Sistema e Diferenças](sistema.md) - O que mudou no servidor
+- [Novas Métricas](metricas.md) - Thorns, Damage Rebounce, Cast Shield e mais
+- [Omnibook](omnibook.md) - Como usar o banco de dados interno do jogo
 
 ### Mecânicas Avançadas
-
-*   [Todos os Reforges](todos-os-reforges.md) - Guia completo de encantamentos de arma.
-*   [Cura e Sucos](cura.md) - Sistema de consumo por tempo.
-*   [Pets](pets.md) - Guia completo do sistema de pets.
-*   [Smart Cast](smart.md) - Automação de skills e itens.
-*   [Cartas](cartas.md) - Sistema de cartas e encantamentos.
-*   [Singularidade](singularidade.md) - Encantamentos de equipamentos.
-*   [Durabilidade](durabilidade.md) - Sistema de refino e durabilidade.
+- [Todos os Reforges](todos-os-reforges.md) - Guia completo de encantamentos de arma
+- [Cura e Sucos](cura.md) - Sistema de consumo por tempo
+- [Pets](pets.md) - Guia completo do sistema de pets
+- [Smart Cast](smart.md) - Automação de skills e itens
+- [Cartas](cartas.md) - Sistema de cartas e encantamentos
+- [Singularidade](singularidade.md) - Encantamentos de equipamentos
+- [Durabilidade](durabilidade.md) - Sistema de refino e durabilidade
 
 ### Progressão e Classes
-
-*   [Jobs e Progressão](jobs.md) - Sistema de classes e evolução.
-*   [Guia de Up](guia-de-up.md) - Locais de caça e dicas para subir de nível.
-*   [Ranking de Equipamentos](ranking.md) - Sistema de estrelas e upgrades.
-*   [Builds e Guias de Classes](builds.md) - Índice de guias de builds.
+- [Jobs e Progressão](jobs.md) - Sistema de classes e evolução
+- [Guia de Up](guia-de-up.md) - Locais de caça e dicas para subir de nível
+- [Ranking de Equipamentos](ranking.md) - Sistema de estrelas e upgrades
+- [Builds e Guias de Classes](builds.md) - Índice de guias de builds
 
 ### Ferramentas
-
-*   [Skill Calculator](skill-calculator.md) - Ferramenta para planejar a distribuição de habilidades.
+- [Skill Calculator](skill-calculator.md) - Ferramenta para planejar a distribuição de habilidades
 
 ### Quests e Itens
-
-*   [Quests de Chapéus](hat-quests.md) - Guia completo de quests para chapéus e equipamentos de cabeça.
+- [Quests de Chapéus](hat-quests.md) - Guia completo de quests para chapéus e equipamentos de cabeça
 
 ---
 
@@ -140,16 +129,11 @@ Em Dungeons, TODOS os monstros são agressivos! Vá preparado.
 
 ---
 
-*Baseado no guia do Ozzi - Atualizado para a comunidade brasileira.*
+*Baseado no guia do Ozzi - Atualizado para a comunidade brasileira*
 
 ---
 
-<<<<<<< HEAD
-![](/assets/images/guide_images/image28.png){width="1.859375546806649in"
-=======
-![](media/image28.png){width="1.859375546806649in"
->>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
-height="1.7634547244094487in"}
+![Logo do Myth of Yggdrasil](/docs/assets/images/guide_images/image28.png)
 
 **Guia Myth of Yggdrasil**
 
@@ -159,9 +143,4 @@ height="1.7634547244094487in"}
 
 https://acesse.one/GuiaMyth
 
-<<<<<<< HEAD
-![](/assets/images/guide_images/image3.png){width="1.0674420384951882in"
-=======
-![](media/image3.png){width="1.0674420384951882in"
->>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
-height="0.9340113735783027in"}
+![Divisor](/docs/assets/images/guide_images/image3.png)
