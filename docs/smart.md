@@ -22,7 +22,7 @@ Para ativar, na sua barra de atalhos vai ter um botão vermelho e um azul. Cliqu
 
 **Simples assim!**
 
-![Demonstração do Smart Cast](/docs/assets/images/guide_images/image112.gif)
+![Demonstração do Smart Cast](/assets/images/guide_images/image112.gif)
 
 ## Auto Stuff
 
@@ -45,7 +45,7 @@ Depois de configurar, você pode ativar ou desativar apenas clicando na barrinha
     *   Um de item aleatório.
 *   Quem for **Benefactor** tem acesso a 5 slots de itens aleatórios extras.
 
-![Demonstração do Auto Stuff](/docs/assets/images/guide_images/image178.gif)
+![Demonstração do Auto Stuff](/assets/images/guide_images/image178.gif)
 
 > **Ozzi:** Ambas as funcionalidades são muito boas para que você possa se manter focado no que realmente importa durante a exploração de dungeons ou jogando com grupos.
 
