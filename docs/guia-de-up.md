@@ -125,7 +125,7 @@ Inclusive, se não quiser seguir esse guia, você pode:
 1. **Usar o Omnibook** filtrando por nível ou por quantidade de exp
 2. **Abrir o mapa mundi** - ele mostra o nível dos monstros daquele mapa
 
-![Mapa Mundi do jogo](docs/assets/images/guide_images/image221.png)
+![Mapa Mundi do jogo](/docs/assets/images/guide_images/image221.png)
 
 !!! note "Dica"
     Se não estiver aparecendo o level dos mapas, é só apertar **Tab**.
