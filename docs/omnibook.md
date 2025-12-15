@@ -10,11 +10,11 @@ Para acessar o omnibook você pode usar o atalho `CTRL + O`, onde te levará par
 
 No caso de itens, ele irá mostrar o ícone, preço de venda, peso, id, tipo de item, nome, level necessário, quem dropa, descrição e mais um monte de coisa.
 
-![Exemplo de visualização de item no Omnibook](/docs/assets/images/guide_images/image109.png)
+![Exemplo de visualização de item no Omnibook](/assets/images/guide_images/image109.png)
 
 Para monstros, é mostrado o level, HP, Experiencie de base, experiência de job, nome, elemento, raça, tamanho, onde encontrar, itens que dropam e sua chance e mais um monte de coisa.
 
-![Exemplo de visualização de monstro no Omnibook](/docs/assets/images/guide_images/image135.png)
+![Exemplo de visualização de monstro no Omnibook](/assets/images/guide_images/image135.png)
 
 ## Como usar filtros
 
@@ -44,7 +44,7 @@ Você usaria o filtro:
 
 Tudo bem que só tem o Goblin nessas condições, mas você entendeu a ideia.
 
-![Resultado do filtro de exemplo](/docs/assets/images/guide_images/image152.png)
+![Resultado do filtro de exemplo](/assets/images/guide_images/image152.png)
 
 ### O comando `#desc`
 
@@ -53,7 +53,7 @@ Outro comando que é muito poderoso no Omnibook é o **`#desc`**. Ele te ajuda a
 Então vamos supor que você quer ver todos os itens que sejam exclusivos para a classe Thief e que seja armor e nível 3, então você faz assim:
 `#desc=thief #desc=armor #desc=Level: 3`
 
-![Resultado da busca por descrição](/docs/assets/images/guide_images/image198.png)
+![Resultado da busca por descrição](/assets/images/guide_images/image198.png)
 
 ### Calculando o valor do loot
 
@@ -63,7 +63,7 @@ Para isso, o comando é o **`#zeny`** onde você consegue filtrar pelo valor de 
 
 Então no exemplo abaixo, eu fiz o filtro `#zeny>10000` para ver todos os itens que valem mais que um 10k no npc e temos a Witherless Rose com drop de 4% da Mavka.
 
-![Filtro por valor de venda](/docs/assets/images/guide_images/image116.png)
+![Filtro por valor de venda](/assets/images/guide_images/image116.png)
 
 > **Ozzi:** Dá para perder horas olhando o omnibook e organizando o que você vai enfrentar ou dropar no decorrer do dia, e o melhor, é dentro do jogo, não precisa ter uma outra janela aberta toda hora.
 
