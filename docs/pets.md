@@ -52,10 +52,10 @@ Acho que é meio óbvio o que cada um faz, mas vamos lá.
 
 | Classe | Descrição | Exemplo de Skills |
 | :--- | :--- | :--- |
-| ![Dano Físico](/assets/images/guide_images/image149.png) **Dano Físico** | Habilidades que ocasionam dano nos inimigos | Sonic Blow, Bash, Piercing, etc. |
-| ![Dano Mágico](/assets/images/guide_images/image128.png) **Dano Mágico** | Realiza ataques elementais para ajudar na eliminação de inimigos | Lanças Elementais, Meteor, Storm Gust, etc. |
-| ![Suporte](/assets/images/guide_images/image164.png) **Suporte** | O suporte tem skills que auxiliam durante a luta contra os monstros | Angelus, Heal, Agi up, Bless, etc. |
-| ![Tanque](/assets/images/guide_images/image157.png) **Tanque** | O tanque tem skills que auxiliam em sua durabilidade contra monstros | Solid Skin, Defense Aura, Reflect Shield etc. |
+| ![Dano Físico](/assets/images/guide_images/image149.png){ width="20" height="20" } **Dano Físico** | Habilidades que ocasionam dano nos inimigos | Sonic Blow, Bash, Piercing, etc. |
+| ![Dano Mágico](/assets/images/guide_images/image128.png){ width="20" height="20" } **Dano Mágico** | Realiza ataques elementais para ajudar na eliminação de inimigos | Lanças Elementais, Meteor, Storm Gust, etc. |
+| ![Suporte](/assets/images/guide_images/image164.png){ width="20" height="20" } **Suporte** | O suporte tem skills que auxiliam durante a luta contra os monstros | Angelus, Heal, Agi up, Bless, etc. |
+| ![Tanque](/assets/images/guide_images/image157.png){ width="20" height="20" } **Tanque** | O tanque tem skills que auxiliam em sua durabilidade contra monstros | Solid Skin, Defense Aura, Reflect Shield etc. |
 
 ## Lista de Pets
 
