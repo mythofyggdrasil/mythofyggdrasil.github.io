@@ -223,7 +223,7 @@ Importante que só passa o tempo da aventura enquanto você estiver na cidade, e
 
 Como você precisa ficar na cidade aguardando, então é basicamente um sistema AFK de recompensa.
 
-![Tela de Pet Adventure](docs/assets/images/guide_images/image162.png)
+![Tela de Pet Adventure](/docs/assets/images/guide_images/image162.png)
 
 Quando o tempo terminar, você pegará seus pets novamente e também os itens que eles droparam.
 
