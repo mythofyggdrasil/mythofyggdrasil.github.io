@@ -8,7 +8,7 @@ Todos os monstros que você eliminar durante o jogo, têm a chance de dropar uma
 
 A pedra dropada varia de acordo com o nível do monstro, conforme a tabela a seguir:
 
-![Tabela de pedras por nível do monstro](/docs/assets/images/guide_images/image96.png)
+![Tabela de pedras por nível do monstro](/assets/images/guide_images/image96.png)
 
 Para a primeira singularidade você vai gastar **Sunlight Drop**.
 Para a segunda singularidade você vai gastar **Ouroboros Cristal**.
@@ -21,7 +21,7 @@ Você vai usar **4 pedras** para cada singularidade que deseja adicionar ao equi
 
 Para fazer os encantamentos, você precisa ir até o ferreiro da cidade e falar com a **Raphaela**.
 
-![NPC Raphaela](/docs/assets/images/guide_images/image76.png)
+![NPC Raphaela](/assets/images/guide_images/image76.png)
 
 No próprio NPC ela tem a opção onde explica melhor qual bônus pode vir em cada tipo de equipamento, mas vale mencionar que você apenas pode encantar **Arma, Escudo, Capa, Bota e Armadura**. Não dá para encantar Acessórios ou Equipamentos de Cabeça (Low, Mid ou Top) com a Raphaela, mas a Carola pode te ajudar nisso.
 
@@ -47,7 +47,7 @@ E é bem comum o bônus não vir no valor que você quer, mas você tem a opçã
 
 *Então uma vez ativado um tipo de bônus, não tem como alterar ele, somente seu valor.*
 
-![Interface de reroll](/docs/assets/images/guide_images/image59.png)
+![Interface de reroll](/assets/images/guide_images/image59.png)
 
 ## Tabelas de bônus por tipo de equipamento
 
@@ -215,7 +215,7 @@ Mas a Carola pode resolver isso para nós!
 
 Ela é uma jovem que fica na Guilda dos Exploradores que possui poderes místicos e que pode melhorar seus chapéus a depender da força oculta que eles possuem.
 
-![NPC Carola](/docs/assets/images/guide_images/image139.png)
+![NPC Carola](/assets/images/guide_images/image139.png)
 
 Depois de fazer a quest que explica as possibilidades de encantamento de equipamento, com 12 Report Page entregues, você pode falar com ela para encantar um chapéu da sua escolha.
 
@@ -227,9 +227,9 @@ Para isso, você precisa de alguns itens e uma quantia de dinheiro. Cada tipo de
 
 | Itens | Opções | Zeny |
 | :--- | :--- | :---: |
-| ![Scell](/docs/assets/images/guide_images/image200.png) 5 x Scell | Racial True Damage + 20<br>Racial TrueSoft Defense Damage + 30 | 15.000z |
-| ![Cyfar](/docs/assets/images/guide_images/image69.png) 15 x Cyfar | Str + 3<br>Agi + 3<br>Vit + 3<br>Int + 3<br>Dex + 3<br>Luk + 3<br>MaxHP + 240<br>Max SP + 36<br>Soft Def + 12<br>Soft MDef + 12<br>Hit + 12<br>Flee + 12 | 50.000z |
-| ![Brigan](/docs/assets/images/guide_images/image141.png) 45 x Brigan | MaxHP + 5%<br>MaxSP + 5%<br>Cast Variável -5%<br>Cast Fixo - 0.1<br>Cast Fixo - 5%<br>Critical + 2<br>Matk + 5%<br>Atk + 5%<br>Soft Def + 5%<br>Soft MDef + 5%<br>Aspd + 5% | 75.000z |
+| ![Scell](/assets/images/guide_images/image200.png) 5 x Scell | Racial True Damage + 20<br>Racial TrueSoft Defense Damage + 30 | 15.000z |
+| ![Cyfar](/assets/images/guide_images/image69.png) 15 x Cyfar | Str + 3<br>Agi + 3<br>Vit + 3<br>Int + 3<br>Dex + 3<br>Luk + 3<br>MaxHP + 240<br>Max SP + 36<br>Soft Def + 12<br>Soft MDef + 12<br>Hit + 12<br>Flee + 12 | 50.000z |
+| ![Brigan](/assets/images/guide_images/image141.png) 45 x Brigan | MaxHP + 5%<br>MaxSP + 5%<br>Cast Variável -5%<br>Cast Fixo - 0.1<br>Cast Fixo - 5%<br>Critical + 2<br>Matk + 5%<br>Atk + 5%<br>Soft Def + 5%<br>Soft MDef + 5%<br>Aspd + 5% | 75.000z |
 
 > **Ozzi:** No caso de Dano Verdadeiro Racial ou Defesa Verdadeira Racial aplicada pelo Scell, você pode escolher qual a raça, fazendo um chapéu específico para cada caçada que fizer.
 
@@ -237,7 +237,7 @@ Para isso, você precisa de alguns itens e uma quantia de dinheiro. Cada tipo de
 
 Ao ser encantado por Carola, o chapéu vai ficar com um informativo em sua descrição de quantos bônus e qual é o bônus, como por exemplo a **Apple of Archer** concedendo ao total **+ 6 de Dex** e ainda podendo ser encantada mais uma vez, o que no meu caso será no futuro **Aspd +5%**.
 
-![Exemplo de chapéu encantado](/docs/assets/images/guide_images/image51.png)
+![Exemplo de chapéu encantado](/assets/images/guide_images/image51.png)
 
 > **Ozzi:** Isso é muito bom para que os equipamentos padrões possam se tornar ainda mais úteis, e o preço é bem coerente. Você pode ter agora um chapéu rosa para cada tipo de monstro que vai enfrentar, ou aquele laço vermelho com ainda mais MDef para inimigos mágicos.
 
