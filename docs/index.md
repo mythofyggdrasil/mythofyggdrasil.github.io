@@ -91,7 +91,6 @@ Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor
 
     *   [:octicons-arrow-right-24: Database](https://ragnawiki-jkysc4bb.manus.space/)
 
----
 
 -   :video_camera: **Streamers Oficiais**
 
