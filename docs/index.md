@@ -89,8 +89,8 @@ Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor
 
     Para download e mais informações, acesse o site oficial!
 
-    [:octicons-arrow-right-24: Site ofiial](https://mythofyggdrasil.com/br)
-    [:octicons-arrow-right-24: Download](https://mythofyggdrasil.com/br/download)
+    *   [:octicons-arrow-right-24: Site ofiial](https://mythofyggdrasil.com/br)
+    *   [:octicons-arrow-right-24: Download](https://mythofyggdrasil.com/br/download)
 
 </div>
 
