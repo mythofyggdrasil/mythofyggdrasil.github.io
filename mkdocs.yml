@@ -71,6 +71,7 @@ nav:
   - Rankings:
     - Ranking de Equipamentos: ranking.md
   - Ferramentas:
-    - Skill Calculator: skill-calculator.md
+    - Skill Calculator: tools/skill-calculator.md
+    - Calculadora: tools/calculadora.md
   - Quests:
     - Quests de Chapéus: hat-quests.md

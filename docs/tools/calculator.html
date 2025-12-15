@@ -1,0 +1,764 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora - Myth of Yggdrasil</title>
+
+    <!-- Bootstrap apenas para componentes -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+
+    <style>
+        /* Estilos otimizados para tema Material */
+        :root {
+            --md-primary: #2962ff;
+            --md-accent: #00bcd4;
+            --md-bg: #ffffff;
+            --md-bg-card: #f5f5f5;
+            --md-text: #000000de;
+            --md-text-secondary: #00000099;
+            --md-border: #e0e0e0;
+            --md-success: #00c853;
+            --md-warning: #ff9100;
+            --md-error: #ff1744;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --md-bg: #1e1e1e;
+                --md-bg-card: #2d2d2d;
+                --md-text: #ffffffde;
+                --md-text-secondary: #ffffff99;
+                --md-border: #424242;
+            }
+        }
+
+        body {
+            background-color: var(--md-bg);
+            color: var(--md-text);
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            padding: 20px;
+            margin: 0;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .calculator-header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid var(--md-primary);
+        }
+
+        .calculator-header h1 {
+            color: var(--md-primary);
+            margin-bottom: 10px;
+        }
+
+        .calculator-card {
+            background-color: var(--md-bg-card);
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 24px;
+            border: 1px solid var(--md-border);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .nav-tabs-custom {
+            border-bottom: 2px solid var(--md-primary);
+            margin-bottom: 24px;
+        }
+
+        .nav-tabs-custom .nav-link {
+            color: var(--md-text);
+            background: transparent;
+            border: none;
+            padding: 12px 24px;
+            margin-right: 4px;
+            border-radius: 8px 8px 0 0;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+
+        .nav-tabs-custom .nav-link:hover {
+            background-color: rgba(var(--md-primary-rgb), 0.1);
+        }
+
+        .nav-tabs-custom .nav-link.active {
+            background-color: var(--md-primary);
+            color: white;
+        }
+
+        .tab-content {
+            padding: 20px 0;
+        }
+
+        .section-title {
+            color: var(--md-primary);
+            border-bottom: 2px solid rgba(var(--md-primary-rgb), 0.2);
+            padding-bottom: 12px;
+            margin-bottom: 24px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .input-group-custom {
+            margin-bottom: 20px;
+        }
+
+        .input-group-custom label {
+            display: block;
+            margin-bottom: 8px;
+            color: var(--md-text);
+            font-weight: 500;
+        }
+
+        .input-group-custom input {
+            width: 100%;
+            padding: 12px 16px;
+            background-color: var(--md-bg);
+            border: 2px solid var(--md-border);
+            border-radius: 8px;
+            color: var(--md-text);
+            font-size: 16px;
+            transition: border-color 0.2s;
+        }
+
+        .input-group-custom input:focus {
+            outline: none;
+            border-color: var(--md-primary);
+            box-shadow: 0 0 0 3px rgba(var(--md-primary-rgb), 0.1);
+        }
+
+        .result-box {
+            background: linear-gradient(135deg, rgba(var(--md-primary-rgb), 0.1), rgba(var(--md-accent-rgb), 0.1));
+            border-left: 4px solid var(--md-primary);
+            padding: 20px;
+            border-radius: 8px;
+            margin: 16px 0;
+        }
+
+        .result-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: var(--md-primary);
+            margin: 8px 0;
+        }
+
+        .formula-note {
+            font-size: 12px;
+            color: var(--md-text-secondary);
+            font-family: monospace;
+            margin-top: 8px;
+        }
+
+        .btn-calculate {
+            background-color: var(--md-primary);
+            color: white;
+            border: none;
+            padding: 14px 28px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.2s;
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        .btn-calculate:hover {
+            background-color: var(--md-accent);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .badge-result {
+            background-color: var(--md-primary);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-weight: 600;
+            display: inline-block;
+            margin: 4px;
+        }
+
+        .badge-success {
+            background-color: var(--md-success);
+        }
+
+        .badge-warning {
+            background-color: var(--md-warning);
+            color: #000;
+        }
+
+        .refino-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .refino-card {
+            background-color: var(--md-bg);
+            border: 1px solid var(--md-border);
+            border-radius: 8px;
+            padding: 20px;
+        }
+
+        .footer-note {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid var(--md-border);
+            color: var(--md-text-secondary);
+            font-size: 14px;
+        }
+
+        /* Responsividade */
+        @media (max-width: 768px) {
+            .calculator-card {
+                padding: 16px;
+            }
+
+            .nav-tabs-custom .nav-link {
+                padding: 8px 16px;
+                font-size: 14px;
+            }
+
+            .result-value {
+                font-size: 20px;
+            }
+
+            .refino-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Ajustes para tema escuro */
+        @media (prefers-color-scheme: dark) {
+            .calculator-card {
+                box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+            }
+
+            .btn-calculate:hover {
+                box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Cabeçalho -->
+        <header class="calculator-header">
+            <h1><i class="bi bi-calculator"></i> Calculadora Myth of Yggdrasil</h1>
+            <p>Ferramenta completa para cálculos de atributos, defesa, refinamento e SP</p>
+            <div style="background: rgba(var(--md-primary-rgb), 0.1); padding: 10px; border-radius: 8px; display: inline-block;">
+                <i class="bi bi-info-circle"></i> Baseado na planilha "Cálculos Myth of Yggdrasil"
+            </div>
+        </header>
+
+        <!-- Navegação -->
+        <nav>
+            <ul class="nav nav-tabs-custom" id="calculatorTabs">
+                <li><button class="nav-link active" data-tab="gc">📊 GC</button></li>
+                <li><button class="nav-link" data-tab="hmdef">🛡️ HMDEF</button></li>
+                <li><button class="nav-link" data-tab="refino">⭐ Refinamento</button></li>
+                <li><button class="nav-link" data-tab="sp">⚡ SP</button></li>
+            </ul>
+        </nav>
+
+        <!-- Conteúdo -->
+        <div class="tab-content">
+            <!-- ABA GC -->
+            <div id="gc-tab" class="tab-pane active">
+                <div class="calculator-card">
+                    <h2 class="section-title"><i class="bi bi-graph-up"></i> Cálculos Gerais de Atributos</h2>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="input-group-custom">
+                                <label for="armaFisica">ATK da Arma (Físico)</label>
+                                <input type="number" id="armaFisica" value="60" step="0.1">
+                            </div>
+
+                            <div class="input-group-custom">
+                                <label for="armaMagica">MATK da Arma (Mágico)</label>
+                                <input type="number" id="armaMagica" value="426" step="0.1">
+                            </div>
+
+                            <div class="input-group-custom">
+                                <label for="hpInicial">HP Inicial</label>
+                                <input type="number" id="hpInicial" value="19598" step="1">
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="input-group-custom">
+                                <label for="fisico">Pontos em Físico</label>
+                                <input type="number" id="fisico" value="4" step="1">
+                            </div>
+
+                            <div class="input-group-custom">
+                                <label for="magico">Pontos em Mágico</label>
+                                <input type="number" id="magico" value="0" step="1">
+                            </div>
+
+                            <button class="btn-calculate" onclick="calcularGC()">
+                                <i class="bi bi-calculator"></i> Calcular Atributos
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Resultados -->
+                    <div class="row" id="resultadosGC">
+                        <div class="col-md-6">
+                            <div class="result-box">
+                                <h4><i class="bi bi-shield"></i> ATK / MATK Base</h4>
+                                <p><strong>ATK:</strong> <span class="badge-result" id="atk">0.00</span></p>
+                                <p><strong>MATK:</strong> <span class="badge-result" id="matk">0.00</span></p>
+                            </div>
+
+                            <div class="result-box">
+                                <h4><i class="bi bi-sword"></i> ATK / MATK Final</h4>
+                                <p><strong>ATK Final:</strong> <span class="badge-result badge-success" id="atkFinal">0.00</span></p>
+                                <p><strong>MATK Final:</strong> <span class="badge-result badge-success" id="matkFinal">0.00</span></p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="result-box">
+                                <h4><i class="bi bi-heart"></i> HP Final</h4>
+                                <p><strong>HP Final (Físico):</strong> <span class="badge-result badge-warning" id="hpFinalFisico">0.00</span></p>
+                                <p><strong>HP Final (Mágico):</strong> <span class="badge-result badge-warning" id="hpFinalMagico">0.00</span></p>
+                                <p class="formula-note">Fórmula: HP Inicial + (150 × Pontos) + ((HP Inicial + (150 × Mágico)) × (0.02 × Pontos))</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ABA HMDEF -->
+            <div id="hmdef-tab" class="tab-pane" style="display: none;">
+                <div class="calculator-card">
+                    <h2 class="section-title"><i class="bi bi-shield-check"></i> Cálculos de Defesa</h2>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="input-group-custom">
+                                <label for="hmdef">HMDEF (Defesa Mágica)</label>
+                                <input type="number" id="hmdef" value="37" step="0.1">
+                            </div>
+
+                            <div class="result-box">
+                                <h5>Redução de Dano Mágico</h5>
+                                <div class="result-value" id="reducaoMagica">0.00%</div>
+                                <p class="formula-note">1 - (1000 + HMDEF) / (1000 + (HMDEF × 10))</p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="input-group-custom">
+                                <label for="hdef">HDEF (Defesa Física)</label>
+                                <input type="number" id="hdef" value="647" step="0.1">
+                            </div>
+
+                            <div class="result-box">
+                                <h5>Redução de Dano Físico</h5>
+                                <div class="result-value" id="reducaoFisica">0.00%</div>
+                                <p class="formula-note">1 - (4000 + HDEF) / (4000 + (HDEF × 10))</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <button class="btn-calculate" onclick="calcularHMDEF()">
+                        <i class="bi bi-calculator"></i> Calcular Reduções
+                    </button>
+                </div>
+            </div>
+
+            <!-- ABA REFINO -->
+            <div id="refino-tab" class="tab-pane" style="display: none;">
+                <div class="calculator-card">
+                    <h2 class="section-title"><i class="bi bi-star"></i> Calculadora de Refinamento</h2>
+
+                    <div class="refino-grid">
+                        <!-- Equipamentos -->
+                        <div class="refino-card">
+                            <h4><i class="bi bi-box"></i> Equipamentos</h4>
+
+                            <div class="input-group-custom">
+                                <label for="scEquipVerde">Sem Estrela → Verde (Star Cluster)</label>
+                                <input type="number" id="scEquipVerde" value="136" step="1">
+                                <p>Chance: <span class="badge-result" id="chanceEquipVerde">0.00%</span></p>
+                                <p>Zeny: <span id="zenyEquipVerde">2000</span></p>
+                                <button class="btn-calculate" style="padding: 8px 16px;" onclick="calcularRefinoEquip('verde')">Calcular</button>
+                            </div>
+
+                            <div class="input-group-custom">
+                                <label for="scEquipAzul">Verde → Azul (Star Cluster)</label>
+                                <input type="number" id="scEquipAzul" value="287" step="1">
+                                <p>Chance: <span class="badge-result" id="chanceEquipAzul">0.00%</span></p>
+                                <p>Zeny: <span id="zenyEquipAzul">20000</span></p>
+                                <button class="btn-calculate" style="padding: 8px 16px;" onclick="calcularRefinoEquip('azul')">Calcular</button>
+                            </div>
+
+                            <div class="input-group-custom">
+                                <label for="scEquipRoxo">Azul → Roxo (Star Cluster)</label>
+                                <input type="number" id="scEquipRoxo" value="2000" step="1">
+                                <p>Chance: <span class="badge-result" id="chanceEquipRoxo">0.00%</span></p>
+                                <p>Zeny: <span id="zenyEquipRoxo">120000</span></p>
+                                <button class="btn-calculate" style="padding: 8px 16px;" onclick="calcularRefinoEquip('roxo')">Calcular</button>
+                            </div>
+                        </div>
+
+                        <!-- Armas -->
+                        <div class="refino-card">
+                            <h4><i class="bi bi-sword"></i> Armas</h4>
+
+                            <div class="input-group-custom">
+                                <label for="scArmaVerde">Sem Estrela → Verde (Star Cluster)</label>
+                                <input type="number" id="scArmaVerde" value="200" step="1">
+                                <p>Chance: <span class="badge-result" id="chanceArmaVerde">0.00%</span></p>
+                                <p>Zeny: <span id="zenyArmaVerde">4000</span></p>
+                                <button class="btn-calculate" style="padding: 8px 16px;" onclick="calcularRefinoArma('verde')">Calcular</button>
+                            </div>
+
+                            <div class="input-group-custom">
+                                <label for="scArmaAzul">Verde → Azul (Star Cluster)</label>
+                                <input type="number" id="scArmaAzul" value="287" step="1">
+                                <p>Chance: <span class="badge-result" id="chanceArmaAzul">0.00%</span></p>
+                                <p>Zeny: <span id="zenyArmaAzul">20000</span></p>
+                                <button class="btn-calculate" style="padding: 8px 16px;" onclick="calcularRefinoArma('azul')">Calcular</button>
+                            </div>
+
+                            <div class="input-group-custom">
+                                <label for="scArmaRoxo">Azul → Roxo (Star Cluster)</label>
+                                <input type="number" id="scArmaRoxo" value="1000" step="1">
+                                <p>Chance: <span class="badge-result" id="chanceArmaRoxo">0.00%</span></p>
+                                <p>Zeny: <span id="zenyArmaRoxo">120000</span></p>
+                                <button class="btn-calculate" style="padding: 8px 16px;" onclick="calcularRefinoArma('roxo')">Calcular</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div style="background: rgba(var(--md-accent-rgb), 0.1); padding: 15px; border-radius: 8px; margin-top: 20px;">
+                        <i class="bi bi-lightbulb"></i> <strong>Dica:</strong> Chances base: 32% (Equip. Sem→Verde), 24% (Arma Sem→Verde), 16% (Verde→Azul), 8% (Azul→Roxo)
+                    </div>
+                </div>
+            </div>
+
+            <!-- ABA SP -->
+            <div id="sp-tab" class="tab-pane" style="display: none;">
+                <div class="calculator-card">
+                    <h2 class="section-title"><i class="bi bi-lightning-charge"></i> Cálculos de SP</h2>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="input-group-custom">
+                                <label for="spAtual">SP Atual</label>
+                                <input type="number" id="spAtual" value="209" step="0.1">
+                            </div>
+
+                            <div class="input-group-custom">
+                                <label for="spBonus">Bônus de SP</label>
+                                <input type="number" id="spBonus" value="2" step="0.1">
+                            </div>
+
+                            <button class="btn-calculate" onclick="calcularSP()">
+                                <i class="bi bi-calculator"></i> Calcular SP
+                            </button>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="result-box">
+                                <h4><i class="bi bi-arrow-up-right"></i> Spring Rabbit (15% bônus)</h4>
+                                <div class="result-value" id="sprSR">0.00</div>
+                                <p class="formula-note">(((SP Atual × 1.01) ÷ 50) + ((Bônus + 1) ÷ 6) + 2) × 1.15</p>
+                            </div>
+
+                            <div class="result-box">
+                                <h4><i class="bi bi-arrow-up-right"></i> Sohee (3% bônus)</h4>
+                                <div class="result-value" id="sprS">0.00</div>
+                                <p class="formula-note">(((SP Atual × 1.15) ÷ 50) + (Bônus ÷ 6) + 2) × 1.03</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Rodapé -->
+        <footer class="footer-note">
+            <p>Calculadora Myth of Yggdrasil • Baseada na planilha original • <a href="javascript:salvarDados()" style="color: var(--md-accent);">Salvar dados</a> • <a href="javascript:carregarDados()" style="color: var(--md-accent);">Carregar dados</a></p>
+            <p><small>Esta ferramenta converte as fórmulas do Excel para web. Use os botões de navegação acima para alternar entre as calculadoras.</small></p>
+        </footer>
+    </div>
+
+    <!-- JavaScript -->
+    <script>
+        // ========== CONFIGURAÇÃO INICIAL ==========
+        document.addEventListener('DOMContentLoaded', function() {
+            // Configurar abas de navegação
+            const tabButtons = document.querySelectorAll('[data-tab]');
+            tabButtons.forEach(button => {
+                button.addEventListener('click', function() {
+                    const tabId = this.getAttribute('data-tab');
+                    mostrarAba(tabId);
+                });
+            });
+
+            // Calcular tudo na inicialização
+            calcularGC();
+            calcularHMDEF();
+            calcularRefinoEquip('verde');
+            calcularRefinoEquip('azul');
+            calcularRefinoEquip('roxo');
+            calcularRefinoArma('verde');
+            calcularRefinoArma('azul');
+            calcularRefinoArma('roxo');
+            calcularSP();
+
+            // Detectar tema escuro/claro
+            detectarTema();
+        });
+
+        // ========== FUNÇÃO PARA ALTERNAR ABAS ==========
+        function mostrarAba(tabId) {
+            // Esconder todas as abas
+            document.querySelectorAll('.tab-pane').forEach(tab => {
+                tab.style.display = 'none';
+            });
+
+            // Remover classe active de todos os botões
+            document.querySelectorAll('.nav-link').forEach(button => {
+                button.classList.remove('active');
+            });
+
+            // Mostrar aba selecionada
+            document.getElementById(`${tabId}-tab`).style.display = 'block';
+
+            // Ativar botão correspondente
+            document.querySelector(`[data-tab="${tabId}"]`).classList.add('active');
+
+            // Recalcular se necessário
+            if (tabId === 'gc') calcularGC();
+            if (tabId === 'hmdef') calcularHMDEF();
+            if (tabId === 'sp') calcularSP();
+        }
+
+        // ========== FUNÇÕES DA CALCULADORA GC ==========
+        function calcularGC() {
+            try {
+                const armaFisica = parseFloat(document.getElementById('armaFisica').value) || 0;
+                const armaMagica = parseFloat(document.getElementById('armaMagica').value) || 0;
+                const fisico = parseFloat(document.getElementById('fisico').value) || 0;
+                const magico = parseFloat(document.getElementById('magico').value) || 0;
+                const hpInicial = parseFloat(document.getElementById('hpInicial').value) || 0;
+
+                // ATK e MATK base
+                const atk = 100 + (30 * 10) + ((5 * fisico) / 400);
+                const matk = 100 + (40 * 10) + ((5 * magico) / 400);
+
+                // ATK e MATK final
+                const atkFinal = atk * armaFisica;
+                const matkFinal = matk * armaMagica;
+
+                // HP final
+                const hpBase = hpInicial + (150 * magico);
+                const hpFinalFisico = hpInicial + (150 * fisico) + (hpBase * (0.02 * fisico));
+                const hpFinalMagico = hpInicial + (150 * magico) + (hpBase * (0.02 * magico));
+
+                // Atualizar resultados
+                document.getElementById('atk').textContent = atk.toFixed(2);
+                document.getElementById('matk').textContent = matk.toFixed(2);
+                document.getElementById('atkFinal').textContent = atkFinal.toFixed(2);
+                document.getElementById('matkFinal').textContent = matkFinal.toFixed(2);
+                document.getElementById('hpFinalFisico').textContent = Math.round(hpFinalFisico).toLocaleString('pt-BR');
+                document.getElementById('hpFinalMagico').textContent = Math.round(hpFinalMagico).toLocaleString('pt-BR');
+            } catch (error) {
+                console.error('Erro no cálculo GC:', error);
+            }
+        }
+
+        // ========== FUNÇÕES DA CALCULADORA HMDEF ==========
+        function calcularHMDEF() {
+            try {
+                const hmdef = parseFloat(document.getElementById('hmdef').value) || 0;
+                const hdef = parseFloat(document.getElementById('hdef').value) || 0;
+
+                const reducaoMagica = 1 - (1000 + hmdef) / (1000 + (hmdef * 10));
+                const reducaoFisica = 1 - (4000 + hdef) / (4000 + (hdef * 10));
+
+                document.getElementById('reducaoMagica').textContent = (reducaoMagica * 100).toFixed(2) + '%';
+                document.getElementById('reducaoFisica').textContent = (reducaoFisica * 100).toFixed(2) + '%';
+            } catch (error) {
+                console.error('Erro no cálculo HMDEF:', error);
+            }
+        }
+
+        // ========== FUNÇÕES DA CALCULADORA DE REFINO ==========
+        function calcularRefinoEquip(tipo) {
+            try {
+                let sc, chanceInicial, multiplicador, baseZeny;
+
+                switch(tipo) {
+                    case 'verde':
+                        sc = parseFloat(document.getElementById('scEquipVerde').value) || 0;
+                        chanceInicial = 0.32;
+                        multiplicador = 2;
+                        baseZeny = 2000;
+                        break;
+                    case 'azul':
+                        sc = parseFloat(document.getElementById('scEquipAzul').value) || 0;
+                        chanceInicial = 0.16;
+                        multiplicador = 20;
+                        baseZeny = 20000;
+                        break;
+                    case 'roxo':
+                        sc = parseFloat(document.getElementById('scEquipRoxo').value) || 0;
+                        chanceInicial = 0.08;
+                        multiplicador = 120;
+                        baseZeny = 120000;
+                        break;
+                }
+
+                const chance = calcularChanceRefinamento(3000, sc, chanceInicial);
+                const zeny = baseZeny + (sc * multiplicador);
+
+                document.getElementById(`chanceEquip${tipo.charAt(0).toUpperCase() + tipo.slice(1)}`).textContent = (chance * 100).toFixed(2) + '%';
+                document.getElementById(`zenyEquip${tipo.charAt(0).toUpperCase() + tipo.slice(1)}`).textContent = zeny.toLocaleString('pt-BR');
+            } catch (error) {
+                console.error('Erro no cálculo de refinamento de equipamentos:', error);
+            }
+        }
+
+        function calcularRefinoArma(tipo) {
+            try {
+                let sc, chanceInicial, multiplicador, baseZeny;
+
+                switch(tipo) {
+                    case 'verde':
+                        sc = parseFloat(document.getElementById('scArmaVerde').value) || 0;
+                        chanceInicial = 0.24;
+                        multiplicador = 4;
+                        baseZeny = 4000;
+                        break;
+                    case 'azul':
+                        sc = parseFloat(document.getElementById('scArmaAzul').value) || 0;
+                        chanceInicial = 0.16;
+                        multiplicador = 20;
+                        baseZeny = 20000;
+                        break;
+                    case 'roxo':
+                        sc = parseFloat(document.getElementById('scArmaRoxo').value) || 0;
+                        chanceInicial = 0.08;
+                        multiplicador = 120;
+                        baseZeny = 120000;
+                        break;
+                }
+
+                const baseCalculo = (tipo === 'verde') ? 4000 : 3000;
+                const chance = calcularChanceRefinamento(baseCalculo, sc, chanceInicial);
+                const zeny = baseZeny + (sc * multiplicador);
+
+                document.getElementById(`chanceArma${tipo.charAt(0).toUpperCase() + tipo.slice(1)}`).textContent = (chance * 100).toFixed(2) + '%';
+                document.getElementById(`zenyArma${tipo.charAt(0).toUpperCase() + tipo.slice(1)}`).textContent = zeny.toLocaleString('pt-BR');
+            } catch (error) {
+                console.error('Erro no cálculo de refinamento de armas:', error);
+            }
+        }
+
+        function calcularChanceRefinamento(base, starCluster, chanceInicial) {
+            const chance = 1 - (base + starCluster) / (base + (starCluster * 10)) + chanceInicial;
+            return Math.floor(chance * 10000) / 10000;
+        }
+
+        // ========== FUNÇÕES DA CALCULADORA SP ==========
+        function calcularSP() {
+            try {
+                const spAtual = parseFloat(document.getElementById('spAtual').value) || 0;
+                const spBonus = parseFloat(document.getElementById('spBonus').value) || 0;
+
+                const sprSR = (((spAtual * 1.01) / 50) + ((spBonus + 1) / 6) + 2) * 1.15;
+                const sprS = (((spAtual * 1.15) / 50) + ((spBonus) / 6) + 2) * 1.03;
+
+                document.getElementById('sprSR').textContent = sprSR.toFixed(2);
+                document.getElementById('sprS').textContent = sprS.toFixed(2);
+            } catch (error) {
+                console.error('Erro no cálculo SP:', error);
+            }
+        }
+
+        // ========== FUNÇÕES AUXILIARES ==========
+        function detectarTema() {
+            const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+            if (isDarkMode) {
+                document.documentElement.style.setProperty('--md-primary-rgb', '41, 98, 255');
+                document.documentElement.style.setProperty('--md-accent-rgb', '0, 188, 212');
+            } else {
+                document.documentElement.style.setProperty('--md-primary-rgb', '41, 98, 255');
+                document.documentElement.style.setProperty('--md-accent-rgb', '0, 188, 212');
+            }
+        }
+
+        function salvarDados() {
+            const dados = {
+                armaFisica: document.getElementById('armaFisica').value,
+                armaMagica: document.getElementById('armaMagica').value,
+                fisico: document.getElementById('fisico').value,
+                magico: document.getElementById('magico').value,
+                hpInicial: document.getElementById('hpInicial').value,
+                hmdef: document.getElementById('hmdef').value,
+                hdef: document.getElementById('hdef').value,
+                spAtual: document.getElementById('spAtual').value,
+                spBonus: document.getElementById('spBonus').value,
+                scEquipVerde: document.getElementById('scEquipVerde').value,
+                scEquipAzul: document.getElementById('scEquipAzul').value,
+                scEquipRoxo: document.getElementById('scEquipRoxo').value,
+                scArmaVerde: document.getElementById('scArmaVerde').value,
+                scArmaAzul: document.getElementById('scArmaAzul').value,
+                scArmaRoxo: document.getElementById('scArmaRoxo').value
+            };
+
+            localStorage.setItem('mythYggdrasilCalculator', JSON.stringify(dados));
+            alert('Dados salvos no navegador!');
+        }
+
+        function carregarDados() {
+            const dadosSalvos = localStorage.getItem('mythYggdrasilCalculator');
+            if (dadosSalvos) {
+                const dados = JSON.parse(dadosSalvos);
+
+                for (const [key, value] of Object.entries(dados)) {
+                    const element = document.getElementById(key);
+                    if (element) element.value = value;
+                }
+
+                // Recalcular tudo
+                calcularGC();
+                calcularHMDEF();
+                calcularRefinoEquip('verde');
+                calcularRefinoEquip('azul');
+                calcularRefinoEquip('roxo');
+                calcularRefinoArma('verde');
+                calcularRefinoArma('azul');
+                calcularRefinoArma('roxo');
+                calcularSP();
+
+                alert('Dados carregados!');
+            } else {
+                alert('Nenhum dado salvo encontrado.');
+            }
+        }
+
+        // Detectar mudanças de tema
+        window.matchMedia('(prefers-color-scheme: dark)').addListener(detectarTema);
+    </script>
+</body>
+</html>

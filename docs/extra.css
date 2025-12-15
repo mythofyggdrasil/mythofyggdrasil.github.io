@@ -51,3 +51,44 @@
   background: var(--md-primary-fg-color);
   color: var(--md-primary-bg-color);
 }
+
+/* Estilos para melhor integração da calculadora */
+.grid.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+}
+
+.grid.cards > div {
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.grid.cards > div:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+/* Botão para abrir calculadora */
+.md-button--primary {
+    background-color: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+    border-radius: 0.25rem;
+    padding: 0.625em 1.5em;
+    font-weight: 700;
+    text-align: center;
+    transition: background-color 0.2s;
+}
+
+.md-button--primary:hover {
+    background-color: var(--md-accent-fg-color);
+}
+
+/* Ajustes para tema escuro */
+[data-md-color-scheme="slate"] .grid.cards > div {
+    background-color: var(--md-default-bg-color);
+    border-color: var(--md-default-fg-color--lightest);
+}
