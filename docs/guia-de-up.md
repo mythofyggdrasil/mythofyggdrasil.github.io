@@ -50,25 +50,25 @@ Segue a lista de quais monstros dropam esses equipamentos iniciais, seu foco é 
 
 | Tipo | Item | Monstro Drop | Imagem |
 | :--- | :--- | :--- | :--- |
-| **Chapéu** | Chapéu Básico | Spore | ![Spore](/docs/assets/images/guide_images/image90.gif) |
-| **Armadura** | Armadura Básica | Picky | ![Picky](/docs/assets/images/guide_images/image68.gif) |
-| **Calçado** | Calçado Básico | Savage Baby | ![Savage Baby](/docs/assets/images/guide_images/image23.gif) |
-| **Escudo** | Escudo Básico | Mandrágora | ![Mandrágora](/docs/assets/images/guide_images/image34.gif) |
-| **Capa** | Capa Básica | Hornet | ![Hornet](/docs/assets/images/guide_images/image48.gif) |
+| **Chapéu** | Chapéu Básico | Spore | ![Spore](/assets/images/guide_images/image90.gif) |
+| **Armadura** | Armadura Básica | Picky | ![Picky](/assets/images/guide_images/image68.gif) |
+| **Calçado** | Calçado Básico | Savage Baby | ![Savage Baby](/assets/images/guide_images/image23.gif) |
+| **Escudo** | Escudo Básico | Mandrágora | ![Mandrágora](/assets/images/guide_images/image34.gif) |
+| **Capa** | Capa Básica | Hornet | ![Hornet](/assets/images/guide_images/image48.gif) |
 
 ### Armas Iniciais
 
 | Tipo de Arma | Item | Monstro Drop | Imagem |
 | :--- | :--- | :--- | :--- |
-| **Adaga** | Adaga Básica | Poring | ![Poring](/docs/assets/images/guide_images/image156.gif) |
-| **Machado** | Machado Básico | Willow | ![Willow](/docs/assets/images/guide_images/image185.gif) |
-| **Espada de uma mão** | Espada Curta | Lunatic, Wormtail | ![Lunatic](/docs/assets/images/guide_images/image63.gif) ![Wormtail](/docs/assets/images/guide_images/image177.gif) |
-| **Espada de duas mãos** | Espada Longa | Muka | ![Muka](/docs/assets/images/guide_images/image218.gif) |
-| **Lança de uma Mão** | Lança Curta | Creamy | ![Creamy](/docs/assets/images/guide_images/image43.gif) |
-| **Lança de duas mãos** | Lança Longa | Muka | ![Muka](/docs/assets/images/guide_images/image192.gif) |
-| **Maça** | Maça Básica | Fabre | ![Fabre](/docs/assets/images/guide_images/image108.gif) |
-| **Cajado** | Cajado Básico | Leaftic | ![Leaftic](/docs/assets/images/guide_images/image163.gif) |
-| **Arco** | Arco Básico | Baby Wolf | ![Baby Wolf](/docs/assets/images/guide_images/image97.gif) |
+| **Adaga** | Adaga Básica | Poring | ![Poring](/assets/images/guide_images/image156.gif) |
+| **Machado** | Machado Básico | Willow | ![Willow](/assets/images/guide_images/image185.gif) |
+| **Espada de uma mão** | Espada Curta | Lunatic, Wormtail | ![Lunatic](/assets/images/guide_images/image63.gif) ![Wormtail](/assets/images/guide_images/image177.gif) |
+| **Espada de duas mãos** | Espada Longa | Muka | ![Muka](/assets/images/guide_images/image218.gif) |
+| **Lança de uma Mão** | Lança Curta | Creamy | ![Creamy](/assets/images/guide_images/image43.gif) |
+| **Lança de duas mãos** | Lança Longa | Muka | ![Muka](/assets/images/guide_images/image192.gif) |
+| **Maça** | Maça Básica | Fabre | ![Fabre](/assets/images/guide_images/image108.gif) |
+| **Cajado** | Cajado Básico | Leaftic | ![Leaftic](/assets/images/guide_images/image163.gif) |
+| **Arco** | Arco Básico | Baby Wolf | ![Baby Wolf](/assets/images/guide_images/image97.gif) |
 
 ## Progressão de Mid a Late Game
 
@@ -125,7 +125,7 @@ Inclusive, se não quiser seguir esse guia, você pode:
 1. **Usar o Omnibook** filtrando por nível ou por quantidade de exp
 2. **Abrir o mapa mundi** - ele mostra o nível dos monstros daquele mapa
 
-![Mapa Mundi do jogo](/docs/assets/images/guide_images/image221.png)
+![Mapa Mundi do jogo](/assets/images/guide_images/image221.png)
 
 !!! note "Dica"
     Se não estiver aparecendo o level dos mapas, é só apertar **Tab**.
