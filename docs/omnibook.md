@@ -1,88 +1,70 @@
 # Omnibook
 
-Com tantas mudanças de cartas, itens, consumíveis, monstros, e
-equipamentos, é importante você estar habituado a ver o omnibook, que é
-o database do servidor.
+Com tantas mudanças de cartas, itens, consumíveis, monstros e equipamentos, é importante você estar habituado a ver o omnibook, que é o database do servidor.
 
 Mas o mais legal é que ele fica dentro do jogo mesmo!
 
-Para acessar o omnibook você pode usar o atalho CTRL + O, onde te levará
-para uma tela com as opções de filtro e informações sobre os itens.
+Para acessar o omnibook você pode usar o atalho `CTRL + O`, onde te levará para uma tela com as opções de filtro e informações sobre os itens.
 
-Obs: Alguns equipamentos de quest não esclarecem como obter.
+> **Obs:** Alguns equipamentos de quest não esclarecem como obter.
 
-No caso de itens, ele irá mostrar o ícone, preço de venda, peso, id,
-tipo de item, nome, level necessário, quem dropa, descrição e mais um
-monte de coisa
+No caso de itens, ele irá mostrar o ícone, preço de venda, peso, id, tipo de item, nome, level necessário, quem dropa, descrição e mais um monte de coisa.
 
-![](/assets/images/guide_images/image109.png)
+![Exemplo de visualização de item no Omnibook](/docs/assets/images/guide_images/image109.png)
 
-Para monstros, é mostrado o level, HP, Experiencie de base, experiência
-de job, nome, elemento, raça, tamanho, onde encontrar, itens que dropam
-e sua chance e mais um monte de coisa.
+Para monstros, é mostrado o level, HP, Experiencie de base, experiência de job, nome, elemento, raça, tamanho, onde encontrar, itens que dropam e sua chance e mais um monte de coisa.
 
-![](/assets/images/guide_images/image135.png)
+![Exemplo de visualização de monstro no Omnibook](/docs/assets/images/guide_images/image135.png)
 
-Você pode realizar filtros para achar os itens ou monstros que você
-quiser usando \# como filtros e também operadores para delimitar o que o
-que vocês estão querendo encontrar.
+## Como usar filtros
+
+Você pode realizar filtros para achar os itens ou monstros que você quiser usando `#` como filtros e também operadores para delimitar o que vocês estão querendo encontrar.
 
 As opções são:
 
-  Filtros              Delimitadores
-  ----------------- -- ------------------------
-  \#level \#lv         \> Maior que
-  \#basexp \#bexp      \< Menor que
-  \#jobexp \#jexp      \>= É maior ou igual a
-  \#element \#el       \<= É menor ou igual a
-  \#race               = é igual a
-  \#hp                 
-  \#size               
-  \#zeny               
-  \#desc               
-  \#map                
+| Filtros                | Delimitadores         |
+| ---------------------- | --------------------- |
+| `#level` ou `#lv`      | `>` Maior que         |
+| `#basexp` ou `#bexp`   | `<` Menor que         |
+| `#jobexp` ou `#jexp`   | `>=` É maior ou igual a |
+| `#element` ou `#el`    | `<=` É menor ou igual a |
+| `#race`                | `=` é igual a         |
+| `#hp`                  |                       |
+| `#size`                |                       |
+| `#zeny`                |                       |
+| `#desc`                |                       |
+| `#map`                 |                       |
 
-Então vamos supor que você queira filtrar todos os monstros entre o
-level 40 e 70, que sejam do elemento fogo, da raça humanoide, com HP
-inferior a 1k e tamanho médio.
+### Exemplo de uso de filtros
 
-\#lv\>40\<70 \#el=fire \#race=demihuman \#size=medium \#hp\<1000 .
+Então vamos supor que você queira filtrar todos os monstros entre o level 40 e 70, que sejam do elemento fogo, da raça humanoide, com HP inferior a 1k e tamanho médio.
 
-Tudo bem que só tem o Goblin nessas condições, mas você entendeu a
-ideia.
+Você usaria o filtro:
+`#lv>40<70 #el=fire #race=demihuman #size=medium #hp<1000`
 
-![](/assets/images/guide_images/image152.png){width="7.635416666666667in"
-height="4.083333333333333in"}
+Tudo bem que só tem o Goblin nessas condições, mas você entendeu a ideia.
 
-Outro comando que é muito poderoso no Omnibook é o **\#desc**. Ele te
-ajuda a procurar todos os itens que contenham aquela descrição.
+![Resultado do filtro de exemplo](/docs/assets/images/guide_images/image152.png)
 
-Então vamos supor que você quer ver todos os itens que sejam exclusivos
-para a classe Thief e que seja armor e nível 3, então você faz assim
+### O comando `#desc`
 
-\#desc=thief \#desc=armor \#desc=Level: 3
+Outro comando que é muito poderoso no Omnibook é o **`#desc`**. Ele te ajuda a procurar todos os itens que contenham aquela descrição.
 
-![](/assets/images/guide_images/image198.png){width="7.614583333333333in"
-height="4.364583333333333in"}
+Então vamos supor que você quer ver todos os itens que sejam exclusivos para a classe Thief e que seja armor e nível 3, então você faz assim:
+`#desc=thief #desc=armor #desc=Level: 3`
 
-Outra opção bacana no OmniBook é saber o preço do loot para saber se
-determinado mapa vale a pena ou não.
+![Resultado da busca por descrição](/docs/assets/images/guide_images/image198.png)
 
-Para isso, o comando é o **\#zeny** onde você consegue filtrar pelo
-valor de venda no NPC.
+### Calculando o valor do loot
 
-Então no exemplo abaixo, eu fiz o filtro \#zeny\>10000 para ver todos os
-itens que valem mais que um 10k no npc e temos a Witherless Rose com
-drop de 4% da Mavka.
+Outra opção bacana no OmniBook é saber o preço do loot para saber se determinado mapa vale a pena ou não.
 
-![](/assets/images/guide_images/image116.png)
+Para isso, o comando é o **`#zeny`** onde você consegue filtrar pelo valor de venda no NPC.
 
-*Ozzi: Dá para perder horas olhando o omnibook e organizando o que você
-vai enfrentar ou dropar no decorrer do dia, e o melhor, é dentro do
-jogo, não precisa ter uma outra janela aberta toda hora.*
+Então no exemplo abaixo, eu fiz o filtro `#zeny>10000` para ver todos os itens que valem mais que um 10k no npc e temos a Witherless Rose com drop de 4% da Mavka.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+![Filtro por valor de venda](/docs/assets/images/guide_images/image116.png)
 
----{width="1.0674420384951882in"
-height="0.9340113735783027in"}
+> **Ozzi:** Dá para perder horas olhando o omnibook e organizando o que você vai enfrentar ou dropar no decorrer do dia, e o melhor, é dentro do jogo, não precisa ter uma outra janela aberta toda hora.
 
+---
