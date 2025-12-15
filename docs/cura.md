@@ -10,8 +10,8 @@ Para exemplificar, uma poção vermelha vai te curar no ato em **40 de HP** e de
 
 Já as comidas/ervas duram mais tempo de cura por tempo e aumentam temporariamente sua vida, mas não tem um valor de regeneração inicial, não sendo indicadas para casos de emergência.
 
-![Interface de cura](/docs/assets/images/guide_images/image181.png)
-![Exemplo de cura](/docs/assets/images/guide_images/image196.png)
+![Interface de cura](/assets/images/guide_images/image181.png)
+![Exemplo de cura](/assets/images/guide_images/image196.png)
 
 Para deixar ainda mais frenético, os itens de regeneração possuem um **cooldown**, que é o tempo que você leva para "comer" ele. Então não dá para sair spamando.
 
@@ -35,7 +35,7 @@ Você consegue usar **três tipos diferentes de itens** simultaneamente:
 No Tool Dealer temos três tipos de poções disponíveis para compra:
 
 ### **Potion** (Poção Normal)
-![Potion](/docs/assets/images/guide_images/image94.png)
+![Potion](/assets/images/guide_images/image94.png)
 
 - **Efeito:** Cura um valor inicial imediatamente + cura a cada 1 segundo por 4 segundos
 - **Cura:** ★★
@@ -44,7 +44,7 @@ No Tool Dealer temos três tipos de poções disponíveis para compra:
 - **Tempo:** ★★★★★
 
 ### **Slim Potion** (Poção Magra)
-![Slim Potion](/docs/assets/images/guide_images/image203.png)
+![Slim Potion](/assets/images/guide_images/image203.png)
 
 - **Efeito:** Cura a cada 0,5 segundos por 2 segundos (não cura instantaneamente)
 - **Indicada para:** Classes com pouco peso (Sacerdotes, Magos, Arqueiros)
@@ -56,7 +56,7 @@ No Tool Dealer temos três tipos de poções disponíveis para compra:
 - **Tempo:** ★★★
 
 ### **Thick Portion** (Poção Grossa)
-![Thick Portion](/docs/assets/images/guide_images/image208.png)
+![Thick Portion](/assets/images/guide_images/image208.png)
 
 - **Efeito:** Cura inicial muito maior, mas sem cura por tempo
 - **Peso:** Dobro da poção normal
@@ -94,24 +94,24 @@ Com os itens de cura sendo por tempo, você vai precisar de toda a ajuda possív
 
 | Suco | Imagem | Efeito | Nível Mínimo |
 | :--- | :--- | :--- | :--- |
-| **Apple Juice** (Maçã) | ![Apple Juice](/docs/assets/images/guide_images/image115.png) | Instant: 32\~40 HP<br>Over: 12\~20 HP | LV 1 |
-| **Carrot Juice** (Cenoura) | ![Carrot Juice](/docs/assets/images/guide_images/image73.png) | Instant: 64\~80 HP<br>Over: 24\~40 HP | LV 20 |
-| **Banana Juice** (Banana) | ![Banana Juice](/docs/assets/images/guide_images/image146.png) | Instant: 128\~160 HP<br>Over: 48\~80 HP | LV 40 |
-| **Pumpkin Juice** (Abóbora) | ![Pumpkin Juice](/docs/assets/images/guide_images/image144.png) | Instant: 256\~320 HP<br>Over: 96\~160 HP | LV 60 |
-| **Coconut Juice** (Coco) | ![Coconut Juice](/docs/assets/images/guide_images/image207.png) | Instant: 512\~640 HP<br>Over: 192\~320 HP | LV 80 |
+| **Apple Juice** (Maçã) | ![Apple Juice](/assets/images/guide_images/image115.png) | Instant: 32\~40 HP<br>Over: 12\~20 HP | LV 1 |
+| **Carrot Juice** (Cenoura) | ![Carrot Juice](/assets/images/guide_images/image73.png) | Instant: 64\~80 HP<br>Over: 24\~40 HP | LV 20 |
+| **Banana Juice** (Banana) | ![Banana Juice](/assets/images/guide_images/image146.png) | Instant: 128\~160 HP<br>Over: 48\~80 HP | LV 40 |
+| **Pumpkin Juice** (Abóbora) | ![Pumpkin Juice](/assets/images/guide_images/image144.png) | Instant: 256\~320 HP<br>Over: 96\~160 HP | LV 60 |
+| **Coconut Juice** (Coco) | ![Coconut Juice](/assets/images/guide_images/image207.png) | Instant: 512\~640 HP<br>Over: 192\~320 HP | LV 80 |
 
 ### Sucos de SP
 
 | Suco | Imagem | Efeito | Nível Mínimo |
 | :--- | :--- | :--- | :--- |
-| **Melon Juice** (Melão) | ![Melon Juice](/docs/assets/images/guide_images/image215.png) | Instant: 4\~6 SP<br>Over: 2\~3 SP | LV 1 |
-| **Strawberry Juice** (Morango) | ![Strawberry Juice](/docs/assets/images/guide_images/image184.png) | Instant: 9\~12 SP<br>Over: 3\~6 SP | LV 1 |
-| **Orange Juice** (Laranja) | ![Orange Juice](/docs/assets/images/guide_images/image20.png) | Instant: 18\~24 SP<br>Over: 6\~12 SP | LV 20 |
-| **Watermelon Juice** (Melancia) | ![Watermelon Juice](/docs/assets/images/guide_images/image119.png) | Instant: 18\~24 SP<br>Over: 6\~12 SP | LV 20 |
-| **Grape Juice** (Uva) | ![Grape Juice](/docs/assets/images/guide_images/image211.png) | Instant: 27\~36 SP<br>Over: 9\~18 SP | LV 40 |
-| **Lemon Juice** (Limão) | ![Lemon Juice](/docs/assets/images/guide_images/image170.png) | Instant: 36\~48 SP<br>Over: 12\~24 SP | LV 60 |
-| **Peach Juice** (Pêssego) | ![Peach Juice](/docs/assets/images/guide_images/image194.png) | Instant: 36\~48 SP<br>Over: 12\~24 SP | LV 60 |
-| **Pineapple Juice** (Abacaxi) | ![Pineapple Juice](/docs/assets/images/guide_images/image134.png) | Instant: 45\~60 SP<br>Over: 15\~30 SP | LV 80 |
+| **Melon Juice** (Melão) | ![Melon Juice](/assets/images/guide_images/image215.png) | Instant: 4\~6 SP<br>Over: 2\~3 SP | LV 1 |
+| **Strawberry Juice** (Morango) | ![Strawberry Juice](/assets/images/guide_images/image184.png) | Instant: 9\~12 SP<br>Over: 3\~6 SP | LV 1 |
+| **Orange Juice** (Laranja) | ![Orange Juice](/assets/images/guide_images/image20.png) | Instant: 18\~24 SP<br>Over: 6\~12 SP | LV 20 |
+| **Watermelon Juice** (Melancia) | ![Watermelon Juice](/assets/images/guide_images/image119.png) | Instant: 18\~24 SP<br>Over: 6\~12 SP | LV 20 |
+| **Grape Juice** (Uva) | ![Grape Juice](/assets/images/guide_images/image211.png) | Instant: 27\~36 SP<br>Over: 9\~18 SP | LV 40 |
+| **Lemon Juice** (Limão) | ![Lemon Juice](/assets/images/guide_images/image170.png) | Instant: 36\~48 SP<br>Over: 12\~24 SP | LV 60 |
+| **Peach Juice** (Pêssego) | ![Peach Juice](/assets/images/guide_images/image194.png) | Instant: 36\~48 SP<br>Over: 12\~24 SP | LV 60 |
+| **Pineapple Juice** (Abacaxi) | ![Pineapple Juice](/assets/images/guide_images/image134.png) | Instant: 45\~60 SP<br>Over: 15\~30 SP | LV 80 |
 
 ## Comparação: Sucos vs Poções
 
