@@ -12,7 +12,7 @@ Mas agora temos também level para os demais equipamentos (menos Chapéus e Aces
 
 Já o ranking é demonstrado por estrelas na tela de informações sobre o item que você adquiriu.
 
-![Exemplo de ranking no equipamento](/docs/assets/images/guide_images/image107.png)
+![Exemplo de ranking no equipamento](/assets/images/guide_images/image107.png)
 
 Os equipamentos podem ser de até Ranking 4, que são quatro estrelas.
 
@@ -54,7 +54,7 @@ Como todas são armaduras, elas vão te dar HP Máximo, mas o Ranking, o Refino 
 
 Para poder aumentar o Ranking, você vai precisar de **Star Cluster**, que você ganha quebrando minérios no NPC Tassitr ou com outros equipamentos que possuem Ranking.
 
-![NPC Tassitr](/docs/assets/images/guide_images/image53.png)
+![NPC Tassitr](/assets/images/guide_images/image53.png)
 
 ### Obtendo Star Clusters
 
@@ -97,9 +97,9 @@ Existem alguns monstros que possuem uma melhor performance para você conseguir 
 
 | Monstro (Early Game) | Monstro (Mid Low Game) |
 | :--- | :--- |
-| ![Skeleton](/docs/assets/images/guide_images/image78.png) **Skeleton**<br>Drop: Phracon e Jellopy | ![Metalling](/docs/assets/images/guide_images/image27.png) **Metalling**<br>Drop: Jubilee e Rusty Screw |
+| ![Skeleton](/assets/images/guide_images/image78.png) **Skeleton**<br>Drop: Phracon e Jellopy | ![Metalling](/assets/images/guide_images/image27.png) **Metalling**<br>Drop: Jubilee e Rusty Screw |
 | **Monstro (Mid High Game)** | **Monstro (End Game)** |
-| ![Dullahan](/docs/assets/images/guide_images/image106.png) **Dullahan**<br>Drop: Helm of Dullahan e Armor Piece of Dullahan | ![Venatu](/docs/assets/images/guide_images/image21.png) **Venatu**<br>Drop: Rusty Screw e Crest Piece |
+| ![Dullahan](/assets/images/guide_images/image106.png) **Dullahan**<br>Drop: Helm of Dullahan e Armor Piece of Dullahan | ![Venatu](/assets/images/guide_images/image21.png) **Venatu**<br>Drop: Rusty Screw e Crest Piece |
 
 ### Quebrando equipamentos com Ranking
 
@@ -107,10 +107,10 @@ Você também pode quebrar equipamentos com Ranking para conseguir Star Clusters
 
 | Ranking | Nível 1 | Nível 2 | Nível 3 | Nível 4 |
 | :---: | :---: | :---: | :---: | :---: |
-| ★ | ![50 Clusters](/docs/assets/images/guide_images/image8.png) 50 | ![75 Clusters](/docs/assets/images/guide_images/image8.png) 75 | ![150 Clusters](/docs/assets/images/guide_images/image8.png) 150 | ![300 Clusters](/docs/assets/images/guide_images/image8.png) 300 |
-| ★★ | ![75 Clusters](/docs/assets/images/guide_images/image8.png) 75 | ![150 Clusters](/docs/assets/images/guide_images/image8.png) 150 | ![300 Clusters](/docs/assets/images/guide_images/image8.png) 300 | ![450 Clusters](/docs/assets/images/guide_images/image8.png) 450 |
-| ★★★ | ![150 Clusters](/docs/assets/images/guide_images/image8.png) 150 | ![300 Clusters](/docs/assets/images/guide_images/image8.png) 300 | ![450 Clusters](/docs/assets/images/guide_images/image8.png) 450 | ![600 Clusters](/docs/assets/images/guide_images/image8.png) 600 |
-| ★★★★ | ![300 Clusters](/docs/assets/images/guide_images/image8.png) 300 | ![450 Clusters](/docs/assets/images/guide_images/image8.png) 450 | ![600 Clusters](/docs/assets/images/guide_images/image8.png) 600 | ![750 Clusters](/docs/assets/images/guide_images/image8.png) 750 |
+| ★ | ![50 Clusters](/assets/images/guide_images/image8.png) 50 | ![75 Clusters](/assets/images/guide_images/image8.png) 75 | ![150 Clusters](/assets/images/guide_images/image8.png) 150 | ![300 Clusters](/assets/images/guide_images/image8.png) 300 |
+| ★★ | ![75 Clusters](/assets/images/guide_images/image8.png) 75 | ![150 Clusters](/assets/images/guide_images/image8.png) 150 | ![300 Clusters](/assets/images/guide_images/image8.png) 300 | ![450 Clusters](/assets/images/guide_images/image8.png) 450 |
+| ★★★ | ![150 Clusters](/assets/images/guide_images/image8.png) 150 | ![300 Clusters](/assets/images/guide_images/image8.png) 300 | ![450 Clusters](/assets/images/guide_images/image8.png) 450 | ![600 Clusters](/assets/images/guide_images/image8.png) 600 |
+| ★★★★ | ![300 Clusters](/assets/images/guide_images/image8.png) 300 | ![450 Clusters](/assets/images/guide_images/image8.png) 450 | ![600 Clusters](/assets/images/guide_images/image8.png) 600 | ![750 Clusters](/assets/images/guide_images/image8.png) 750 |
 
 Ou seja, é melhor você matar porings e fabres para pegar equipamentos com estrela e quebrar em Star Cluster do que precisar de 5 Cursed Ruby para no mínimo 50 Star Clusters.
 
@@ -124,7 +124,7 @@ Voltando ao assunto, para aumentar o Ranking, você vai precisar de outro equipa
 
 Quanto maior o Ranking, menor a chance de conseguir melhorar o equipamento, mas você pode escolher quantos Star Cluster você quer usar na tentativa, que gradativamente aumenta a chance que você tem de dar certo o aumento do Ranking.
 
-![Interface de upgrade de ranking](/docs/assets/images/guide_images/image123.png)
+![Interface de upgrade de ranking](/assets/images/guide_images/image123.png)
 
 Ao falhar você não perde o equipamento base, somente os catalisadores e o equipamento sobressalente que foi usado na tentativa de dar upgrade.
 
@@ -137,9 +137,9 @@ Para fazer ele, você precisa de:
 *   20 Star Cluster
 *   50 Spiritual Energy
 
-![Star Hammer e seus componentes](/docs/assets/images/guide_images/image213.png) ![Star Hammer](/docs/assets/images/guide_images/image137.png)
+![Star Hammer e seus componentes](/assets/images/guide_images/image213.png) ![Star Hammer](/assets/images/guide_images/image137.png)
 
-> ![Importante](/docs/assets/images/guide_images/image4.png) **Importante** ![Importante](/docs/assets/images/guide_images/image4.png)
+> ![Importante](/assets/images/guide_images/image4.png) **Importante** ![Importante](/assets/images/guide_images/image4.png)
 >
 > O preço é bem salgado para melhorar o nível dos equipamentos, mas quem disse que era para ser fácil?
 >
@@ -161,7 +161,7 @@ Conforme a soma do número de estrelas de ranking de seus equipamentos, é poss�
 
 Temos três tipos diferentes de opção e aqui começa a loucura.
 
-![Interface do Stargrade Alligament](/docs/assets/images/guide_images/image58.png)
+![Interface do Stargrade Alligament](/assets/images/guide_images/image58.png)
 
 *   **Little Star:** São as estrelas menores que correspondem a cada uma das estrelas que você tem em seu equipamento e pode ser adicionado pequenos bônus.
 *   **Bit Star:** É a estrela maior que desbloqueia a cada 4 estrelas do seu equipamento e que te dá um bônus bem maior que a Little Star.
@@ -171,13 +171,13 @@ Temos três tipos diferentes de opção e aqui começa a loucura.
 
 Na imagem abaixo, eu estou com três equipamentos com uma estrela e uma bota com duas estrelas, totalizando 6 Little Star, 1 Big Star e 1 Twinkling Set.
 
-![Exemplo de Stargrade Alligament ativo](/docs/assets/images/guide_images/image179.png)
+![Exemplo de Stargrade Alligament ativo](/assets/images/guide_images/image179.png)
 
 > **Ozzi:** Como estou de Arqueiro, eu coloquei minhas 6 Minor Star com DEX, minha Major Star com Recuperação de SP e minha Twinkling Star com mais destreza. Totalizando, to com um bônus de +10 de Dex só pelo ranking de equipamentos.
 
 Se todos os seus equipamentos tiverem o maior Ranking, você recebe o bônus completo no Twinkling Star.
 
-![Twinkling Set completo](/docs/assets/images/guide_images/image42.png)
+![Twinkling Set completo](/assets/images/guide_images/image42.png)
 
 Você pode mudar estes bônus a qualquer momento, desde que pague a taxa de zeny solicitada para a alteração.
 
