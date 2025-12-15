@@ -80,7 +80,7 @@ Para facilitar, podemos dizer que DEX impacta UM TERÇO na ASPD em relação a A
 
 Então temos o seguinte cenário no aumento de AGI e DEX para comparação do nosso aprendiz:
 
-![Comparação AGI e DEX](/docs/assets/images/guide_images/image154.png)
+![Comparação AGI e DEX](/assets/images/guide_images/image154.png)
 
 Como podemos observar, a DEX ajuda na ASPD, mas em uma quantidade bem baixa em relação a AGI. Portanto, o equilíbrio entre os dois é importante.
 
@@ -127,7 +127,7 @@ Moleza né? 🔥💚
 
 Então você precisa entender o que vale a pena para o seu personagem, pois quanto menor a ASPD que você tem, maior o DDA e vice-versa.
 
-![Gráfico de exemplo DDA/ASPD](/docs/assets/images/guide_images/image30.png)
+![Gráfico de exemplo DDA/ASPD](/assets/images/guide_images/image30.png)
 
 Muitas vezes quando você tiver um alto ASPD será melhor um bônus de redução de DDA, assim como o contrário também é verdadeiro.
 
