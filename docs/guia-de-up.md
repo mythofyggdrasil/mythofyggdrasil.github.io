@@ -1,491 +1,356 @@
-# Guia de UP e Dicas para Iniciantes
+# Dicas para Iniciantes
 
-Então você está querendo fazer um personagem e começar a jogar, certo?
+## Conceitos Básicos
 
-Bom, como toda vez, o óbvio é que você pensa em fazer uma classe de dano
-e em paralelo fazer um mercador para vender mais caro o loot e comprar
-mais barato consumíveis.
+Então você está querendo fazer um personagem e começar a jogar, certo? 
 
-Depois que pegar level 50, focar em ter os equipamentos básicos do seu
-personagem principal e mudar de job para enfrentar monstros mais fortes
-e fazer o famoso percurso de up de todo server.
+Bom, como toda vez, o óbvio é que você pensa em fazer uma classe de dano e em paralelo fazer um mercador para vender mais caro o loot e comprar mais barato consumíveis.
 
-Lamento te dizer, mas isso **não vai funcionar** aqui.
+Depois que pegar level 50, focar em ter os equipamentos básicos do seu personagem principal e mudar de job para enfrentar monstros mais fortes e fazer o famoso percurso de up de todo servidor.
 
-Os inimigos tem níveis e atributos diferentes, os **mercadores não tem
-skill de aumentar o valor de venda**, os equipamentos maravilhosos no
-jogo convencional não necessariamente são os melhores e principalmente,
-você precisa estar preparado para o que vai acontecer.
+**Lamento te dizer, mas isso não vai funcionar aqui.**
 
-Não estou aqui para ditar regras, você pode fazer da forma que achar
-melhor, mas vou dar uma luz para quem está começando.
+Os inimigos tem níveis e atributos diferentes, os **mercadores não tem skill de aumentar o valor de venda**, os equipamentos maravilhosos no jogo convencional não necessariamente são os melhores e principalmente, você precisa estar preparado para o que vai acontecer.
 
-[Escolha o personagem que você goste]{.underline}
+Não estou aqui para ditar regras, você pode fazer da forma que achar melhor, mas vou dar uma luz para quem está começando.
 
-Sério, não pense em meta ou no que é mais fácil. Com as alterações das
-skills e os equipamentos disponíveis, toda classe consegue fazer o
-mínimo.
+## Dicas Essenciais
 
-[Não pule quests, principalmente no primeiro personagem]{.underline}
+### 1. Escolha o personagem que você goste
+Sério, não pense em meta ou no que é mais fácil. Com as alterações das skills e os equipamentos disponíveis, toda classe consegue fazer o mínimo.
 
-Você consegue itens, bônus e experiência através das quests disponíveis
-no servidor, então se não quiser sofrer tanto no início, faça todas as
-quests possíveis.
+### 2. Não pule quests, principalmente no primeiro personagem
+Você consegue itens, bônus e experiência através das quests disponíveis no servidor, então se não quiser sofrer tanto no início, faça todas as quests possíveis.
 
-E por favor! **LEIA OS DIÁLOGOS**, elas que vão te ensinar como o jogo
-funciona, para de ser apressado.
+!!! warning "Importante"
+    **LEIA OS DIÁLOGOS**, elas que vão te ensinar como o jogo funciona, para de ser apressado.
 
-[Você terá um reset de status quando mudar de job]{.underline}
+### 3. Você terá um reset de status quando mudar de job
+Mesmo que você seja um mago full Int/Dex, não tem problema colocar STR e AGI enquanto aprendiz para conseguir concluir as missões com maior facilidade.
 
-Mesmo que você seja um mago full Int/Dex, não tem problema colocar STR e
-AGI enquanto aprendiz para conseguir concluir as missões com maior
-facilidade.
+### 4. Foque em pegar sua primeira Legacy Skill
+É uma quest bem simples e dependendo do que escolher, você poderá mudar totalmente a facilidade do seu gameplay no começo.
 
-[Foque em pegar sua primeira Legacy Skill]{.underline}
+### 5. Do level 10 até o level 20 é difícil e complicado mesmo!
+Ainda mais se for o primeiro personagem, você vai ter que ir com calma e o foco agora é ganhar job e equipamentos, não level. Então vai caçar porings para ter dinheiro para os primeiros equipamentos e vai dar uma volta pelos mapas para conhecer o mundo.
 
-É uma quest bem simples e dependendo do que escolher, você poderá mudar
-totalmente a facilidade do seu gameplay no começo.
+!!! note "Lembre-se"
+    **O Level é consequência do jogo, não objetivo.**
 
-[**SIM!** Do level 10 até o level 20 é difícil e complicado
-mesmo!!!!!]{.underline}
+### 6. Equipamento Low Tier com pelo menos uma estrela
+Não precisa ser um equipamento milagroso, uma adaga simples, uma sandália, uma capinha e uma camisa já ajuda em ter alguns bônus no Star Grade Alligament.
 
-Ainda mais se for o primeiro personagem, você vai ter que ir com calma e
-o foco agora é ganhar job e equipamentos, não level. Então vai caçar
-porings para ter dinheiro para os primeiros equipamentos e vai dar uma
-volta pelos mapas para conhecer o mundo.
+Aconselho escolher entre Recuperação de HP ou de SP no começo, pois auxilia bastante, depois você muda para o que fizer mais sentido.
 
-Lembre-se, **o Level é consequência do jogo, não objetivo**.
+## Equipamentos Iniciais por Monstro
 
-[Equipamento Low Tier com pelo menos uma estrela]{.underline}
+Segue a lista de quais monstros dropam esses equipamentos iniciais, seu foco é pegar um com pelo menos uma estrela (Você pode comprar no NPC e dar upgrade de ranking se estiver muito difícil dropar).
 
-Não precisa ser um equipamento milagroso, uma adaga simples, uma
-sandália, uma capinha e uma camisa já ajuda em ter alguns bônus no Star
-Grade Alligament.
+### Equipamentos Básicos
 
-Aconselho escolher entre Recuperação de HP ou de SP no começo, pois
-auxilia bastante, depois você muda para o que fizer mais sentido.
+| Tipo | Item | Monstro Drop | Imagem |
+| :--- | :--- | :--- | :--- |
+| **Chapéu** | Chapéu Básico | Spore | ![Spore](docs/assets/images/guide_images/media/image90.gif) |
+| **Armadura** | Armadura Básica | Picky | ![Picky](docs/assets/images/guide_images/media/image68.gif) |
+| **Calçado** | Calçado Básico | Savage Baby | ![Savage Baby](docs/assets/images/guide_images/media/image23.gif) |
+| **Escudo** | Escudo Básico | Mandrágora | ![Mandrágora](docs/assets/images/guide_images/media/image34.gif) |
+| **Capa** | Capa Básica | Hornet | ![Hornet](docs/assets/images/guide_images/media/image48.gif) |
 
-Segue a lista de quais monstros dropam esses equipamentos iniciais, seu
-foco é pegar um com pelo menos uma estrela (Você pode comprar no NPC e
-dar upgrade de ranking se estiver muito difícil dropar).
+### Armas Iniciais
 
-**Equipamentos**
+| Tipo de Arma | Item | Monstro Drop | Imagem |
+| :--- | :--- | :--- | :--- |
+| **Adaga** | Adaga Básica | Poring | ![Poring](docs/assets/images/guide_images/media/image156.gif) |
+| **Machado** | Machado Básico | Willow | ![Willow](docs/assets/images/guide_images/media/image185.gif) |
+| **Espada de uma mão** | Espada Curta | Lunatic, Wormtail | ![Lunatic](docs/assets/images/guide_images/media/image63.gif) ![Wormtail](docs/assets/images/guide_images/media/image177.gif) |
+| **Espada de duas mãos** | Espada Longa | Muka | ![Muka](docs/assets/images/guide_images/media/image218.gif) |
+| **Lança de uma Mão** | Lança Curta | Creamy | ![Creamy](docs/assets/images/guide_images/media/image43.gif) |
+| **Lança de duas mãos** | Lança Longa | Muka | ![Muka](docs/assets/images/guide_images/media/image192.gif) |
+| **Maça** | Maça Básica | Fabre | ![Fabre](docs/assets/images/guide_images/media/image108.gif) |
+| **Cajado** | Cajado Básico | Leaftic | ![Leaftic](docs/assets/images/guide_images/media/image163.gif) |
+| **Arco** | Arco Básico | Baby Wolf | ![Baby Wolf](docs/assets/images/guide_images/media/image97.gif) |
 
-<<<<<<< HEAD
-| **Chapéu**                       | **Armadura**                     |
-|---|---|
-|---|---|
-|                                  |                                  |
-|---|---|
-| ![](m                            | ![](m                            |
-|---|---|
-| edia/image90.gif){width="0.25in" | edia/image68.gif){width="0.25in" |
-|---|---|
-| height="0.25in"}Spore            | height="0.25in"} Picky           |
-| **Calçado**                      | **Escudo**                       |
-|---|---|
-=======
-+----------------------------------+----------------------------------+
-| **Chapéu**                       | **Armadura**                     |
-|                                  |                                  |
-| ![](m                            | ![](m                            |
-| edia/image90.gif){width="0.25in" | edia/image68.gif){width="0.25in" |
-| height="0.25in"}Spore            | height="0.25in"} Picky           |
-+==================================+==================================+
-| **Calçado**                      | **Escudo**                       |
->>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
-|                                  |                                  |
-| ![](m                            | ![](m                            |
-| edia/image23.gif){width="0.25in" | edia/image34.gif){width="0.25in" |
-| height="0.25in"}Savage Baby      | height="0.25in"}Mandrágora       |
-<<<<<<< HEAD
-|---|---|
-| **Capa**                         |                                  |
-|---|---|
-|---|---|
-|                                  |                                  |
-|---|---|
-| ![](m                            |                                  |
-|---|---|
-| edia/image48.gif){width="0.25in" |                                  |
-|---|---|
-| height="0.25in"}Hornet           |                                  |
-| **Armas**                        |                                  |
-|---|---|
-|---|---|
-| **Adaga**                        | **Machado**                      |
-|---|---|
-|---|---|
-|                                  |                                  |
-|---|---|
-| ![](me                           | ![](me                           |
-|---|---|
-| dia/image156.gif){width="0.25in" | dia/image185.gif){width="0.25in" |
-|---|---|
-| height="0.25in"}Poring           | height="0.25in"}Willow           |
-| **Espada de uma mão**            | **Espada de duas mãos**          |
-|---|---|
-=======
-+----------------------------------+----------------------------------+
-| **Capa**                         |                                  |
-|                                  |                                  |
-| ![](m                            |                                  |
-| edia/image48.gif){width="0.25in" |                                  |
-| height="0.25in"}Hornet           |                                  |
-+----------------------------------+----------------------------------+
-| **Armas**                        |                                  |
-+----------------------------------+----------------------------------+
-| **Adaga**                        | **Machado**                      |
-|                                  |                                  |
-| ![](me                           | ![](me                           |
-| dia/image156.gif){width="0.25in" | dia/image185.gif){width="0.25in" |
-| height="0.25in"}Poring           | height="0.25in"}Willow           |
-+----------------------------------+----------------------------------+
-| **Espada de uma mão**            | **Espada de duas mãos**          |
->>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
-|                                  |                                  |
-| ![](m                            | ![](me                           |
-| edia/image63.gif){width="0.25in" | dia/image218.gif){width="0.25in" |
-| height="0.25in"}Lunatic          | height="0.25in"} Muka            |
-| ![](me                           |                                  |
-| dia/image177.gif){width="0.25in" |                                  |
-| height="0.25in"} Wormtail        |                                  |
-<<<<<<< HEAD
-|---|---|
-| **Lança de uma Mão**             | **Lança de duas mãos**           |
-|---|---|
-|---|---|
-|                                  |                                  |
-|---|---|
-| ![](m                            | ![](me                           |
-|---|---|
-| edia/image43.gif){width="0.25in" | dia/image192.gif){width="0.25in" |
-|---|---|
-| height="0.25in"} Creamy          | height="0.25in"}Muka             |
-| **Maça**                         | **Cajado**                       |
-|---|---|
-=======
-+----------------------------------+----------------------------------+
-| **Lança de uma Mão**             | **Lança de duas mãos**           |
-|                                  |                                  |
-| ![](m                            | ![](me                           |
-| edia/image43.gif){width="0.25in" | dia/image192.gif){width="0.25in" |
-| height="0.25in"} Creamy          | height="0.25in"}Muka             |
-+----------------------------------+----------------------------------+
-| **Maça**                         | **Cajado**                       |
->>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
-|                                  |                                  |
-| ![](me                           | ![](me                           |
-| dia/image108.gif){width="0.25in" | dia/image163.gif){width="0.25in" |
-| height="0.25in"} Fabre           | height="0.25in"} Leaftic         |
-<<<<<<< HEAD
-|---|---|
-| **Arco**                         |                                  |
-|---|---|
-|---|---|
-|                                  |                                  |
-|---|---|
-| ![](m                            |                                  |
-|---|---|
-| edia/image97.gif){width="0.25in" |                                  |
-|---|---|
-| height="0.25in"}Baby Wolf        |                                  |
-=======
-+----------------------------------+----------------------------------+
-| **Arco**                         |                                  |
-|                                  |                                  |
-| ![](m                            |                                  |
-| edia/image97.gif){width="0.25in" |                                  |
-| height="0.25in"}Baby Wolf        |                                  |
-+----------------------------------+----------------------------------+
->>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
+## Progressão de Mid a Late Game
 
-*[Gaste todos os Idriks e durabilidade]{.underline}*
+### 7. Gaste todos os Idriks e durabilidade
+Não tenha dó de aumentar o nível de seus equipamentos até chegar a 0 de durabilidade, pois eles darão mais autonomia para enfrentar monstros mais fortes.
 
-Não tenha dó de aumentar o nível de seus equipamentos até chegar a 0 de
-durabilidade, pois eles darão mais autonomia para enfrentar monstros
-mais fortes.
+### 8. Pegue suas primeiras Singularidades
+Mesmo que seja um equipamento simples, não deixei de encantar com singularidades, pois mais status significam uma vida mais fácil.
 
-[Pegue suas primeiras Singularidades]{.underline}
+### 9. Consiga um Pet
+Os pets neste servidor são muito úteis e vão te ajudar bastante para enfrentar monstros mais fortes. Escolha um que faça sentido para a sua classe e foque em pegar pelo menos um.
 
-Mesmo que seja um equipamento simples, não deixei de encantar com
-singularidades, pois mais status significam uma vida mais fácil.
+### 10. Faça uma backpack para seu pet
+Com esse acessório no seu pet, ele fica com a função de Autoloot, o que minimiza a sua necessidade de ficar usando Pick Up.
 
-[Consiga um Pet]{.underline}
+### 11. Segunda e Terceira Legacy Skill
+Você pode fazer a quest das novas skills no job 27 e 47, então assim que atingir esses requisitos, já foque em pegar mais skills para seu personagem.
 
-Os pets neste servidor são muito úteis e vão te ajudar bastante para
-enfrentar monstros mais fortes.
+### 12. Pegue uma Role assim que puder em Prontera
+As skills de Role ajudam e mudam bastante o formato do Game, então não esqueça de pensar qual role você vai querer.
 
-Escolha um que faça sentido para a sua classe e foque em pegar pelo
-menos um.
+### 13. Novos pets para o Pet Adventure
+Para conseguir usar o Pet Adventure, você precisa de no mínimo 3 pets, então vale a pena fazer a quest de itens de domesticação sempre que puder.
 
-[Faça uma backpack para seu pet]{.underline}
+### 14. Upgrade de Ranking
+Guarde todos os equipamentos com ranking que não for usar para quebrar em Star Cluster, assim tendo catalisadores para dar upgrade nos seus equipamentos quando tiver dois iguais.
 
-Com esse acessório no seu pet, ele fica com a função de Autoloot, o que
-minimiza a sua necessidade de ficar usando Pick Up.
+### 15. Carola, sua best friend
+Com dinheiro ou sorte, você já consegue pegar um chapéu bacana com bônus interessantes, e você pode encantar na Carola para ainda mais status legais para o seu Up. Embora seja um pouco caro e precise de catalisadores, ainda assim, vale a pena.
 
-[Segunda e Terceira Legacy Skill]{.underline}
+### 16. Ordem de over para melhor performance
+O ideal é que se tiver dois equipamentos iguais você aplica a singularidade primeiro, para ver qual dos dois será melhor, depois você dá upgrade de ranking usando o segundo equipamento como catalisador e aí sim pode começar a dar upgrade.
 
-Você pode fazer a quest das novas skills no job 27 e 47, então assim que
-atingir esses requisitos, já foque em pegar mais skills para seu
-personagem.
+!!! tip "Ordem Correta"
+    **Singularidade > Ranking > Over**
 
-[Pegue uma Role assim que puder em Prontera.]{.underline}
+Se fizer na ordem contrária, você vai gastar idrik atoa ou acabar com uma singularidade ruim.
 
-As skills de Role ajudam e mudam bastante o formato do Game, então não
-esqueça de pensar qual role você vai querer.
+### 17. Dinheiro não é tão fácil assim
+MMORPG sempre foi um jogo de gerenciamento de recursos e sem a opção do mercador receber mais dinheiro nas vendas de loot, o dinheiro acaba sendo um pouco mais difícil no começo do jogo.
 
-[Novos pets para o Pet Adventure]{.underline}
+Então é importante ter sempre uma pequena reserva no banco para caso tenha alguma oportunidade de um item que você precise.
 
-Para conseguir usar o Pet Adventure, você precisa de no mínimo 3 pets,
-então vale a pena fazer a quest de itens de domesticação sempre que
-puder.
-
-[Upgrade de Ranking]{.underline}
-
-Guarde todos os equipamentos com ranking que não for usar para quebrar
-em Star Cluster, assim tendo catalisadores para dar upgrade nos seus
-equipamentos quando tiver dois iguais.
-
-[Carola, sua best friend]{.underline}
-
-Com dinheiro ou sorte, você já consegue pegar um chapéu bacana com bônus
-interessantes, e você pode encantar na Carola para ainda mais status
-legais para o seu Up.
-
-Embora seja um pouco caro e precise de catalisadores, ainda assim, vale
-a pena.
-
-[Ordem de over para melhor performance]{.underline}
-
-O ideal é que se tiver dois equipamentos iguais você aplica a
-singularidade primeiro, para ver qual dos dois será melhor, depois você
-dá upgrade de ranking usando o segundo equipamento como catalisador e aí
-sim pode começar a dar upgrade.
-
-Se fizer na ordem contrária, você vai gastar idrik atoa ou acabar com
-uma singularidade ruim.
-
-Então lembre-se : Singularidade \> Ranking \> Over
-
-[Dinheiro não é tão fácil assim]{.underline}
-
-MMORPG sempre foi um jogo de gerenciamento de recursos e sem a opção do
-mercador receber mais dinheiro nas vendas de loot, o dinheiro acaba
-sendo um pouco mais difícil no começo do jogo.
-
-Então é importante ter sempre uma pequena reserva no banco para caso
-tenha alguma oportunidade de um item que você precise.
-
----{width="1.0674420384951882in"
-height="0.9340113735783027in"}
+---
 
 # Guia de UP
 
-Então, eu tô me arriscando muito criando um guia de up, pois eu não
-tenho muita experiência com classes mágicas, mas normalmente, o que
-serve para um pode servir para outro.
+## Como Escolher Onde Upar
 
-Inclusive, se não quiser seguir esse guia, você pode usar o omnibook
-filtrando por nível ou por quantidade de exp e escolher o mapa que seja
-mais agradável para você. Se não souber como faz isso, volte para como
-funciona o Omnibook.
+Então, eu tô me arriscando muito criando um guia de up, pois eu não tenho muita experiência com classes mágicas, mas normalmente, o que serve para um pode servir para outro.
 
-Outra forma de saber onde upar é simplesmente abrir o mapa mundi, ele
-mostra o nível dos monstros daquele mapa, simples e fácil:
+Inclusive, se não quiser seguir esse guia, você pode:
 
-![](/assets/images/guide_images/image221.png){width="10.708333333333334in"
-height="7.385416666666667in"}
+1. **Usar o Omnibook** filtrando por nível ou por quantidade de exp
+2. **Abrir o mapa mundi** - ele mostra o nível dos monstros daquele mapa
 
-Se não estiver aparecendo o level dos mapas, é só apertar Tab.
+![Mapa Mundi do jogo](docs/assets/images/guide_images/image221.png)
 
-Bom, mas antes de sair falando sobre mapas e monstros, vamos organizar
-dois conceitos bem básicos que só no Myth acontece.
+!!! note "Dica"
+    Se não estiver aparecendo o level dos mapas, é só apertar **Tab**.
 
-**1 - Level não determina o que você consegue enfrentar**
+## Conceitos Fundamentais
 
-Há um abismo gigante de diferença entre um espadachim com equipamento
-básico e um espadachim com o mesmo level mas com singularidades,
-ranking, upgrade e over.
+Antes de sair falando sobre mapas e monstros, vamos organizar dois conceitos bem básicos que só no Myth acontece:
 
-Então não adianta ir no chat global perguntando "**Onde upa level
-XX?**", o que vai determinar onde você consegue upar é o seu
-equipamento, não o level.
+### 1. Level não determina o que você consegue enfrentar
+Há um abismo gigante de diferença entre um espadachim com equipamento básico e um espadachim com o mesmo level mas com singularidades, ranking, upgrade e over.
 
-**2 - Grupo facilita muito no jogo mas depende**
+!!! warning "Importante"
+    **Não adianta perguntar "Onde upa level XX?"** - o que determina onde você consegue upar é o seu equipamento, não o level.
 
-Sim, jogar em um grupo possibilita que você enfrente monstros mais
-fortes, mas o conceito de equipamento ainda existe. Um grupo de cinco
-players sem equipamentos adequados é inferior a um único player com bons
-equipamentos!!!!
+### 2. Grupo facilita muito no jogo mas depende
+Sim, jogar em um grupo possibilita que você enfrente monstros mais fortes, mas o conceito de equipamento ainda existe. **Um grupo de cinco players sem equipamentos adequados é inferior a um único player com bons equipamentos!**
 
-Com essas duas regras em mente, eu vou **sugerir** alguns mapas de up
-para você escolher. Eu digo "sugerir" porque não to aqui ditando regras
-e muito menos pode ser a melhor experiência para você. Eu estou levando
-em consideração o Omnibook e também o Mapa Mundi do jogo.
+## Como Usar Este Guia
 
-Considere então a leitura da seguinte forma:
+Com essas duas regras em mente, eu vou **sugerir** alguns mapas de up para você escolher. Considere a leitura da seguinte forma:
 
--   Se seus equipamentos ainda são fracos, não tem singularidade e a
-    > grana tá curta, **enfrente inimigos de nível mais baixo do que o
-    > seu**
+| Seu Estado | Onde Upar |
+| :--- | :--- |
+| **Equipamentos fracos**, sem singularidade, grana curta | **Inimigos de nível mais baixo** do que o seu |
+| **Equipamentos OK**, consegue se manter | **Inimigos do seu nível** ou um pouco mais alto |
+| **Equipamentos bons**, muitos consumíveis ou em grupo bom | **Inimigos mais fortes** |
 
--   Se seus equipamentos estão ok e você consegue se manter, **enfrente
-    > inimigos de seu nível ou um pouco mais alto**
+!!! warning "Aviso"
+    Não me culpe se você morrer porque não estava preparado, beleza?
 
--   Se seus equipamentos estão lindos e você está com toneladas de
-    > consumíveis ou você está em um grupo bom, **pode enfrentar
-    > inimigos ainda mais fortes.**
+## Guia por Faixa de Nível
 
-Acho que dei todos os avisos necessários, então não vem me culpar se
-você morrer porque não estava preparado, beleza?
+### Level 10~15
+**Pelo amor de deus, só faz as quests** seguindo as indicações dos NPCs, você vai ganhar experiência e vai praticamente pular para o level 14. Então para de tentar matar os esporos, além dele te bater feito uma jamanta por ser level 18, você ainda não vai conseguir equipamentos e entender o jogo.
 
-**Level 10\~15**
+**Vou repetir, FAÇA AS QUESTS.**
 
-Pelo amor de deus, só faz as quests seguindo as indicações dos NPCs,
-você vai ganhar experiência e vai praticamente pular para o level 14.
-Então para de tentar matar os esporos, além dele te bater feito uma
-jamanta por ser level 18, você ainda não vai conseguir equipamentos e
-entender o jogo.
+### Level 15 ~ 20
+A partir daqui que o jogo realmente começa, você já deve estar com equipamentos com estrelas e algumas habilidade de sua skill tree.
 
-Vou repetir, FAÇA AS QUESTS.
+**Opções:**
+- **Morroc:** Scorpion
+- **Payon:** Wormtail, Sporo e Snake
+- **Geffen:** Ambernite e Roda Frog
 
-**Level 15 \~ 20**
+*Aqui é a gosto do freguês.*
 
-A partir daqui que o jogo realmente começa, você já deve estar com
-equipamentos com estrelas e algumas habilidade de sua skill tree.
+### Level 20~25
+Meio que obrigatório você ir para o esgoto matar thief bug nesse nível.
 
-Tem alguns caminhos que você pode seguir para upar sendo.
+**Alternativas se estiver difícil:**
+- River Spore
+- Muka
 
-Morroc: Scorpion
+### Level 25~30
+Aqui as coisas ficam um pouco mais caóticas, porque as opções acabam se abrindo mais.
 
-Payon: Wormtail, Sporo e Snake
+**Recomendado:** Ant Hell (mas a vitata é bem chata com a cura dela)
 
-Geffen: Ambernite e Roda Frog
+**Outras opções:**
+- Poison Spore
+- Skeleton
+- Zombie
+- Big Foot
+- Poporing
 
-Aqui é a gosto do freguês.
+*Eu fiquei mobando no primeiro nível da pirâmide, mas não sei se é para todo mundo.*
+
+### Level 30~35
+**Melhor hora para o Ant Hell** se ainda não foi.
 
-**Level 20\~25**
-
-Meio que obrigatório você ir para o esgoto matar thief bug nesse nível,
-então nem vou me alongar muito sobre.
-
-Mas caso você morra muito na dungeon, pode optar por River Spore ou Muka
-
-**Level 25\~30**
-
-Aqui as coisas ficam um pouco mais caóticas, porque as opções acabam se
-abrindo mais do que só em torno de Prontera.
-
-Eu aconselharia você ir para o Ant Hell, mas a vitata é bem chata com a
-cura dela e você precisa estar bem equipado.
-
-Mas você pode ir para Poison Spore, Skeleton, Zombie, Big Foot e até
-poporing.
-
-Eu fiquei mobando no primeiro nível da pirâmide, mas não sei se é para
-todo mundo.
-
-**Level 30\~35**
-
-Se você não foi ainda para anthell, agora é a melhor hora para ir.
-
-Além disso, você pode enfrentar Madrone, Horn e Coco.
-
-Nesse nível não tem muitas opções mesmo.
-
-**Level 35\~40**
-
-A quem goste de ir para a fábrica de brinquedos matar cookies, tem quem
-goste de ir matar yoyo, tem quem prefira matar martins, mas
-particularmente, estando equipado, eu fiquei morando em Byalan matando
-vadon, kukre e marina até pegar job 50. Vai de gosto.
-
-**Level 40 \~ 45**
-
-Se você não foi para Byalan antes, agora é um ótimo momento. Mas na
-verdade, qualquer mapa perto da guilda da sua segunda classe costuma ter
-monstros que darão um bom nível.
-
-Então você pode ir para Thara Frog, Megalodon, Wolf, Crab, Ragler, Orcs
-ou Goblins.
-
-Se estiver muito difícil, volte para algum mapa anterior ou se equipe
-melhor.
-
-**Level 45 \~ 50**
-
-Você ainda pode se manter nos mapas anteriores até completar job 50 caso
-ainda não tenha concluído.
-
-Mesmo que você tenha mudado de job, ainda vale a pena revisitar os mapas
-anteriores para garantir algumas habilidades básicas para os próximos
-desafios.
-
-Alguns monstros diferentes caso você tenha enjoado seria Greatest
-General, Argos, Wolf, Metaller, Golem e Savage.
-
-**Level 50 \~ 60**
-
-A partir daqui, vai variar da sua build e sua classe, mas vou seguir com
-sugestões básicas.
-
-Flora, Verit, Minorus, Magnolia, Orc Esqueleto e Zenorc, Grove, Mummy,
-Obeaune, Marc, Swordfish.
-
-Eu prefiro ficar no Orc Dungeon até uns 70 mobando, mas vai de cada um.
-
-**Level 60 \~ 70**
-
-Você ainda tem mais algumas opções caso tenha enjoado dos mapas
-anteriores
-
-Sandman, Hode, Dustiness, Hunter Fly, Jakk, Leaf Cat, Sanguinary Wolf,
-Sohee, Mantis, Pirate Skeleton, Wootan Fighter, Baby Leopard, Dryad,
-Stalactic Golem.
-
-Lembrando que se forem muito difíceis, atualize seus equipamentos ou
-mate monstros mais fracos para pegar habilidades melhores.
-
-**Level 70 \~ 80**
-
-Aqui se você ainda não estiver com bons equipamentos e dando dano alto,
-melhor repensar sua vida amiguinho.
-
-Maple Rafflesia, Karakasa, Sasquatch, Wooden Golem, Geographer, Marduk,
-Rideword, Argiope, Grand Peco, Parasite, Wraith, Pasana.
-
-**Level 80 \~ 90**
-
-Tamo chegando no final do jogo e você deve estar em duas situações. Ou
-forte demais e minhas sugestões nem fazem mais sentido ou você está
-focando em melhorar seus equipamentos ainda mais.
-
-Clock, Metaling, Sleeper, Cramp, Les/Lesavka, Punk, Zhu Po Long, Harpy,
-Kapha, Mi Gao, Stem Worm, Gig, Miyabi Doll, Porcellio, Dragon Tail,
-Petit, Yao Jun, Alarm, Firelock Soldier, Spring Rabbit,
-
-**Level 90 \~ 100**
-
-Aqui vai demorar mesmo para upar e você já deve estar acostumado com
-isso.
-
-Se estiver bem equipado, é melhor você focar em monstros ainda mais
-fortes do que essa lista, já que normalmente um nível 90 bem equipado é
-equivalente a um 105, mas já que já cheguei até aqui, vamos terminar
-essa lista.
-
-Zombie Prisoner, Skeleton prisoner, Injustice, Baba Yaga, Perimeter,
-Solider, Freeze, Pitman, Ted Bear, Old Stove, Obsidian, Zipper Bear,
-Enchanted Peach Tree, High Orc, High Orc Archer, High Orc Lady, Anolian,
-Deleter, Hill Wind, Kobold, Muscipular, Snow Wolf
-
-Mas Ozzi, cadê os básicos de outros servidores que você não mencionou
-como Siroma, Venatu, Sting, Gibbet, Disguise, Isila, Vanberk, Magmaring,
-Raydric, Ferus, Banshee, etc?
-
-Simples, dá uma olhada neles no Omnibook s2
-
----{width="1.0674420384951882in"
-height="0.9340113735783027in"}
-
+**Outras opções:**
+- Madrone
+- Horn
+- Coco
+
+*Nesse nível não tem muitas opções mesmo.*
+
+### Level 35~40
+**Opções populares:**
+- Fábrica de brinquedos (Cookies)
+- Yoyo
+- Martins
+
+**Minha preferência:** Byalan (Vadon, Kukre e Marina) até pegar job 50
+
+### Level 40 ~ 45
+Se não foi para Byalan antes, agora é um ótimo momento.
+
+**Mapas perto da guilda da sua segunda classe:**
+- Thara Frog
+- Megalodon
+- Wolf
+- Crab
+- Ragler
+- Orcs
+- Goblins
+
+*Se estiver muito difícil, volte para algum mapa anterior ou se equipe melhor.*
+
+### Level 45 ~ 50
+Você ainda pode se manter nos mapas anteriores até completar job 50.
+
+**Se cansar dos mapas anteriores:**
+- Greatest General
+- Argos
+- Wolf (outros tipos)
+- Metaller
+- Golem
+- Savage
+
+### Level 50 ~ 60
+A partir daqui, vai variar da sua build e sua classe.
+
+**Sugestões básicas:**
+- Flora
+- Verit
+- Minorus
+- Magnolia
+- Orc Esqueleto
+- Zenorc
+- Grove
+- Mummy
+- Obeaune
+- Marc
+- Swordfish
+
+*Eu prefiro ficar no Orc Dungeon até uns 70 mobando, mas vai de cada um.*
+
+### Level 60 ~ 70
+**Mais opções:**
+- Sandman
+- Hode
+- Dustiness
+- Hunter Fly
+- Jakk
+- Leaf Cat
+- Sanguinary Wolf
+- Sohee
+- Mantis
+- Pirate Skeleton
+- Wootan Fighter
+- Baby Leopard
+- Dryad
+- Stalactic Golem
+
+*Se forem muito difíceis, atualize seus equipamentos.*
+
+### Level 70 ~ 80
+Aqui se você ainda não estiver com bons equipamentos e dando dano alto, melhor repensar sua vida.
+
+**Opções:**
+- Maple Rafflesia
+- Karakasa
+- Sasquatch
+- Wooden Golem
+- Geographer
+- Marduk
+- Rideword
+- Argiope
+- Grand Peco
+- Parasite
+- Wraith
+- Pasana
+
+### Level 80 ~ 90
+Chegando no final do jogo - ou você está forte demais, ou focando em melhorar equipamentos.
+
+**Monstros sugeridos:**
+- Clock
+- Metaling
+- Sleeper
+- Cramp
+- Les/Lesavka
+- Punk
+- Zhu Po Long
+- Harpy
+- Kapha
+- Mi Gao
+- Stem Worm
+- Gig
+- Miyabi Doll
+- Porcellio
+- Dragon Tail
+- Petit
+- Yao Jun
+- Alarm
+- Firelock Soldier
+- Spring Rabbit
+
+### Level 90 ~ 100
+Aqui vai demorar mesmo para upar.
+
+**Se estiver bem equipado:** Monstros mais fortes (um nível 90 bem equipado equivale a um 105)
+
+**Sugestões:**
+- Zombie Prisoner
+- Skeleton prisoner
+- Injustice
+- Baba Yaga
+- Perimeter Soldier
+- Freeze
+- Pitman
+- Ted Bear
+- Old Stove
+- Obsidian
+- Zipper Bear
+- Enchanted Peach Tree
+- High Orc
+- High Orc Archer
+- High Orc Lady
+- Anolian
+- Deleter
+- Hill Wind
+- Kobold
+- Muscipular
+- Snow Wolf
+
+## Monstros Não Mencionados
+
+!!! question "E os monstros clássicos?"
+    Siroma, Venatu, Sting, Gibbet, Disguise, Isila, Vanberk, Magmaring, Raydric, Ferus, Banshee, etc?
+    
+    **Simples, dá uma olhada neles no Omnibook** 😉
+
+---
+
+*Guia baseado na experiência do Ozzi - Atualizado para a comunidade*
