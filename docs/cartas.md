@@ -1,144 +1,36 @@
-# Como as cartas funcionam
+# Cartas
 
-Como qualquer servidor, as cartas têm um papel fundamental na construção
-de seu personagem.
+## Como as cartas funcionam
 
-Para quem não pegou a época que o Ragnarok vinha em um CD de instalação
-junto com o sucrilhos e não sabe o que são as cartas, basicamente quase
-todos os monstros tem uma chance muito baixa de drop da carta que
-representa ele no jogo.
+Como qualquer servidor, as cartas têm um papel fundamental na construção de seu personagem.
 
-Cada carta tem um benefício diferente para seu personagem e deve ser
-colocada nos equipamentos que tem slot.
+Para quem não pegou a época que o Ragnarok vinha em um CD de instalação junto com o sucrilhos e não sabe o que são as cartas, basicamente quase todos os monstros tem uma chance muito baixa de drop da carta que representa ele no jogo.
 
-![](/assets/images/guide_images/image36.png)
+Cada carta tem um benefício diferente para seu personagem e deve ser colocada nos equipamentos que tem slot.
 
-Por exemplo, um Stiletto \[3\] pode receber até três cartas, assim como
-uma Bota \[1\] possui um slot para ser adicionado uma carta e assim por
-diante.
+![Exemplo de slots de equipamento](/assets/images/guide_images/image36.png)
 
-De forma geral, uma arma de nível baixo pode ter até \[4\] slots e
-equipamentos somente \[1\] slot, mas equipamentos mais raros e mais
-fortes costumam não ter slot, pois seus atributos já são incríveis.
+Por exemplo, um Stiletto \[3\] pode receber até três cartas, assim como uma Bota \[1\] possui um slot para ser adicionado uma carta e assim por diante.
 
-<<<<<<< HEAD
-| ![](media/image93.               | Diferente do convencional, onde  |
-|---|---|
-| png){width="3.276042213473316in" | cada carta tem um lugar          |
-|---|---|
-| height="3.431514654418198in"}    | específico para ser colocada,    |
-|---|---|
-|                                  | algumas cartas no Myth of        |
-|---|---|
-|                                  | Yggdrasil podem ser adicionadas  |
-|---|---|
-|                                  | em qualquer equipamento conforme |
-|---|---|
-|                                  | suas restrições.                 |
-|---|---|
-|                                  |                                  |
-|---|---|
-|                                  | Outro ponto é que boa parte das  |
-|---|---|
-|                                  | cartas tiveram seus benefícios   |
-|---|---|
-|                                  | revistos ou alterados, assim     |
-|---|---|
-|                                  | como alguns monstros que antes   |
-|---|---|
-|                                  | não tinham carta, agora tem.     |
-=======
-+----------------------------------+----------------------------------+
-| ![](media/image93.               | Diferente do convencional, onde  |
-| png){width="3.276042213473316in" | cada carta tem um lugar          |
-| height="3.431514654418198in"}    | específico para ser colocada,    |
-|                                  | algumas cartas no Myth of        |
-|                                  | Yggdrasil podem ser adicionadas  |
-|                                  | em qualquer equipamento conforme |
-|                                  | suas restrições.                 |
-|                                  |                                  |
-|                                  | Outro ponto é que boa parte das  |
-|                                  | cartas tiveram seus benefícios   |
-|                                  | revistos ou alterados, assim     |
-|                                  | como alguns monstros que antes   |
-|                                  | não tinham carta, agora tem.     |
-+----------------------------------+----------------------------------+
->>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
+De forma geral, uma arma de nível baixo pode ter até \[4\] slots e equipamentos somente \[1\] slot, mas equipamentos mais raros e mais fortes costumam não ter slot, pois seus atributos já são incríveis.
 
-E uma informação importante para quem encontrou a Ophelia na área dos
-ferreiros e viu que ela remove cartas de equipamentos.
+## Diferenças no Myth of Yggdrasil
 
-<<<<<<< HEAD
-| Na maioria dos servidores, ao    | ![](media/image66.p              |
-|---|---|
-| remover uma carta, você recebe   | ng){width="2.6041666666666665in" |
-|---|---|
-| seu equipamento e também a carta | height="3.6458333333333335in"}   |
-|---|---|
-| para ser utilizada em outro      |                                  |
-|---|---|
-| lugar.                           |                                  |
-|---|---|
-|                                  |                                  |
-|---|---|
-| Mas no Myth of Yggdrasil não, ao |                                  |
-|---|---|
-| remover a carta, você recebe seu |                                  |
-|---|---|
-| equipamento **[mas a carta é     |                                  |
-|---|---|
-|---|---|
-| destruída]{.underline}**. Isso   |                                  |
-|---|---|
-|---|---|
-| mesmo que você leu, a carta já   |                                  |
-|---|---|
-| era.                             |                                  |
-|---|---|
-|                                  |                                  |
-|---|---|
-| De certa forma, os equipamentos  |                                  |
-|---|---|
-| com um bom ranking, refino       |                                  |
-|---|---|
-| elevado e singularidade          |                                  |
-|---|---|
-| interessantes são mais difíceis  |                                  |
-|---|---|
-| do que dropar uma carta, então   |                                  |
-|---|---|
-| até que faz sentido esse         |                                  |
-|---|---|
-| sistema.                         |                                  |
-=======
-+----------------------------------+----------------------------------+
-| Na maioria dos servidores, ao    | ![](media/image66.p              |
-| remover uma carta, você recebe   | ng){width="2.6041666666666665in" |
-| seu equipamento e também a carta | height="3.6458333333333335in"}   |
-| para ser utilizada em outro      |                                  |
-| lugar.                           |                                  |
-|                                  |                                  |
-| Mas no Myth of Yggdrasil não, ao |                                  |
-| remover a carta, você recebe seu |                                  |
-| equipamento **[mas a carta é     |                                  |
-| destruída]{.underline}**. Isso   |                                  |
-| mesmo que você leu, a carta já   |                                  |
-| era.                             |                                  |
-|                                  |                                  |
-| De certa forma, os equipamentos  |                                  |
-| com um bom ranking, refino       |                                  |
-| elevado e singularidade          |                                  |
-| interessantes são mais difíceis  |                                  |
-| do que dropar uma carta, então   |                                  |
-| até que faz sentido esse         |                                  |
-| sistema.                         |                                  |
-+----------------------------------+----------------------------------+
->>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
+| | |
+| :--- | :--- |
+| ![Carta no jogo](media/image93.png) | **Diferente do convencional**, onde cada carta tem um lugar específico para ser colocada, algumas cartas no Myth of Yggdrasil podem ser adicionadas em qualquer equipamento conforme suas restrições. <br><br> Outro ponto é que boa parte das cartas tiveram seus benefícios revistos ou alterados, assim como alguns monstros que antes não tinham carta, agora tem. |
 
-*Ozzi: Por isso é tão importante ficar de olho no omnibook antes de ir
-matar mais de mil monstros para dropar sua carta e depois descobrir que
-o efeito mudou. Baseado em fatos reais.*
+## Remoção de Cartas
 
----{width="1.0674420384951882in"
-height="0.9340113735783027in"}
+E uma informação importante para quem encontrou a Ophelia na área dos ferreiros e viu que ela remove cartas de equipamentos.
 
+| | |
+| :--- | :--- |
+| Na maioria dos servidores, ao remover uma carta, você recebe seu equipamento e também a carta para ser utilizada em outro lugar. <br><br> **Mas no Myth of Yggdrasil não**, ao remover a carta, você recebe seu equipamento **<u>mas a carta é destruída</u>**. Isso mesmo que você leu, a carta já era. <br><br> De certa forma, os equipamentos com um bom ranking, refino elevado e singularidade interessantes são mais difíceis do que dropar uma carta, então até que faz sentido esse sistema. | ![NPC Ophelia](media/image66.png) |
+
+!!! warning "Atenção"
+    **Ozzi:** Por isso é tão importante ficar de olho no omnibook antes de ir matar mais de mil monstros para dropar sua carta e depois descobrir que o efeito mudou. Baseado em fatos reais.
+
+---
+
+*Próximo: [Sistema de encantamento por...](singularidade.md)*
