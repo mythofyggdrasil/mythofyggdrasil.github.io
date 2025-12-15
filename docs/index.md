@@ -128,7 +128,8 @@ Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor
 - [Builds e Guias de Classes](builds.md) - Índice de guias de builds
 
 ### Ferramentas
-- [Skill Calculator](skill-calculator.md) - Ferramenta para planejar a distribuição de habilidades
+- [Skill Calculator](tools/skill-calculator.md) - Ferramenta para planejar a distribuição de habilidades
+- [Calculadora](tools/calculadora.md) - Ferramenta para calcular diversos status
 
 ### Quests e Itens
 - [Quests de Chapéus](hat-quests.md) - Guia completo de quests para chapéus e equipamentos de cabeça
