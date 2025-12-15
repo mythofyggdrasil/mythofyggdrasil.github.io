@@ -72,6 +72,27 @@ Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor
 
     [:octicons-arrow-right-24: Montar Build](builds.md)
 
+
+-   :deciduous_tree: **Site oficial e Download**
+
+    ---
+
+    Para download e mais informações, acesse o site oficial!
+
+    *   [:octicons-arrow-right-24: Site oficial](https://mythofyggdrasil.com/br)
+    *   [:octicons-arrow-right-24: Download](https://mythofyggdrasil.com/br/download)
+
+
+-   :book: **Database**
+
+    ---
+
+    Existe uma database externa, como se fosse um Omnibook, dúvidas sobre monstros, itens, refinos, serviços, etc. acessem:
+
+    *   [:octicons-arrow-right-24: Database](https://ragnawiki-jkysc4bb.manus.space/)
+
+---
+
 -   :video_camera: **Streamers Oficiais**
 
     ---
@@ -82,15 +103,15 @@ Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor
     *   [:octicons-arrow-right-24: Suigh](https://www.twitch.tv/suigh)
     *   [:octicons-arrow-right-24: Lokaltgames](https://www.twitch.tv/lokaltgames)
     *   [:octicons-arrow-right-24: Juliezinha](https://www.twitch.tv/julliezinha)
-
--   :deciduous_tree: **Site oficial e Download**
-
-    ---
-
-    Para download e mais informações, acesse o site oficial!
-
-    *   [:octicons-arrow-right-24: Site oficial](https://mythofyggdrasil.com/br)
-    *   [:octicons-arrow-right-24: Download](https://mythofyggdrasil.com/br/download)
+    *   [:octicons-arrow-right-24: Lavandalazuli](https://www.twitch.tv/lavandalazuli)
+    *   [:octicons-arrow-right-24: Sagegamer](https://www.twitch.tv/sagegamer)
+    *   [:octicons-arrow-right-24: Xidinja](https://www.twitch.tv/xidinja)
+    *   [:octicons-arrow-right-24: Srervas](https://www.twitch.tv/srervas)
+    *   [:octicons-arrow-right-24: Lizlhc](https://www.twitch.tv/lizlhc)
+    *   [:octicons-arrow-right-24: Thecromas](https://www.twitch.tv/thecromas)
+    *   [:octicons-arrow-right-24: Masayukixp](https://www.twitch.tv/masayukixp)
+    *   [:octicons-arrow-right-24: Ruslanboo](https://www.twitch.tv/ruslanboo)
+    *   [:octicons-arrow-right-24: Toni_striker](https://twitch.tv/toni_striker)
 
 </div>
 
