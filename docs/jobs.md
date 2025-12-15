@@ -62,7 +62,7 @@ Um pouco depois que você sair da ilha de treinamento, quando estiver com **job 
 
 | | | |
 | :--- | :--- | :--- |
-| ![Exemplo guilda 1](/assets/images/guide_images/media/image158.png) | ![Exemplo guilda 2](/assets/images/guide_images/media/image145.png) | Em cada guilda de classe há uma NPC que dará quests simples para você concluir em troca de **Proof of Valor**.<br><br>Essas medalhinhas que você recebe servem para serem trocadas por itens e são **obrigatórias para mudar de classe**.<br><br>Então constantemente você estará fazendo elas. |
+| ![Exemplo guilda 1](/assets/images/guide_images/image158.png) | ![Exemplo guilda 2](/assets/images/guide_images/image145.png) | Em cada guilda de classe há uma NPC que dará quests simples para você concluir em troca de **Proof of Valor**.<br><br>Essas medalhinhas que você recebe servem para serem trocadas por itens e são **obrigatórias para mudar de classe**.<br><br>Então constantemente você estará fazendo elas. |
 
 ### Quests de Caça
 Você que determina qual quest é melhor para a sua classe, pois elas são de eliminar uma boa quantidade de monstros.
