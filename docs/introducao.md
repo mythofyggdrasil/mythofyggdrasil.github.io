@@ -17,7 +17,7 @@ Em Morroc foram adicionados os camelos, que te levam até os campos de Prontera 
 
     Elas podem ser trocadas pelo item **"Transport Route Ticket"**, que adiciona as cidades principais: Alberta, Geffen, Izlude, Morroc e Payon.
 
-![Transport Route Ticket](/docs/assets/images/guide_images/image39.png)
+![Transport Route Ticket](/assets/images/guide_images/image39.png)
 
 Mas isso não quer dizer que você não possa teleportar para outros mapas, mas para isso você vai depender que uma classe que tenha Portal ou que ela abra uma lojinha de teleporte.
 
@@ -25,7 +25,7 @@ Eles conseguem te vender o Warp para os mapas que eles tenham memorizado, mas al
 
 A principal diferença é que na opção de portal é possível escolher também campos, não somente Cidades como é o caso do Cocheiro.
 
-![Interface de portal](/docs/assets/images/guide_images/image24.png)
+![Interface de portal](/assets/images/guide_images/image24.png)
 
 !!! quote "Dica do Ozzi"
     Não é tão ruim andar pelos mapas usando asa de mosca, então é possível habilitar a maioria das cidades com certa facilidade.
