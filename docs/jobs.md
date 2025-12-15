@@ -32,7 +32,7 @@ Por enquanto, as classes expandidas não estão disponíveis:
 - Taekwon
 - Classes de expansão
 
-![Sistema de classes](/docs/assets/images/guide_images/image160.png)
+![Sistema de classes](/assets/images/guide_images/image160.png)
 
 ## Informações do Servidor
 
@@ -62,7 +62,7 @@ Um pouco depois que você sair da ilha de treinamento, quando estiver com **job 
 
 | | | |
 | :--- | :--- | :--- |
-| ![Exemplo guilda 1](/docs/assets/images/guide_images/media/image158.png) | ![Exemplo guilda 2](/docs/assets/images/guide_images/media/image145.png) | Em cada guilda de classe há uma NPC que dará quests simples para você concluir em troca de **Proof of Valor**.<br><br>Essas medalhinhas que você recebe servem para serem trocadas por itens e são **obrigatórias para mudar de classe**.<br><br>Então constantemente você estará fazendo elas. |
+| ![Exemplo guilda 1](/assets/images/guide_images/media/image158.png) | ![Exemplo guilda 2](/assets/images/guide_images/media/image145.png) | Em cada guilda de classe há uma NPC que dará quests simples para você concluir em troca de **Proof of Valor**.<br><br>Essas medalhinhas que você recebe servem para serem trocadas por itens e são **obrigatórias para mudar de classe**.<br><br>Então constantemente você estará fazendo elas. |
 
 ### Quests de Caça
 Você que determina qual quest é melhor para a sua classe, pois elas são de eliminar uma boa quantidade de monstros.
@@ -98,26 +98,26 @@ Você pode escolher entre as opções de quest por:
 
 | | |
 | :--- | :--- |
-| Com as Proof of Valor você também pode trocar por alguns itens de suporte, como Asas de Teleporte para a cidade de sua guilda ou uma **estatueta exclusiva de sua classe**, que é um acessório de slot esquerdo que dá **+1 em todos os status**.<br><br>**Obs:** não dá para usar dois acessórios!!!! | ![Itens de troca](/docs/assets/images/guide_images/media/image122.png) |
+| Com as Proof of Valor você também pode trocar por alguns itens de suporte, como Asas de Teleporte para a cidade de sua guilda ou uma **estatueta exclusiva de sua classe**, que é um acessório de slot esquerdo que dá **+1 em todos os status**.<br><br>**Obs:** não dá para usar dois acessórios!!!! | ![Itens de troca](/assets/images/guide_images/media/image122.png) |
 
 ### Valorbrew (Boosters Temporários)
 Você também consegue trocar por um token de **Valorbrew**, que são itens que aumentam seus status temporariamente conforme seu nível, vale muito a pena para o up.
 
 | Item | Efeito | Imagem |
 | :--- | :--- | :--- |
-| **Valorbrew (ATK)** | Ataque físico verdadeiro +1 para cada level de base | ![Valorbrew ATK](/docs/assets/images/guide_images/media/image204.png) |
-| **Valorbrew (MATK)** | Ataque Mágico verdadeiro +1 para cada level de base | ![Valorbrew MATK](/docs/assets/images/guide_images/media/image64.png) |
-| **Valorbrew (DEF)** | Defesa verdadeira +1 para cada level de base | ![Valorbrew DEF](/docs/assets/images/guide_images/media/image171.png) |
-| **Valorbrew (Thorns)** | Thorns +1 para cada level de base | ![Valorbrew Thorns](/docs/assets/images/guide_images/media/image87.png) |
-| **Valorbrew (Healing)** | Healing Power +10% para cada level de base | ![Valorbrew Healing](/docs/assets/images/guide_images/media/image216.png) |
-| **Valorbrew (ACD)** | After Cast Delay -10% para cada level de base | ![Valorbrew ACD](/docs/assets/images/guide_images/media/image124.png) |
+| **Valorbrew (ATK)** | Ataque físico verdadeiro +1 para cada level de base | ![Valorbrew ATK](/assets/images/guide_images/media/image204.png) |
+| **Valorbrew (MATK)** | Ataque Mágico verdadeiro +1 para cada level de base | ![Valorbrew MATK](/assets/images/guide_images/media/image64.png) |
+| **Valorbrew (DEF)** | Defesa verdadeira +1 para cada level de base | ![Valorbrew DEF](/assets/images/guide_images/media/image171.png) |
+| **Valorbrew (Thorns)** | Thorns +1 para cada level de base | ![Valorbrew Thorns](/assets/images/guide_images/media/image87.png) |
+| **Valorbrew (Healing)** | Healing Power +10% para cada level de base | ![Valorbrew Healing](/assets/images/guide_images/media/image216.png) |
+| **Valorbrew (ACD)** | After Cast Delay -10% para cada level de base | ![Valorbrew ACD](/assets/images/guide_images/media/image124.png) |
 
 ## Reset na Guilda
 
 Na Guilda você também consegue resetar seus atributos, skills e até mesmo Legacy Skill pagando um valor em Zeny de acordo com o seu nível.
 
-![Reset de status](/docs/assets/images/guide_images/image130.png)
-![Reset de skills](/docs/assets/images/guide_images/image22.png)
+![Reset de status](/assets/images/guide_images/image130.png)
+![Reset de skills](/assets/images/guide_images/image22.png)
 
 ---
 
@@ -128,7 +128,7 @@ Além de boa parte das skills terem um rework (e eu super recomendo você dar um
 As Legacy Skills são habilidades exclusivas de cada classe que adicionam uma nova camada em como você pode construir e jogar com seu personagem.
 
 !!! warning "Atenção"
-    ![Atenção](/docs/assets/images/guide_images/image4.png) **Atenção** ![Atenção](/docs/assets/images/guide_images/image4.png)
+    ![Atenção](/assets/images/guide_images/image4.png) **Atenção** ![Atenção](/assets/images/guide_images/image4.png)
     
     - Você pode escolher no máximo 3 Legacy Skills para sua classe
     - Você consegue resetar as Legacy Skill na guilda da sua classe pagando em zeny
@@ -148,7 +148,7 @@ As Legacy Skills são habilidades exclusivas de cada classe que adicionam uma no
 **Requisito:** Job 47  
 **Tipo:** Auxiliar algum NPC em um mapa remoto a coletar uma quantidade de itens
 
-![Menu de Legacy Skills](/docs/assets/images/guide_images/image98.png)
+![Menu de Legacy Skills](/assets/images/guide_images/image98.png)
 
 ---
 
@@ -204,7 +204,7 @@ As Legacy Skills são habilidades exclusivas de cada classe que adicionam uma no
 !!! quote "Ozzi"
     Para quem for para uma build de cast, é uma ótima opção. Além da opção de ter uma cura muito maior nos níveis mais altos.
 
-![Legacy Skills Noviço](/docs/assets/images/guide_images/image91.png)
+![Legacy Skills Noviço](/assets/images/guide_images/image91.png)
 
 ### Arqueiro (Archer)
 
@@ -275,7 +275,7 @@ As Legacy Skills são habilidades exclusivas de cada classe que adicionam uma no
 !!! quote "Ozzi"
     Basicamente uma forma de você não gastar tantas flechas durante o up frenético em alguma dungeon distante. Não é uma skill ruim, principalmente se você gosta de usar flechas mais raras durante o up como a ghost ou de status.
 
-![Legacy Skills Arqueiro](/docs/assets/images/guide_images/image38.png)
+![Legacy Skills Arqueiro](/assets/images/guide_images/image38.png)
 
 ### Mago (Mage)
 
@@ -347,7 +347,7 @@ As Legacy Skills são habilidades exclusivas de cada classe que adicionam uma no
 !!! quote "Ozzi"
     Para começo de jogo pode ser útil, mas convenhamos que a classe no geral não possui uma recuperação de HP tão alta para ocasionar uma diferença gritante na regeneração de SP. Também no mid e late game você não terá mais problemas com SP. Talvez com uma carta que habilite Heal ou em grupo possa ser útil para você não ficar sem SP.
 
-![Legacy Skills Mago](/docs/assets/images/guide_images/image80.png)
+![Legacy Skills Mago](/assets/images/guide_images/image80.png)
 
 ### Mercador (Merchant)
 
@@ -410,7 +410,7 @@ As Legacy Skills são habilidades exclusivas de cada classe que adicionam uma no
 !!! quote "Ozzi"
     É uma skill de desespero, pois é muito melhor você gastar zeny em consumível do que para usar skills. Ainda mais que overcharge e discount funcionam diferente nesse servidor.
 
-![Legacy Skills Mercador](/docs/assets/images/guide_images/image46.png)
+![Legacy Skills Mercador](/assets/images/guide_images/image46.png)
 
 ### Espadachim (Swordsman)
 
@@ -469,7 +469,7 @@ As Legacy Skills são habilidades exclusivas de cada classe que adicionam uma no
 !!! quote "Ozzi"
     Simples e fácil, você recebe menos dano enquanto a skill estiver ativa. Se somar essa com "Heavy Armor", você vai ser um baita de um Tank.
 
-![Legacy Skills Espadachim](/docs/assets/images/guide_images/image111.png)
+![Legacy Skills Espadachim](/assets/images/guide_images/image111.png)
 
 ### Gatuno (Thief)
 
@@ -554,14 +554,14 @@ Como se já não bastasse você quebrar a cabeça com as Legacy Skills, você ta
 - **Defender:** Focado em Defesa
 
 !!! warning "Atenção"
-    ![Atenção](/docs/assets/images/guide_images/image4.png) **Atenção** ![Atenção](/docs/assets/images/guide_images/image4.png)
+    ![Atenção](/assets/images/guide_images/image4.png) **Atenção** ![Atenção](/assets/images/guide_images/image4.png)
     
     - Você pode ter até 2 Battle Role!
     - Caso queira trocar, terá que pagar e tem cooldown de alguns dias.
 
 ## Sistema de AP
 
-![Barra de AP](/docs/assets/images/guide_images/image89.png)
+![Barra de AP](/assets/images/guide_images/image89.png)
 
 Ao ter uma Role, **você habilita todas as 4 skills daquela Role**, mas precisa de nível para usar as habilidades (níveis 30, 60 e 80).
 
@@ -570,7 +570,7 @@ Ao ter uma Role, **você habilita todas as 4 skills daquela Role**, mas precisa 
 - Não precisa dar dano - ser alvo ou tankar também gera AP
 - AP é usado para skills de Role (não usa SP)
 
-![Geração de AP](/docs/assets/images/guide_images/image175.png)
+![Geração de AP](/assets/images/guide_images/image175.png)
 
 !!! note "Nota"
     Na primeira versão do servidor, as skills de roles não eram muito boas, mas no rework atual, todas são úteis a depender do seu personagem 💚
@@ -579,7 +579,7 @@ Ao ter uma Role, **você habilita todas as 4 skills daquela Role**, mas precisa 
 
 ## Brawler Role Skills
 
-![Brawler Icon](/docs/assets/images/guide_images/image188.png)
+![Brawler Icon](/assets/images/guide_images/image188.png)
 
 **Passiva:** Você causa mais 10% de dano físico mas recebe 5% a mais de dano.
 
@@ -621,7 +621,7 @@ Ao ter uma Role, **você habilita todas as 4 skills daquela Role**, mas precisa 
 
 ## Shooter Role Skills
 
-![Shooter Icon](/docs/assets/images/guide_images/image172.png)
+![Shooter Icon](/assets/images/guide_images/image172.png)
 
 **Passiva:** Você causa mais 10% de dano físico a distância mas recebe mais 5% de dano.
 
@@ -661,7 +661,7 @@ Ao ter uma Role, **você habilita todas as 4 skills daquela Role**, mas precisa 
 
 ## Arcanist Role Skills
 
-![Arcanist Icon](/docs/assets/images/guide_images/image202.png)
+![Arcanist Icon](/assets/images/guide_images/image202.png)
 
 **Passiva:** Você causa mais 10% de dano mágico mas recebe mais 5% de dano.
 
@@ -703,7 +703,7 @@ Ao ter uma Role, **você habilita todas as 4 skills daquela Role**, mas precisa 
 
 ## Healer Role Skills
 
-![Healer Icon](/docs/assets/images/guide_images/image41.png)
+![Healer Icon](/assets/images/guide_images/image41.png)
 
 **Passiva:** Você cura 10% a mais, mas causa 20% de dano a menos.
 
@@ -747,7 +747,7 @@ Ao ter uma Role, **você habilita todas as 4 skills daquela Role**, mas precisa 
 
 ## Controller Role Skills
 
-![Controller Icon](/docs/assets/images/guide_images/image190.png)
+![Controller Icon](/assets/images/guide_images/image190.png)
 
 **Passiva:** Você tem 10% a mais de chance de causar status, mas causa 20% de dano a menos.
 
@@ -789,7 +789,7 @@ Ao ter uma Role, **você habilita todas as 4 skills daquela Role**, mas precisa 
 
 ## Defender Role Skills
 
-![Defender Icon](/docs/assets/images/guide_images/image104.png)
+![Defender Icon](/assets/images/guide_images/image104.png)
 
 **Passiva:** Você tem 10% de redução de dano, mas causa 20% de dano a menos.
 
