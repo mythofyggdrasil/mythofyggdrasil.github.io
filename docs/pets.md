@@ -12,7 +12,7 @@ Vamos começar do começo, como que eu pego um pet?
 
 Você vai precisar da ajuda do incrível Mr. Catchum (Alô Nintendo, olha o que estão fazendo!)
 
-![Mr. Catchum](/docs/assets/images/guide_images/image37.png)
+![Mr. Catchum](/assets/images/guide_images/image37.png)
 
 Ele fica dentro da taverna em todas as cidades e disponibiliza duas formas de receber itens para capturar um pet.
 
@@ -29,10 +29,10 @@ Mas caso opte por fazer através das trocas, segue os itens necessários para ad
 
 | Raça | Ícone | Raça | Ícone | Raça | Ícone |
 | :--- | :---: | :--- | :---: | :--- | :---: |
-| **Amorfo** | ![Ícone Amorfo](/docs/assets/images/guide_images/image49.png) | **Anjo** | ![Ícone Anjo](/docs/assets/images/guide_images/image133.png) | **Bruto** | ![Ícone Bruto](/docs/assets/images/guide_images/image153.png) |
-| **Demônio** | ![Ícone Demônio](/docs/assets/images/guide_images/image220.png) | **Dragão** | ![Ícone Dragão](/docs/assets/images/guide_images/image26.png) | **Demi Humano** | ![Ícone Demi Humano](/docs/assets/images/guide_images/image117.png) |
-| **Inseto** | ![Ícone Inseto](/docs/assets/images/guide_images/image142.png) | **Morto Vivo** | ![Ícone Morto Vivo](/docs/assets/images/guide_images/image131.png) | **Peixe** | ![Ícone Peixe](/docs/assets/images/guide_images/image183.png) |
-| | | **Planta** | ![Ícone Planta](/docs/assets/images/guide_images/image165.png) | | |
+| **Amorfo** | ![Ícone Amorfo](/assets/images/guide_images/image49.png) | **Anjo** | ![Ícone Anjo](/assets/images/guide_images/image133.png) | **Bruto** | ![Ícone Bruto](/assets/images/guide_images/image153.png) |
+| **Demônio** | ![Ícone Demônio](/assets/images/guide_images/image220.png) | **Dragão** | ![Ícone Dragão](/assets/images/guide_images/image26.png) | **Demi Humano** | ![Ícone Demi Humano](/assets/images/guide_images/image117.png) |
+| **Inseto** | ![Ícone Inseto](/assets/images/guide_images/image142.png) | **Morto Vivo** | ![Ícone Morto Vivo](/assets/images/guide_images/image131.png) | **Peixe** | ![Ícone Peixe](/assets/images/guide_images/image183.png) |
+| | | **Planta** | ![Ícone Planta](/assets/images/guide_images/image165.png) | | |
 
 > **Ozzi:** Não acho que compense você criar itens específicos para capturar monstros, a menos que você já tenha os itens sobrando. O tempo que você levaria para criar os itens, você faz a quest de coleta e recebe muito mais itens do que craftando.
 
@@ -52,10 +52,10 @@ Acho que é meio óbvio o que cada um faz, mas vamos lá.
 
 | Classe | Descrição | Exemplo de Skills |
 | :--- | :--- | :--- |
-| ![Dano Físico](/docs/assets/images/guide_images/image149.png) **Dano Físico** | Habilidades que ocasionam dano nos inimigos | Sonic Blow, Bash, Piercing, etc. |
-| ![Dano Mágico](/docs/assets/images/guide_images/image128.png) **Dano Mágico** | Realiza ataques elementais para ajudar na eliminação de inimigos | Lanças Elementais, Meteor, Storm Gust, etc. |
-| ![Suporte](/docs/assets/images/guide_images/image164.png) **Suporte** | O suporte tem skills que auxiliam durante a luta contra os monstros | Angelus, Heal, Agi up, Bless, etc. |
-| ![Tanque](/docs/assets/images/guide_images/image157.png) **Tanque** | O tanque tem skills que auxiliam em sua durabilidade contra monstros | Solid Skin, Defense Aura, Reflect Shield etc. |
+| ![Dano Físico](/assets/images/guide_images/image149.png) **Dano Físico** | Habilidades que ocasionam dano nos inimigos | Sonic Blow, Bash, Piercing, etc. |
+| ![Dano Mágico](/assets/images/guide_images/image128.png) **Dano Mágico** | Realiza ataques elementais para ajudar na eliminação de inimigos | Lanças Elementais, Meteor, Storm Gust, etc. |
+| ![Suporte](/assets/images/guide_images/image164.png) **Suporte** | O suporte tem skills que auxiliam durante a luta contra os monstros | Angelus, Heal, Agi up, Bless, etc. |
+| ![Tanque](/assets/images/guide_images/image157.png) **Tanque** | O tanque tem skills que auxiliam em sua durabilidade contra monstros | Solid Skin, Defense Aura, Reflect Shield etc. |
 
 ## Lista de Pets
 
@@ -134,7 +134,7 @@ Todos os pets comem o mesmo alimento, que é o Pet Food que vende nas lojas de u
 
 Você consegue ver todas as informações de seu pet e trocar o nome dele no menu, que pode ser aberto clicando com o botão direito no seu pet ou `CTRL + J`.
 
-![Menu do Pet](/docs/assets/images/guide_images/image55.png)
+![Menu do Pet](/assets/images/guide_images/image55.png)
 
 Quanto maior o Friendship do seu pet, menor será o tempo para que ele utilize habilidades, sendo respectivamente 2% / 7% / 14% / 25%.
 
@@ -142,7 +142,7 @@ Quanto maior o Friendship do seu pet, menor será o tempo para que ele utilize h
 
 O DNA representa a raridade do seu pet, que pode aleatoriamente vir com três opções, sendo o Brilhante, o com cores diferentes ou os dois, brilhante e de cor diferente.
 
-![Exemplos de DNA](/docs/assets/images/guide_images/image17.png)
+![Exemplos de DNA](/assets/images/guide_images/image17.png)
 
 ## Equipamentos para Pets
 
@@ -152,10 +152,10 @@ Esses equipamentos são criados com o Mr. Catchum e precisam de um equipamento +
 
 | Equipamento | Bônus |
 | :--- | :--- |
-| ![Pet Knife](/docs/assets/images/guide_images/image103.png) | ATK +25<br>HIT + 10 |
-| ![Pet Mantle](/docs/assets/images/guide_images/image88.png) | Recuperação de HP + 25%<br>Efetividade da Cura +10% |
-| ![Pet Guard](/docs/assets/images/guide_images/image45.png) | DEF + 25<br>HP Máximo + 10% |
-| ![Pet Backpack](/docs/assets/images/guide_images/image77.png) | Capacidade de Peso + 100<br>Autoloot |
+| ![Pet Knife](/assets/images/guide_images/image103.png) | ATK +25<br>HIT + 10 |
+| ![Pet Mantle](/assets/images/guide_images/image88.png) | Recuperação de HP + 25%<br>Efetividade da Cura +10% |
+| ![Pet Guard](/assets/images/guide_images/image45.png) | DEF + 25<br>HP Máximo + 10% |
+| ![Pet Backpack](/assets/images/guide_images/image77.png) | Capacidade de Peso + 100<br>Autoloot |
 
 > **Ozzi:** Com a Backpack seu monstro vira seu autoloot, pois ele pega todos os itens que caem do chão e colocando no seu inventário. É um dos equipamentos mais úteis.
 
@@ -173,7 +173,7 @@ Para isso, você precisa ter pelo menos três pets e um Kit de Aventura, que ven
 
 Fale com o NPC Pawlsey Whisker em qualquer cidade principal para poder adquirir os itens necessários e também começar a aventura.
 
-![Pawlsey Whisker](/docs/assets/images/guide_images/image32.png)
+![Pawlsey Whisker](/assets/images/guide_images/image32.png)
 
 O ideal é ter um Pet de Dano, um Pet de Tank e um Pet Suporte / Mágico, mas fica a escolha do freguês.
 
@@ -185,14 +185,14 @@ Além de comprar os itens, você pode também dropar os bonecos de monstros que 
 
 | Boneco | Bônus |
 | :--- | :--- |
-| ![Poring Doll](/docs/assets/images/guide_images/image173.png) Poring Doll | Aumenta a sua amizade com os pets em 10% |
-| ![Chonchon Doll](/docs/assets/images/guide_images/image197.png) Chonchon Doll | Adiciona aos seus pets a possibilidade de utilizarem teleport 8 vezes. |
-| ![Spore Doll](/docs/assets/images/guide_images/image71.png) Spore Doll | Aumenta a recuperação de HP de seus pets durante a aventura em 20% |
-| ![Rocker Doll](/docs/assets/images/guide_images/image83.png) Rocker Doll | Diminui o cooldown de todas as habilidades em 20%. |
-| ![Smokie Doll](/docs/assets/images/guide_images/image56.png) Smokie Doll | Aumenta a chance dos pets usarem habilidades em 20%. |
-| ![Munak Doll](/docs/assets/images/guide_images/image166.png) Munak Doll | Aumenta a sua amizade com os pets em 20% |
-| ![Baphomet Doll](/docs/assets/images/guide_images/image129.png) Baphomet Doll | Aumenta a velocidade de movimentos de seus pets em 50% e adiciona a possibilidade de seus pets teleportarem 5 vezes. |
-| ![Osiris Doll](/docs/assets/images/guide_images/image86.png) Osiris Doll | Aumenta a recuperação de HP de seus pets em 100% e diminui o tempo necessário para a recuperação em 50%. |
+| ![Poring Doll](/assets/images/guide_images/image173.png) Poring Doll | Aumenta a sua amizade com os pets em 10% |
+| ![Chonchon Doll](/assets/images/guide_images/image197.png) Chonchon Doll | Adiciona aos seus pets a possibilidade de utilizarem teleport 8 vezes. |
+| ![Spore Doll](/assets/images/guide_images/image71.png) Spore Doll | Aumenta a recuperação de HP de seus pets durante a aventura em 20% |
+| ![Rocker Doll](/assets/images/guide_images/image83.png) Rocker Doll | Diminui o cooldown de todas as habilidades em 20%. |
+| ![Smokie Doll](/assets/images/guide_images/image56.png) Smokie Doll | Aumenta a chance dos pets usarem habilidades em 20%. |
+| ![Munak Doll](/assets/images/guide_images/image166.png) Munak Doll | Aumenta a sua amizade com os pets em 20% |
+| ![Baphomet Doll](/assets/images/guide_images/image129.png) Baphomet Doll | Aumenta a velocidade de movimentos de seus pets em 50% e adiciona a possibilidade de seus pets teleportarem 5 vezes. |
+| ![Osiris Doll](/assets/images/guide_images/image86.png) Osiris Doll | Aumenta a recuperação de HP de seus pets em 100% e diminui o tempo necessário para a recuperação em 50%. |
 
 ## Mapas de Aventura
 
@@ -223,7 +223,7 @@ Importante que só passa o tempo da aventura enquanto você estiver na cidade, e
 
 Como você precisa ficar na cidade aguardando, então é basicamente um sistema AFK de recompensa.
 
-![Tela de Pet Adventure](/docs/assets/images/guide_images/image162.png)
+![Tela de Pet Adventure](/assets/images/guide_images/image162.png)
 
 Quando o tempo terminar, você pegará seus pets novamente e também os itens que eles droparam.
 
