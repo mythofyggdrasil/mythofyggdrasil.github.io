@@ -14,7 +14,7 @@ Cada ponto de durabilidade proporciona uma chance do equipamento não quebrar ao
 - Se o over falhar, **ao invés de perder o equipamento, você perde 1 ponto de durabilidade**
 - Com durabilidade 0, se falhar novamente no over, **aí sim o equipamento quebra**
 
-![Interface de refino mostrando durabilidade](/docs/assets/images/guide_images/image148.png)
+![Interface de refino mostrando durabilidade](/assets/images/guide_images/image148.png)
 
 ## Importância da Durabilidade
 
@@ -47,7 +47,7 @@ Existem ao todo 4 níveis de Idrik e cada um deles aumenta gradativamente sua ch
 
 **Rough Idrik < Flawed Idrik < Pure Idrik < Tempered Idrik**
 
-![Progressão dos níveis de Idrik](/docs/assets/images/guide_images/image54.png)
+![Progressão dos níveis de Idrik](/assets/images/guide_images/image54.png)
 
 **Progressão:** Você precisa de 2 de um mesmo nível para criar 1 do próximo nível.
 
@@ -67,7 +67,7 @@ Quanto maior o nível de refino, maior a quantidade de idrik necessário para ev
 - **7 Pure Idrik** ou
 - **8 Tempered Idrik**
 
-![Custos de refino progressivos](/docs/assets/images/guide_images/image168.png)
+![Custos de refino progressivos](/assets/images/guide_images/image168.png)
 
 **Exemplo extremo:** Para dar over de +19 para o +20 você precisa de:
 - **20 Rough Idrik** ou
