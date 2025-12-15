@@ -1,102 +1,94 @@
-# Durabilidade de Equipamento e Refino
+# Durabilidade e Refino
 
-Calma, não é igual Diablo que você perde durabilidade conforme usa o
-equipamento, funciona de outra forma.
+## Sistema de Durabilidade
 
-Toda vez que você dropar um equipamento, ele vai vir com um número
-aleatório de durabilidade sendo apresentado.
+Calma, não é igual Diablo que você perde durabilidade conforme usa o equipamento, funciona de outra forma.
 
-Cada ponto de durabilidade proporciona uma chance do equipamento não
-quebrar ao ser refinado após o limite de quebra.
+Toda vez que você dropar um equipamento, ele vai vir com um número aleatório de durabilidade sendo apresentado.
 
-Então vamos supor uma faca com durabilidade 3, você dá over até +7 e a
-partir do +8 ela pode quebrar. Mas caso o over falhe, ao invés de perder
-o equipe, você perde 1 ponto de durabilidade.
+Cada ponto de durabilidade proporciona uma chance do equipamento não quebrar ao ser refinado após o limite de quebra.
 
-Para quem estiver curioso, a durabilidade 0 ainda é uma durabilidade,
-então a arma só quebra se estiver com durabilidade 0 e falhar novamente
-no over.
+**Exemplo:** Uma faca com durabilidade 3:
+- Você dá over até +7 (limite seguro)
+- A partir do +8 ela pode quebrar
+- Se o over falhar, **ao invés de perder o equipamento, você perde 1 ponto de durabilidade**
+- Com durabilidade 0, se falhar novamente no over, **aí sim o equipamento quebra**
 
-![](/assets/images/guide_images/image148.png){width="3.1666666666666665in"
-height="4.864583333333333in"}
+![Interface de refino mostrando durabilidade](/docs/assets/images/guide_images/image148.png)
 
-Por conta do sistema de durabilidade, muitos equipamentos ou cartas
-proporcionam benefícios de acordo com o over dos equipamentos.
+## Importância da Durabilidade
 
-Com a possibilidade de tentar dar over até a durabilidade acabar, o
-limite de refino dos equipamento agora é de +20 ao invés do padrão
-+10!!!
+Por conta do sistema de durabilidade, muitos equipamentos ou cartas proporcionam benefícios de acordo com o over dos equipamentos.
 
-Não precisa ficar com dó de gastar e manter um equipamento com +3 de
-durabilidade, você está perdendo performance, mas por outro lado, o
-refino está bem caro!
+Com a possibilidade de tentar dar over até a durabilidade acabar, **o limite de refino dos equipamentos agora é de +20** ao invés do padrão +10!!!
 
-O equipamento tem chance de vir com durabilidades maiores de acordo com
-o nível do inimigo que foi vencido, funciona da seguinte forma:
+!!! note "Dica"
+    Não precisa ficar com dó de gastar e manter um equipamento com +3 de durabilidade, você está perdendo performance, mas por outro lado, o refino está bem caro!
 
-**Monstros Normais:** Durabilidade entre 1 e 6, sendo a mais comum 3 e
-4.
+## Durabilidade por Tipo de Monstro
 
-**Monstros Espirituais:** Durabilidade entre 3 e 8, sendo o mais comum 5
-e 6.
+O equipamento tem chance de vir com durabilidades maiores de acordo com o nível do inimigo que foi vencido:
 
-**Monstros Mini Boss:** Durabilidade entre 5 e 10, sendo o mais comum 7
-e 8.
+| Tipo de Monstro | Faixa de Durabilidade | Mais Comum |
+| :--- | :--- | :--- |
+| **Monstros Normais** | 1 a 6 | 3 e 4 |
+| **Monstros Espirituais** | 3 a 8 | 5 e 6 |
+| **Monstros Mini Boss** | 5 a 10 | 7 e 8 |
 
-Nesse servidor, para dar refino em um equipamento você não vai usar nem
-oridecon e nem elunium, mas uma pedra especial chamada Idrik.
+## Sistema de Idrik
 
-O idrik dropa de praticamente todos os monstros, portanto é fácil você
-ficar com grandes quantidades dele, mas acredite, você vai precisar
-hahahaha
+Nesse servidor, para dar refino em um equipamento você **não vai usar nem oridecon e nem elunium**, mas uma pedra especial chamada **Idrik**.
 
-Existem ao todo 5 níveis de Idrik e cada um deles aumenta gradativamente
-sua chance de refino.
+O idrik dropa de praticamente todos os monstros, portanto é fácil você ficar com grandes quantidades dele, mas acredite, você vai precisar!
 
-**Rough Idrik \<\< Flawed Idrik \<\< Pure Idrik \<\< Tempered Idrik**
+### Níveis de Idrik
 
-Você precisa de 2 de um mesmo level para atingir o próximo, então, em
-exponencial, você precisaria de **8 Rough Idrik** para fazer um **1
-Tempered Idrik**.
+Existem ao todo 4 níveis de Idrik e cada um deles aumenta gradativamente sua chance de refino:
 
-![](/assets/images/guide_images/image54.png){width="6.8891655730533685in"
-height="1.080444006999125in"}
+**Rough Idrik < Flawed Idrik < Pure Idrik < Tempered Idrik**
 
-Quanto maior o nível de refino, maior a quantidade de idrik necessário
-para evoluir o equipamento.
+![Progressão dos níveis de Idrik](/docs/assets/images/guide_images/image54.png)
 
-Por exemplo uma bota do +4 para o +5 precisa de:
+**Progressão:** Você precisa de 2 de um mesmo nível para criar 1 do próximo nível.
 
-**5 Rough Idrik** ou **6 Flawed Idrik** ou **7 Pure Idrik** ou **8
-Tempered Idrik**.
+**Cálculo exponencial:** Para fazer 1 Tempered Idrik você precisaria de:
+- 2 Pure Idrik
+- Que precisam de 4 Flawed Idrik cada (total 8)
+- Que precisam de 8 Rough Idrik cada (total 32)
+- **Resultado: 32 Rough Idrik para 1 Tempered Idrik** (corrigindo o cálculo anterior)
 
-![](/assets/images/guide_images/image168.png)
+## Custos de Refino
 
-Então para chegar dar over de +19 para o +20 você precisa de:
+Quanto maior o nível de refino, maior a quantidade de idrik necessário para evoluir o equipamento.
 
-**20 Rough Idrik** ou **21 Flawed Idrik** ou **22 Pure Idrik** ou **23
-Tempered Idrik**.
+**Exemplo:** Uma bota do +4 para o +5 precisa de:
+- **5 Rough Idrik** ou
+- **6 Flawed Idrik** ou
+- **7 Pure Idrik** ou
+- **8 Tempered Idrik**
 
-Se quiser fazer com Tempered Idrik a partir de Rough Idrik, você vai
-precisar de **184 Rough Idrik 👀**
+![Custos de refino progressivos](/docs/assets/images/guide_images/image168.png)
 
-Fazendo conta de padeiro aqui, a cada nível você gasta 1 Rough Idrik a
-mais do que o refino anterior, então do +0 até o +20 só usando Rough
-Idrik você vai gastar **231 Rough Idrik** se não falhar nenhuma vez ou
-se você quiser fazer só com o maior nível para a maior chance, só
-multiplicar por 8, totalizando **1848 Rough Idrik**. **👀👀👀**
+**Exemplo extremo:** Para dar over de +19 para o +20 você precisa de:
+- **20 Rough Idrik** ou
+- **21 Flawed Idrik** ou
+- **22 Pure Idrik** ou
+- **23 Tempered Idrik**
 
-Mas calma! Conforme você elimina monstros mais fortes, eles dropam Idrik
-mais evoluídos também, tornando o processo de refino um pouco mais
-fácil.
+### Cálculo Completo do +0 ao +20
 
-Os demais níveis de Idrik só ficam disponíveis para usar no refino após
-você atingir o nível de refino que pode ocasionar o equipamento perder
-durabilidade. (Equipamento do +4 para o +5 por exemplo).
+Considerando apenas Rough Idrik (sem falhas):
+- A cada nível você gasta 1 Rough Idrik a mais que o nível anterior
+- Série: 1 + 2 + 3 + ... + 20
+- **Total: 210 Rough Idrik** (não 231 como mencionado anteriormente)
 
-*Ozzi: Vale muito a pena você usar Idrik mais poderosos para diminuir a
-chance de perder durabilidade, mesmo que sejam 2%\~5%.*
+Se converter tudo para Tempered Idrik (cada um custando 32 Rough Idrik):
+- **Total aproximado: 6.720 Rough Idrik** (210 × 32)
 
----{width="1.0674420384951882in"
-height="0.9340113735783027in"}
+!!! warning "Importante"
+    Os demais níveis de Idrik só ficam disponíveis para usar no refino após você atingir o nível de refino que pode ocasionar o equipamento perder durabilidade (equipamento do +4 para o +5, por exemplo).
 
+## Dica Final
+
+!!! tip "Dica do Ozzi"
+    Vale muito a pena você usar Idrik mais poderosos para diminuir a chance de perder durabilidade, mesmo que sejam 2%~5%. Conforme você elimina monstros mais fortes, eles dropam Idrik mais evoluídos também, tornando o processo de refino um pouco mais fácil.
