@@ -1,300 +1,140 @@
 # Cura e Sucos
 
-Essa é uma das mudanças que altera muito a dinâmica do jogo.
+## Como funciona a cura no Myth of Yggdrasil?
 
-Você acha que vai ficar spammando poção para matar aquele monstro level
-mais alto que você? Não meu amiguinho, você precisa ser estratégico,
-pois as comidas e poções funcionam por tempo.
+Esta é uma das mudanças que altera muito a dinâmica do jogo.
 
-Para exemplificar, uma poção vermelha vai te curar no ato em 40 de HP e
-depois por 4 segundos curando 20 de HP por segundo.
+Você acha que vai ficar spammando poção para matar aquele monstro level mais alto que você? Não meu amiguinho, você precisa ser estratégico, pois as comidas e poções funcionam por tempo.
 
-Já as comidas/ervas duram mais tempo de cura por tempo e aumentam
-temporariamente sua vida, mas não tem um valor de regeneração inicial,
-não sendo indicadas para casos de emergência.
+Para exemplificar, uma poção vermelha vai te curar no ato em **40 de HP** e depois por **4 segundos** curando **20 de HP por segundo**.
 
-![](/assets/images/guide_images/image181.png){width="3.2031255468066493in"
-height="2.139073709536308in"}![](/assets/images/guide_images/image196.png){width="3.5468755468066493in"
-height="2.1259219160104985in"}
+Já as comidas/ervas duram mais tempo de cura por tempo e aumentam temporariamente sua vida, mas não tem um valor de regeneração inicial, não sendo indicadas para casos de emergência.
 
-Para deixar ainda mais frenético,, os itens de regeneração possuem um
-cooldown, que é o tempo que você leva para "comer" ele. Então não dá
-para sair spamando.
+![Interface de cura](/docs/assets/images/guide_images/image181.png)
+![Exemplo de cura](/docs/assets/images/guide_images/image196.png)
 
-Um dos itens mais simples de adquirir para cura são as ervas, embora
-elas não curem imediatamente, elas possuem maior poder de regeneração ao
-longo do tempo.
+Para deixar ainda mais frenético, os itens de regeneração possuem um **cooldown**, que é o tempo que você leva para "comer" ele. Então não dá para sair spamando.
 
-Você também pode fazer sucos na taverna de prontera, usando uma fruta e
-uma garrafa de suco. Elas possuem efeitos diversos, então vale uma
-olhada.
+Um dos itens mais simples de adquirir para cura são as ervas, embora elas não curem imediatamente, elas possuem maior poder de regeneração ao longo do tempo.
 
-Você consegue usar um item do tipo comida (Cogumelo, Pão, Peixe, Suco,
-etc), um tipo de fruta (Ervas, Frutas, etc) e também um item de poção
-(Vermelha, Amarela, Verde, Laranja, Branca ou Verde) ao mesmo tempo,
-pois são considerados cooldowns diferentes.
+## Combinações de Cura
 
-Então deixa uma erva vermelha funcionando e usa poção se precisar
-hahahahaha
+Você consegue usar **três tipos diferentes de itens** simultaneamente:
 
-Vale mencionar que a **poção verde** se tornou um item de regeneração
-entre a **Amarela** e a **Laranja**!
+1. **Comida** (Cogumelo, Pão, Peixe, Suco, etc)
+2. **Fruta/Erva** (Ervas, Frutas, etc)
+3. **Poção** (Vermelha, Amarela, Verde, Laranja, Branca ou Verde)
+
+!!! tip "Dica"
+    Deixe uma erva vermelha funcionando e use poção se precisar de cura imediata!
+
+**Importante:** A **poção verde** se tornou um item de regeneração entre a **Amarela** e a **Laranja**!
+
+## Tipos de Poções
 
 No Tool Dealer temos três tipos de poções disponíveis para compra:
 
-![](/assets/images/guide_images/image94.png){width="0.4322922134733158in"
-height="0.4322922134733158in"}
+### **Potion** (Poção Normal)
+![Potion](/docs/assets/images/guide_images/image94.png)
 
-**Potion:** Cura um valor inicial de imediato e mais um valor de cura a
-cada 1 segundo ao longo de 4 segundos.
+- **Efeito:** Cura um valor inicial imediatamente + cura a cada 1 segundo por 4 segundos
+- **Cura:** ★★
+- **Peso:** ★★★
+- **Preço:** ★★★★★
+- **Tempo:** ★★★★★
 
-Cura: ★★ Peso: ★★★ Preço: ★★★★★ Tempo: ★★★★★
+### **Slim Potion** (Poção Magra)
+![Slim Potion](/docs/assets/images/guide_images/image203.png)
 
-![](/assets/images/guide_images/image203.png){width="0.3645833333333333in"
-height="0.3645833333333333in"}
+- **Efeito:** Cura a cada 0,5 segundos por 2 segundos (não cura instantaneamente)
+- **Indicada para:** Classes com pouco peso (Sacerdotes, Magos, Arqueiros)
+- **Custo:** Dobro da poção normal
+- **Peso:** Metade da poção normal
+- **Cura:** ★
+- **Peso:** ★★★★★
+- **Preço:** ★★★
+- **Tempo:** ★★★
 
-**Slim Potion:** Ela pesa a metade, então é recomendada para as classes
-que não aguentam muito peso (Sacerdotes, Magos, Arqueiros, etc)
+### **Thick Portion** (Poção Grossa)
+![Thick Portion](/docs/assets/images/guide_images/image208.png)
 
-Ela custa o dobro que a poção convencional, mas o fator de cura dela é
-mais rápido, embora não cure instantaneamente nenhum valor.
+- **Efeito:** Cura inicial muito maior, mas sem cura por tempo
+- **Peso:** Dobro da poção normal
+- **Preço:** Triplo da poção normal
+- **Cura:** ★★★★★
+- **Peso:** ★
+- **Preço:** ★
+- **Tempo:** ★
 
-A cura dela ocorre a cada 0,5 segundos por 2 segundos.
+!!! note "Dica do Ozzi"
+    Muitas vezes eu deixei um Cogumelo e também uma Erva curando por tempo enquanto usava uma thick para me manter em batalha.
 
-Cura: ★ Peso: ★★★★★ Preço: ★★★ Tempo: ★★★
+---
 
-![](/assets/images/guide_images/image208.png){width="0.3645833333333333in"
-height="0.3645833333333333in"}
+## Sucos na Taverna
 
-**Thick Portion:** É o triplo do preço de uma poção normal, mas ela tem
-uma cura inicial muito maior. Mas ela não tem uma cura por tempo e
-também pesa o dobro que uma poção.
+Com os itens de cura sendo por tempo, você vai precisar de toda a ajuda possível para conseguir se manter com seu HP e SP cheios, e para isso os sucos agora são importantes!
 
-Cura: ★★★★★ Peso: ★ Preço: ★ Tempo: ★
+**Local:** Taverna de Prontera (170, 168) - NPC Tapster
 
-Então o ideal é se organizar em suas poções, pois caso você não tenha a
-habilidade Heal ou um amigo para te ajudar, você vai ficar muito
-dependente de qual poção é melhor usar em cada momento.
+### Como fazer sucos:
+1. **Empty Juice Bottle:** Vendido pelo NPC por 25z
+   - Ou troque três Empty Bottle por uma caixa com 15 Empty Juice Bottle
+2. **Ingredientes:** Frutas ou vegetais específicos
+3. **Processo:** Não tem quest, é só fazer o suco na taverna
 
-*Ozzi: Muitas vezes eu deixei um Cogumelo e também uma Erva curando por
-tempo enquanto usava uma thick para me manter em batalha.*
+**Cooldown:** Todos os sucos têm 4 segundos de cooldown
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Mecânica:** Ao usar um suco, você será curado por:
+- Valor imediato (instant)
+- Valor adicional por 1 segundo nos próximos 4 segundos (Over)
+- Cada suco tem um nível mínimo necessário para usar
 
----{width="1.0674420384951882in"
-height="0.9340113735783027in"}
+### Sucos de HP
 
-# Sucos na Taverna
+| Suco | Imagem | Efeito | Nível Mínimo |
+| :--- | :--- | :--- | :--- |
+| **Apple Juice** (Maçã) | ![Apple Juice](/docs/assets/images/guide_images/image115.png) | Instant: 32~40 HP<br>Over: 12~20 HP | LV 1 |
+| **Carrot Juice** (Cenoura) | ![Carrot Juice](/docs/assets/images/guide_images/image73.png) | Instant: 64~80 HP<br>Over: 24~40 HP | LV 20 |
+| **Banana Juice** (Banana) | ![Banana Juice](/docs/assets/images/guide_images/image146.png) | Instant: 128~160 HP<br>Over: 48~80 HP | LV 40 |
+| **Pumpkin Juice** (Abóbora) | ![Pumpkin Juice](/docs/assets/images/guide_images/image144.png) | Instant: 256~320 HP<br>Over: 96~160 HP | LV 60 |
+| **Coconut Juice** (Coco) | ![Coconut Juice](/docs/assets/images/guide_images/image207.png) | Instant: 512~640 HP<br>Over: 192~320 HP | LV 80 |
 
-Com os itens de cura sendo por tempo, você vai precisar de toda a ajuda
-possível para conseguir se manter com seu HP e SP cheios, e para isso os
-sucos agora são importantes!
+### Sucos de SP
 
-Na Taverna de Prontera (170, 168) você vai conhecer o Tapster, que cria
-sucos para você desde que você traga os itens necessários.
+| Suco | Imagem | Efeito | Nível Mínimo |
+| :--- | :--- | :--- | :--- |
+| **Melon Juice** (Melão) | ![Melon Juice](/docs/assets/images/guide_images/image215.png) | Instant: 4~6 SP<br>Over: 2~3 SP | LV 1 |
+| **Strawberry Juice** (Morango) | ![Strawberry Juice](/docs/assets/images/guide_images/image184.png) | Instant: 9~12 SP<br>Over: 3~6 SP | LV 1 |
+| **Orange Juice** (Laranja) | ![Orange Juice](/docs/assets/images/guide_images/image20.png) | Instant: 18~24 SP<br>Over: 6~12 SP | LV 20 |
+| **Watermelon Juice** (Melancia) | ![Watermelon Juice](/docs/assets/images/guide_images/image119.png) | Instant: 18~24 SP<br>Over: 6~12 SP | LV 20 |
+| **Grape Juice** (Uva) | ![Grape Juice](/docs/assets/images/guide_images/image211.png) | Instant: 27~36 SP<br>Over: 9~18 SP | LV 40 |
+| **Lemon Juice** (Limão) | ![Lemon Juice](/docs/assets/images/guide_images/image170.png) | Instant: 36~48 SP<br>Over: 12~24 SP | LV 60 |
+| **Peach Juice** (Pêssego) | ![Peach Juice](/docs/assets/images/guide_images/image194.png) | Instant: 36~48 SP<br>Over: 12~24 SP | LV 60 |
+| **Pineapple Juice** (Abacaxi) | ![Pineapple Juice](/docs/assets/images/guide_images/image134.png) | Instant: 45~60 SP<br>Over: 15~30 SP | LV 80 |
 
-Os sucos podem ser de recuperação de HP ou de Recuperação de SP
+## Comparação: Sucos vs Poções
 
-Para fazer os sucos, você vai precisar de Empty Juice Bottle, que é
-vendido pelo próprio NPC por 25z ou você pode trocar três Empty Bottle
-por uma caixa com 15 Empty Juice Bottle.
+**Exemplo: Suco de Maçã (nível mínimo)**
+- Cura instantânea: 32~40 HP
+- Cura over: 12~20 HP
+- **Total: ~80 HP**
 
-Acredito que por ser tão baratinho, é mais fácil comprar do que trocar
-garrafa vazia.
+**Exemplo: Poção Vermelha (nível mínimo)**
+- Cura instantânea: 40 HP
+- Cura over: 20 HP
+- **Total: ~120 HP**
 
-Agora é só ter os itens para fazer suco. Exatamente, não tem uma quest,
-é só fazer o suco na taverna.
+## Vantagens dos Sucos
 
-Todos os sucos possuem o mesmo cooldown de 4 segundos para que possam
-ser utilizados novamente.
+1. **Mais baratos:** Você dropa os ingredientes enquanto enfrenta monstros
+2. **Vendedores em Prontera:**
+   - **Vegetais (49,58):** Cenoura (35z), Abóbora (215z)
+   - **Frutas (101,49):** Maçã (5z), Banana (95z), Melão (45z)
 
-Ao usar um suco, você será curado por um valor imediatamente (instant) e
-mais um valor por 1 segundos nos próximos 4 segundos (Over). Mas cada um
-deles tem um nível mínimo que seu personagem precisa estar para usar.
+**Comparação de custo-benefício:**
+- Suco de cenoura (45z) ≈ Poção Laranja (70z)
+- Suco de abóbora (230z) ≈ Poção Branca (815z)
 
-<<<<<<< HEAD
-| **Sucos de HP**      |                      |                      |
-|---|---|---|
-| **Apple Juice**      | **Carrot Juice**     | **Banana Juice**     |
-|---|---|---|
-=======
-+----------------------+----------------------+----------------------+
-| **Sucos de HP**      |                      |                      |
-+======================+======================+======================+
-| **Apple Juice**      | **Carrot Juice**     | **Banana Juice**     |
->>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
-|                      |                      |                      |
-| ![](media/im         | ![](media/i          | !                    |
-| age115.png){width="1 | mage73.png){width="1 | [](media/image146.pn |
-| .8333333333333333in" | .8229166666666667in" | g){width="1.84375in" |
-| height="0.           | height="0.84375in"}  | height="0.875in"}    |
-| 8645833333333334in"} |                      |                      |
-|                      | Instant: 64\~80 HP   | Instant: 128\~160 HP |
-| Instant: 32\~40 HP   |                      |                      |
-|                      | Over: 24\~40 HP      | Over: 48\~80 HP      |
-| Over: 12\~20 HP      |                      |                      |
-|                      | LV 20                | LV 40                |
-| LV 1                 |                      |                      |
-<<<<<<< HEAD
-|---|---|---|
-| **Pumpkin Juice**    | **Coconut Juice**    |                      |
-|---|---|---|
-|---|---|---|
-|                      |                      |                      |
-|---|---|---|
-| ![](media/im         | ![](media/im         |                      |
-|---|---|---|
-| age144.png){width="1 | age207.png){width="1 |                      |
-|---|---|---|
-| .8541666666666667in" | .8333333333333333in" |                      |
-|---|---|---|
-| height="0.           | height="0.           |                      |
-|---|---|---|
-| 8958333333333334in"} | 8541666666666666in"} |                      |
-|---|---|---|
-|                      |                      |                      |
-|---|---|---|
-| Instant: 256\~320 HP | Instant: 512\~640 HP |                      |
-|---|---|---|
-|                      |                      |                      |
-|---|---|---|
-| Over: 96\~160 HP     | Over: 192\~320 HP    |                      |
-|---|---|---|
-|                      |                      |                      |
-|---|---|---|
-| LV 60                | LV 80                |                      |
-|                      |                      |                      |
-|---|---|---|
-| **Sucos de SP**      |                      |                      |
-|---|---|---|
-| **Melon Juice**      | **Strawberry Juice** | **Orange Juice**     |
-|---|---|---|
-=======
-+----------------------+----------------------+----------------------+
-| **Pumpkin Juice**    | **Coconut Juice**    |                      |
-|                      |                      |                      |
-| ![](media/im         | ![](media/im         |                      |
-| age144.png){width="1 | age207.png){width="1 |                      |
-| .8541666666666667in" | .8333333333333333in" |                      |
-| height="0.           | height="0.           |                      |
-| 8958333333333334in"} | 8541666666666666in"} |                      |
-|                      |                      |                      |
-| Instant: 256\~320 HP | Instant: 512\~640 HP |                      |
-|                      |                      |                      |
-| Over: 96\~160 HP     | Over: 192\~320 HP    |                      |
-|                      |                      |                      |
-| LV 60                | LV 80                |                      |
-+----------------------+----------------------+----------------------+
-|                      |                      |                      |
-+----------------------+----------------------+----------------------+
-| **Sucos de SP**      |                      |                      |
-+----------------------+----------------------+----------------------+
-| **Melon Juice**      | **Strawberry Juice** | **Orange Juice**     |
->>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
-|                      |                      |                      |
-| ![](media/im         | ![](media/im         | ![](media/i          |
-| age215.png){width="1 | age184.png){width="1 | mage20.png){width="1 |
-| .8541666666666667in" | .8229166666666667in" | .8645833333333333in" |
-| height="0.           | height="0.           | height="0.           |
-| 8645833333333334in"} | 8645833333333334in"} | 8645833333333334in"} |
-|                      |                      |                      |
-| Instant: 4\~6 SP     | Instant: 9\~12 SP    | Instant: 18 \~24 SP  |
-|                      |                      |                      |
-| Over: 2\~3 SP        | Over: 3\~6 SP        | Over: 6\~12 SP       |
-|                      |                      |                      |
-| LV 1                 | LV 1                 | LV 20                |
-<<<<<<< HEAD
-|---|---|---|
-| **Watermelon Juice** | **Grape Juice**      | **Lemon Juice**      |
-|---|---|---|
-|---|---|---|
-|                      |                      |                      |
-|---|---|---|
-| !                    | ![](media/im         | ![](media/im         |
-|---|---|---|
-| [](media/image119.pn | age211.png){width="1 | age170.png){width="1 |
-|---|---|---|
-| g){width="1.84375in" | .8229166666666667in" | .8645833333333333in" |
-|---|---|---|
-| height="0.           | height="0.84375in"}  | height="0.875in"}    |
-|---|---|---|
-| 8645833333333334in"} |                      |                      |
-|---|---|---|
-|                      | Instant: 27\~36 SP   | Instant: 36\~48 SP   |
-|---|---|---|
-| Instant: 18\~24 SP   |                      |                      |
-|---|---|---|
-|                      | Over: 9\~18 SP       | Over: 12\~24 SP      |
-|---|---|---|
-| Over: 6\~12 SP       |                      |                      |
-|---|---|---|
-|                      | LV 40                | LV 60                |
-|---|---|---|
-| LV 20                |                      |                      |
-| **Peach Juice**      | **Pineapple Juice**  |                      |
-|---|---|---|
-=======
-+----------------------+----------------------+----------------------+
-| **Watermelon Juice** | **Grape Juice**      | **Lemon Juice**      |
-|                      |                      |                      |
-| !                    | ![](media/im         | ![](media/im         |
-| [](media/image119.pn | age211.png){width="1 | age170.png){width="1 |
-| g){width="1.84375in" | .8229166666666667in" | .8645833333333333in" |
-| height="0.           | height="0.84375in"}  | height="0.875in"}    |
-| 8645833333333334in"} |                      |                      |
-|                      | Instant: 27\~36 SP   | Instant: 36\~48 SP   |
-| Instant: 18\~24 SP   |                      |                      |
-|                      | Over: 9\~18 SP       | Over: 12\~24 SP      |
-| Over: 6\~12 SP       |                      |                      |
-|                      | LV 40                | LV 60                |
-| LV 20                |                      |                      |
-+----------------------+----------------------+----------------------+
-| **Peach Juice**      | **Pineapple Juice**  |                      |
->>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
-|                      |                      |                      |
-| ![](media/im         | ![](media/im         |                      |
-| age194.png){width="1 | age134.png){width="1 |                      |
-| .8645833333333333in" | .8541666666666667in" |                      |
-| height="0.           | height="0.           |                      |
-| 8958333333333334in"} | 8541666666666666in"} |                      |
-|                      |                      |                      |
-| Instant: 36\~48 SP   | Instant: 45\~60 SP   |                      |
-|                      |                      |                      |
-| Over: 12\~24 SP      | Over: 15\~30 SP      |                      |
-|                      |                      |                      |
-| Lv 60                | LV 80                |                      |
-<<<<<<< HEAD
-=======
-+----------------------+----------------------+----------------------+
->>>>>>> fbd89a8835bdd76a5cb50db75c6583dcb682a27c
-
-Então vamos supor o Suco de Maçã e os valores mínimos, você vai curar
-instantaneamente **32 de HP** e mais **12 de HP** nos próximos 4
-segundos, totalizando **80 de HP** recuperado.
-
-Já uma poção vermelha considerando o valor mínimo, vai te curar
-instantaneamente em **40 de HP** e mais **20 de HP** nos próximos 4
-segundos, totalizando **120 de HP** recuperado.
-
-Então, sim, a poção cura sempre um pouco mais do que o suco equivalente,
-mas o suco é MUITO mais barato do que uma poção.
-
-Primeiro porque você vai dropar os itens de suco enquanto enfrenta
-monstros, então acaba sendo uma poção muito mais barata, já que apenas
-precisa comprar o Empty Juice Bottle (15z).
-
-Segundo, que em Prontera tem a vendedora de vegetais (49,58), que vende
-Cenoura por 35z e Abóbora também por 215z.
-
-O suco de cenoura (45z) é equivalente a uma Poção Laranja (70z) e o suco
-de abóbora (230z) é equivalente a uma Poção Branca (815z).
-
-E temos também em Prontera a vendedora de frutas (101 49) que vende Maça
-(5z), Banana (95z) e Melão (45z). Sendo o melão um suco de SP!!!
-
-Ozzi: Como diria o Toguro em Yu Yu Hakusho, "eu prefiro um suco de
-laranja 😎"
-
----{width="1.0674420384951882in"
-height="0.9340113735783027in"}
-
+!!! quote "Dica do Ozzi"
+    Como diria o Toguro em Yu Yu Hakusho, "eu prefiro um suco de laranja 😎"
