@@ -49,7 +49,7 @@ Dropa de **Teddy Bear**, um monstro level 91 que também fica no segundo andar d
 ### Harve (nv 65)
 Dropa de **Rakehand**, um monstro level 110 que é encontrado nos 3 andares do Vulcão de Thor (thor_v0*). 
 
-* **Dica de Farm:** Se você tiver outro personagem mais forte que já consiga matar esse monstro facilmente e de preferência em área, cace com ele.
+* **Dica de Farm:** Se você tiver outro personagem mais forte que já consiga matar esses monstros facilmente e de preferência em área, cace com ele.
 
 * **Objetivo:** Tente dropar várias lanças para conseguir as melhores *Singularities* (bônus aleatórios) e a melhor estrela.
 
