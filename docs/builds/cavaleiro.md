@@ -34,19 +34,26 @@ O foco principal é o spam da habilidade **Pierce**. No entanto, as *Legacy Skil
 ### Legacy Skills (Ordem Recomendada)
 1.  **Magnum Implosion:** Escolha esta primeiro. Ela altera o funcionamento do *Magnum Break*. Ao invés de empurrar os inimigos para longe, ela **puxa os inimigos para perto** de você, facilitando o controle de mob e o uso de habilidades.
 2.  **Heavy Armor Mastery:** Sua segunda escolha. Confere **+50% de Hard Defense** e, crucialmente, **impede que você seja empurrado** (efeito de Knockback), garantindo que você se mantenha colado no alvo spamando Pierce.
+3.  **High Guard:** Skill para ativar que aumenta sua soft defende
 
 ## ⚔️ Equipamentos e Armas
 
-Para começar com o pé direito, uma lança forte e farmável como a **Halberd** é altamente recomendada, além de uma armadura o mais pesada possível, pra combinar com o bônus de defesa da Legacy Skill, como uma **Full Plate**.
+Para começar com o pé direito, uma lança forte e farmável como a **Halberd** (duas mãos) ou **Trident** (uma mão) é altamente recomendada, além de uma armadura o mais pesada possível, pra combinar com o bônus de defesa da Legacy Skill, como uma **Chain Mail** e depois uma **Full Plate**.
 
-### Halberd
-Dropa de **Old Stove**, um monstro level 92. 
+### Halberd (nv 50)
+Dropa de **Old Stove**, um monstro level 92 que fica no segundo andar da mina de Einbech (ein_dun02). 
 
-* **Dica de Farm:** Se você tiver outro personagem mais forte que já consiga matar esse monstro facilmente e de preferência em área, vá caçar Old Stoves com ele.
+### Trident (nv 50)
+Dropa de **Teddy Bear**, um monstro level 91 que também fica no segundo andar da mina de Einbech (ein_dun02). 
 
-* **Objetivo:** Tente dropar várias Halberds (cerca de 20 armas seria o ideal) para conseguir as melhores *Singularities* (bônus aleatórios).
+### Harve (nv 65)
+Dropa de **Rakehand**, um monstro level 110 que é encontrado nos 3 andares do Vulcão de Thor (thor_v0*). 
 
-* **Bônus Ideal:** Procure por armas que venham com 3 atributos focados em **ASPD** (Velocidade de Ataque) ou **DAA** (Delay After Attack). Isso fará seu personagem começar muito forte, pois já aumentará bastante a velocidade de uso do **Pierce**.
+* **Dica de Farm:** Se você tiver outro personagem mais forte que já consiga matar esse monstro facilmente e de preferência em área, cace com ele.
+
+* **Objetivo:** Tente dropar várias lanças para conseguir as melhores *Singularities* (bônus aleatórios) e a melhor estrela.
+
+* **Bônus Ideal:** Procure por armas que venham com 3 atributos focados em **ASPD** (Velocidade de Ataque) ou **DAA** (Delay After Attack). Isso fará seu personagem começar muito forte, pois já aumentará bastante o dano e a velocidade de uso do **Pierce**.
 
 ### Sustentabilidade (SP)
 O maior gargalo dessa build é o consumo de SP, pois você usará o Pierce repetidamente como se fosse um ataque básico.
