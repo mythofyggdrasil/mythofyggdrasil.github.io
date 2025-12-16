@@ -32,9 +32,10 @@ O foco principal é o spam da habilidade **Pierce**. No entanto, as *Legacy Skil
 5.  **Peco Peco/Riding**: Quem não gosta de correr montado no Peco? Pegue essas skills assim que possível pra poder montar seu Peco Peco.
 
 ### Legacy Skills (Ordem Recomendada)
-1.  **Magnum Implosion:** Escolha esta primeiro. Ela altera o funcionamento do *Magnum Break*. Ao invés de empurrar os inimigos para longe, ela **puxa os inimigos para perto** de você, facilitando o controle de mob e o uso de habilidades.
-2.  **Heavy Armor Mastery:** Sua segunda escolha. Confere **+50% de Hard Defense** e, crucialmente, **impede que você seja empurrado** (efeito de Knockback), garantindo que você se mantenha colado no alvo spamando Pierce.
-3.  **High Guard:** Skill para ativar que aumenta sua soft defende
+1.  **Magnum Implosion:** Eu sempre escolho esta primeiro, mas ela é útil apenas nos níveis mais baixos, então se conseguir upar sem ela, pode pular. Ela altera o funcionamento do *Magnum Break*. Ao invés de empurrar os inimigos para longe, ela **puxa os inimigos para perto** de você, facilitando o controle de mob e o uso de habilidades.
+2.  **Heavy Armor Mastery:** Sua segunda (ou primeira se pulou a outra) escolha. Confere **+50% de Hard Defense** e, crucialmente, **impede que você seja empurrado** (efeito de Knockback), garantindo que você se mantenha colado no alvo spamando Pierce.
+3.  **High Guard:** Skill para ativar que aumenta sua **Soft Defense em 25%**
+4.  **Fatal Blade:** Se pulou o Magnum Implosion, pode pegar essa que dá chance de causar **Stun** nos inimigos por 2 segundos e aumenta o dano em inimigos stunados em **10%**.
 
 ## ⚔️ Equipamentos e Armas
 
