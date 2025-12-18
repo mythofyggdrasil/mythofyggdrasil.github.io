@@ -53,17 +53,17 @@ Abaixo estão as localizações mais fáceis para comprar ou fabricar os itens:
 
     ![Vendedor de Presentes em Prontera](/assets/images/vending_quest/image_7.png)
 
-3.  **2 Bouquets (Buquês de Flores):** Compre com a **Flower Lady** no sudoeste de Prontera por 4.000z.
+3.  **2 Bouquets (Buquês de Flores):** Compre com a **Flower Lady** no sudoeste de Prontera por 4.000z:
 `/navi prontera 109/46`
 
     ![Vendedora de Flores](/assets/images/vending_quest/image_8.png)
 
-4.  **15 Bread (Pão):** Compre com o **Chef Assistant** dentro da Loja de Utilidades (Tool Shop) de Prontera por 2.250z.
+4.  **15 Bread (Pão):** Compre com o **Chef Assistant** dentro da Loja de Utilidades (Tool Shop) de Prontera por 2.250z:
 `/navi prt_in 122/69`
 
     ![Vendedor de Pão](/assets/images/vending_quest/image_9.png)
 
-5.  **5 Grape Juice (Suco de Uva):** Podem ser fabricados na **Taverna de Prontera**. Você precisará de 5 *Empty Juice Bottles* (125z) e 5 *Grapes* (Uvas).
+5.  **5 Grape Juice (Suco de Uva):** Podem ser fabricados na **Taverna de Prontera**. Você precisará de 5 *Empty Juice Bottles* (125z) e 5 *Grapes* (Uvas):
 `/navi prt_in 134/35`
 
     ![Criação de Suco de Uva](/assets/images/vending_quest/image_10.png)
