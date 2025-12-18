@@ -22,7 +22,7 @@ Vá até a **Guilda dos Mercadores em Alberta** e fale com o **Business Coach**.
 ### Passo 2: Contratação de Assistente Doram
 Ele pedirá que você fale com o **Doram Hiring Agent**, localizado em uma das casas (cottage) de Alberta. Você precisará pagar uma taxa de contratação de **5.000 zeny**.
 
-Use o comando abaixo para encontrar o local exato:
+Use esse comando para encontrar o local exato:
 `/navi alberta_in 153/161`
 
 ![Doram Hiring Agent](/assets/images/vending_quest/image_3.png)
@@ -43,19 +43,29 @@ O Agente Comercial pedirá que você colete uma lista específica de materiais p
 
 Abaixo estão as localizações mais fáceis para comprar ou fabricar os itens:
 
-1.  **15 Meat (Carne):** Compre no **Butcher** por 750z. Existe um em Izlude, logo à direita do Agente Comercial.
+1.  **15 Meat (Carne):** Compre no **Butcher** por 750z. Existe um em Izlude, logo à direita do Agente Comercial:
+`/navi izlude 161/185`
+
     ![Açougueiro em Izlude](/assets/images/vending_quest/image_6.png)
 
-2.  **5 China, 4 Chung Jah e 3 Red Frame:** Compre no **Prontera Gift Merchant** (Vendedor de Presentes) no sudoeste de Prontera por 34.000z.
+2.  **5 China, 4 Chung Jah e 3 Red Frame:** Compre no **Prontera Gift Merchant** (Vendedor de Presentes) no sudoeste de Prontera por 34.000z:
+`/navi prontera 105/87`
+
     ![Vendedor de Presentes em Prontera](/assets/images/vending_quest/image_7.png)
 
 3.  **2 Bouquets (Buquês de Flores):** Compre com a **Flower Lady** no sudoeste de Prontera por 4.000z.
+`/navi prontera 109/46`
+
     ![Vendedora de Flores](/assets/images/vending_quest/image_8.png)
 
 4.  **15 Bread (Pão):** Compre com o **Chef Assistant** dentro da Loja de Utilidades (Tool Shop) de Prontera por 2.250z.
+`/navi prt_in 122/69`
+
     ![Vendedor de Pão](/assets/images/vending_quest/image_9.png)
 
 5.  **5 Grape Juice (Suco de Uva):** Podem ser fabricados na **Taverna de Prontera**. Você precisará de 5 *Empty Juice Bottles* (125z) e 5 *Grapes* (Uvas).
+`/navi prt_in 134/35`
+
     ![Criação de Suco de Uva](/assets/images/vending_quest/image_10.png)
 
 ---
