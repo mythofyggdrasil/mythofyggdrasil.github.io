@@ -5,7 +5,7 @@ layout: page
 
 # 💰 Quest da Habilidade Comércio (Vending)
 
-Esta versão do guia reflete a **versão oficial de lançamento** do Myth of Yggdrasil. Note que a quest foi alterada em relação ao período Beta. No Beta, o processo era mais curto, mas agora exige uma jornada entre Alberta, Izlude e Prontera.
+Esta versão do guia reflete a **versão oficial de lançamento** do Myth of Yggdrasil. Note que a quest foi alterada em relação ao período Beta. Agora, ela exige uma jornada entre Alberta, Izlude e Prontera.
 
 ### 🪙 Preparação Financeira
 Se você pretende comprar todos os itens de NPCs, prepare um total de **71.125 zeny**.
@@ -43,23 +43,24 @@ O Agente Comercial pedirá que você colete uma lista específica de materiais p
 
 Abaixo estão as localizações mais fáceis para comprar ou fabricar os itens:
 
-1.  **15 Meat (Carne):** Compre no **Butcher** por 750z. Existe um em Izlude, logo à direita do Agente Comercial onde você iniciou este passo.
+1.  **15 Meat (Carne):** Compre no **Butcher** por 750z. Existe um em Izlude, logo à direita do Agente Comercial.
     ![Açougueiro em Izlude](/assets/images/vending_quest/image_6.png)
 
-2.  **5 China, 4 Chung Jah e 3 Red Frame:** Compre no **Prontera Gift Merchant** (Vendedor de Presentes) no sudoeste de Prontera. O custo total é de 34.000z.
+2.  **5 China, 4 Chung Jah e 3 Red Frame:** Compre no **Prontera Gift Merchant** (Vendedor de Presentes) no sudoeste de Prontera por 34.000z.
     ![Vendedor de Presentes em Prontera](/assets/images/vending_quest/image_7.png)
 
-3.  **2 Bouquets (Buquês de Flores):** Compre com a **Flower Lady** também no sudoeste de Prontera por 4.000z.
+3.  **2 Bouquets (Buquês de Flores):** Compre com a **Flower Lady** no sudoeste de Prontera por 4.000z.
     ![Vendedora de Flores](/assets/images/vending_quest/image_8.png)
 
 4.  **15 Bread (Pão):** Compre com o **Chef Assistant** dentro da Loja de Utilidades (Tool Shop) de Prontera por 2.250z.
     ![Vendedor de Pão](/assets/images/vending_quest/image_9.png)
 
-5.  **5 Grape Juice (Suco de Uva):** Podem ser fabricados na **Taverna de Prontera**. Você precisará comprar 5 *Empty Juice Bottles* com o Barkeeper (125z) e ter 5 *Grapes* (Uvas), que podem ser dropadas de Poporings ou Familiares.
+5.  **5 Grape Juice (Suco de Uva):** Podem ser fabricados na **Taverna de Prontera**. Você precisará de 5 *Empty Juice Bottles* (125z) e 5 *Grapes* (Uvas).
     ![Criação de Suco de Uva](/assets/images/vending_quest/image_10.png)
 
 ---
 
 ### Passo 6: Finalização
 Após entregar os materiais para o **Commercial Agent** em Izlude, volte à **Guilda dos Mercadores em Alberta** para falar com o Business Coach uma última vez. A quest estará concluída e a habilidade Comércio será sua!
-    ![Descrição da skill](/assets/images/vending_quest/image_11.png)
+
+![Descrição da skill](/assets/images/vending_quest/image_11.png)
