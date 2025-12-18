@@ -133,6 +133,7 @@ Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor
 
 ### Quests e Itens
 - [Quests de Chapéus](hat-quests.md) - Guia completo de quests para chapéus e equipamentos de cabeça
+- [Quest de Comércio](quest-comercio.md) - Guia completo para fazer a quest de comércio e poder vender itens na lojinha.
 
 ---
 
