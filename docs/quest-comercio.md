@@ -62,5 +62,5 @@ Abaixo estão as localizações mais fáceis para comprar ou fabricar os itens:
 
 ### Passo 6: Finalização
 Após entregar os materiais para o **Commercial Agent** em Izlude, volte à **Guilda dos Mercadores em Alberta** para falar com o Business Coach uma última vez. A quest estará concluída e a habilidade Comércio será sua!
-
+    ![Descrição da skill](/assets/images/vending_quest/image_11.png)
 **Custo total da jornada:** 71.125 zeny.
