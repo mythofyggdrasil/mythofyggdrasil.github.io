@@ -5,7 +5,7 @@ layout: page
 
 # 💰 Quest da Habilidade Comércio (Vending)
 
-Esta versão do guia reflete a **versão oficial de lançamento** do Myth of Yggdrasil. Note que a quest foi alterada em relação ao período Beta. Agora, ela exige uma jornada entre Alberta, Izlude e Prontera.
+Nesse servidor, **todos podem abrir uma lojinha com a skill de Comércio**, não sendo mais limitada apenas aos Mercadores. A skill é liberada por meio de uma quest, se você quer ter a sua lojinha também, é só seguir essas instruções!
 
 ### 🪙 Preparação Financeira
 Se você pretende comprar todos os itens de NPCs, prepare um total de **71.125 zeny**.
