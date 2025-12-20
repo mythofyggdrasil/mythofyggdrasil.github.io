@@ -145,6 +145,6 @@ Em Dungeons, TODOS os monstros são agressivos! Vá preparado.
 
 ---
 
-*![Logo do Myth](/assets/images/intro_images/myth_logo.png) Myth of Yggdrasil*
+*![Logo do Myth](/assets/images/intro_images/myth_logo.png)*
 
 ---
