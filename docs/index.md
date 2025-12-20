@@ -1,4 +1,4 @@
-# ![Logo do Myth](/assets/images/intro_images/myth_logo.png)Myth of Yggdrasil Wiki
+# ![Logo do Myth](/assets/images/intro_images/myth_logo.png) Myth of Yggdrasil Wiki
 
 <div style="text-align: center; margin: 2rem 0;">
     <h1>🌳 Bem-vindo à Wiki do Myth of Yggdrasil! 🌳</h1>
