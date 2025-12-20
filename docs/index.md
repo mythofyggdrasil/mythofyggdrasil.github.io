@@ -1,7 +1,7 @@
-# ![Logo do Myth](/assets/images/intro_images/myth_logo.png) Myth of Yggdrasil Wiki
+#  ![Logo da Wiki](/assets/images/intro_images/myth_wiki.png)
 
 <div style="text-align: center; margin: 2rem 0;">
-    <h1>🌳 Bem-vindo à Wiki do Myth of Yggdrasil! 🌳</h1>
+    <h1>![Logo do Myth](/assets/images/intro_images/myth_logo.png) Bem-vindos à Wiki do Myth of Yggdrasil!</h1>
 </div>
 
 Esta wiki é um guia completo para o servidor **Myth of Yggdrasil**, um servidor privado de Ragnarok Online com diversas modificações e melhorias. Aqui você encontrará informações detalhadas sobre sistemas, mecânicas, classes, itens e muito mais.
