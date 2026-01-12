@@ -8,7 +8,7 @@
 
     Acesse a calculadora completa com todas as funcionalidades em uma página otimizada.
 
-    [:octicons-arrow-right-24: Abrir Calculadora](calculator.html){ .md-button .md-button--primary }
+    [:octicons-arrow-right-24: Abrir Calculadora](calculator.html){ .md-button .md-button--primary target="_blank" }
 
 -   :material-cog:{ .lg .middle } __Funcionalidades__
 
@@ -58,8 +58,3 @@
 <p class="admonition-title">Créditos</p>
 Valeu Sinergia e Sweet pelos cálculos e planilha.
 </div>
-
----
-
-[:material-download:](../tools/calculator.html){ .md-button .md-button--primary target="_blank" }
-*Abre em nova janela para melhor experiência*
