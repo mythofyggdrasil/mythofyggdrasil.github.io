@@ -1,4 +1,4 @@
-#  ![Logo da Wiki](/assets/images/intro_images/myth_wiki.png)
+#  ![Logo da Wiki](/assets/images/intro_images/myth_wiki.png){ .img-sem-bordas }
 
 Esta wiki é um guia completo feito com a contribuição dos jogadores para o **Myth of Yggdrasil**, um servidor privado de Ragnarok Online com diversas modificações e melhorias. Aqui você encontrará informações detalhadas sobre sistemas, mecânicas, classes, itens e muito mais.
 
@@ -145,6 +145,6 @@ Em Dungeons, TODOS os monstros são agressivos! Vá preparado.
 
 ---
 
-*![Logo do Myth](/assets/images/intro_images/myth_logo.png)*
+*![Logo do Myth](/assets/images/intro_images/myth_logo.png){ .img-sem-bordas }*
 
 ---

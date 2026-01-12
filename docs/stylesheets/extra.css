@@ -51,3 +51,69 @@
   background: var(--md-primary-fg-color);
   color: var(--md-primary-bg-color);
 }
+
+/* Inline /navi copy button */
+.navi-copy-wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.navi-copy {
+  font-size: 0.65rem;
+  line-height: 1;
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.3rem;
+  border: 1px solid var(--md-primary-fg-color);
+  background: transparent;
+  color: var(--md-primary-fg-color);
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.navi-copy:hover {
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+}
+
+.navi-copy.is-copied {
+  border-color: var(--md-accent-fg-color);
+  color: var(--md-accent-fg-color);
+}
+
+.navi-copy.is-copied:hover {
+  background: var(--md-accent-fg-color);
+  color: var(--md-primary-bg-color);
+}
+
+/* Estilo das imagens */
+.md-typeset img,.md-typeset video {
+    height: auto;
+    max-width: 100%;
+    border-radius: 7px;
+    border: 1px solid #ffffff;
+    /* box-shadow: 0px 0px 10px 1px #00000057; */
+    outline: 1px solid #00000021;
+}
+.md-typeset table img,.md-typeset table video {
+  border-radius: 6px;
+  box-shadow: none;
+  border: 0px solid #ffffff;
+  outline: 0px solid #00000021;
+}
+.md-typeset .img-sem-bordas {
+  border-radius: 12px;
+  box-shadow: none;
+  border: 0px solid #ffffff;
+  outline: 0px solid #00000021;
+}
+.md-typeset .twemoji {
+  border-radius: 12px;
+  box-shadow: none;
+  border: 0px solid #ffffff;
+  outline: 0px solid #00000021;
+}
+.md-typeset .md-button {
+    border-radius: 10px ;
+}
