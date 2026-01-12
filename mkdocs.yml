@@ -10,6 +10,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - toc.follow
+    - content.code.copy
     - search.suggest
     - search.highlight
   palette:
@@ -46,6 +47,9 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/copy-navi.js
 
 nav:
   - Início: index.md
