@@ -1,6 +1,6 @@
 # 🌳 Myth of Yggdrasil — Wiki Oficial
 
-![Static Badge](https://img.shields.io/badge/build-Myth%20of%20Yggdrail-blue?style=for-the-badge&label=Acessar%20Wiki&link=https%3A%2F%2Fmythofyggdrasil.github.io%2F)
+[![Static Badge](https://img.shields.io/badge/Acessar%20Wiki-blue?style=for-the-badge&label=Myth%20of%20Yggdrasil&link=https%3A%2F%2Fmythofyggdrasil.github.io)](https://mythofyggdrasil.github.io/)
 
 Este repositório contém o código-fonte e o conteúdo da **Wiki Oficial do Myth of Yggdrasil**, um servidor privado de Ragnarok Online focado em uma experiência de jogo renovada, com mecânicas únicas e uma forte ênfase em *lore* e *quests*.
 
